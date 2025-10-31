@@ -1,0 +1,129 @@
+==========================================
+SABR参数拟合开始时间: 2025-10-18 11:20:33
+分钟: 2025-08-20 10:00:00 | 划分: forecast
+标记列: train_flag_inter
+==========================================
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+筛选分钟: 2025-08-20 10:00:00
+筛选后数据行数: 86
+按照 train_flag_inter=1 筛选后数据行数: 86
+对分钟 2025-08-20 10:00:00 拟合SABR参数，共 4 个到期日
+  到期日 2025-09-19: RMSE=0.019539, MAPE=0.063660, 样本数=33
+    参数: alpha=10.4186, rho=0.3402, volvar=3.7808
+  到期日 2025-10-17: RMSE=0.003292, MAPE=0.012728, 样本数=23
+    参数: alpha=11.6110, rho=0.2573, volvar=2.2656
+  到期日 2025-12-19: RMSE=0.004075, MAPE=0.015926, 样本数=16
+    参数: alpha=12.4648, rho=0.3654, volvar=1.2709
+calibrate sabr-model wrong, wrong @ 0 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 1 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 2 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 3 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 4 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 5 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 6 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 7 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 8 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 9 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 10 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 11 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 12 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 13 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 14 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 15 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 16 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 17 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 18 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 19 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 20 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 21 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 22 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 23 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 24 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 25 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 26 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 27 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 28 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 29 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 30 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 31 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 32 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 33 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 34 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 35 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 36 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 37 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 38 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 39 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 40 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 41 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 42 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 43 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 44 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 45 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 46 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 47 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 48 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 49 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 50 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 51 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 52 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 53 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 54 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 55 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 56 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 57 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 58 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 59 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 60 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 61 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 62 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 63 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 64 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 65 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 66 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 67 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 68 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 69 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 70 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 71 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 72 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 73 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 74 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 75 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 76 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 77 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 78 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 79 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 80 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 81 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 82 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 83 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 84 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 85 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 86 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 87 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 88 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 89 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 90 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 91 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 92 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 93 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 94 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 95 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 96 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 97 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 98 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+calibrate sabr-model wrong, wrong @ 99 /100! params: [ 1.31075474e+01 -3.39223541e-01  1.00000000e-04]
+  到期日 2026-06-19: RMSE=0.016642, MAPE=0.069571, 样本数=14
+    参数: alpha=13.1075, rho=-0.3392, volvar=0.0001
+
+✅ SABR参数拟合完成!
+   分钟: 2025-08-20 10:00:00
+   到期日数量: 4
+   参数文件: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-20_10_00_00.pkl
+   平均RMSE: 0.010887
+   平均MAPE: 0.040471
+
+==========================================
+SABR参数拟合结束时间: 2025-10-18 11:20:42
+==========================================

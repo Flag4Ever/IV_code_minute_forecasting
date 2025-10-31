@@ -1,0 +1,29 @@
+==========================================
+SVI拟合开始时间: 2025-10-18 10:45:26
+分钟: 2025-08-13 13:00:00 | 划分: forecast
+标记列: train_flag_inter
+==========================================
+/home/douxueli/miniconda3/envs/iv/lib/python3.11/site-packages/scipy/optimize/_optimize.py:404: RuntimeWarning: Values in x were outside bounds during a minimize step, clipping to bounds
+  warnings.warn("Values in x were outside bounds during a "
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+筛选分钟: 2025-08-13 13:00:00
+筛选后数据行数: 120
+按照 train_flag_inter=1 筛选后数据行数: 120
+对分钟 2025-08-13 13:00:00 拟合SVI参数，共 6 个到期日
+  到期日 2025-08-15: RMSE=0.034918, MAPE=0.080488, 样本数=24
+  到期日 2025-09-19: RMSE=0.005024, MAPE=0.016008, 样本数=32
+  到期日 2025-10-17: RMSE=0.005022, MAPE=0.020800, 样本数=21
+  到期日 2025-12-19: RMSE=0.001940, MAPE=0.008720, 样本数=15
+  到期日 2026-03-20: RMSE=0.002900, MAPE=0.011037, 样本数=15
+  到期日 2026-06-19: RMSE=0.006585, MAPE=0.027589, 样本数=13
+
+✅ SVI参数拟合完成!
+   分钟: 2025-08-13 13:00:00
+   到期日数量: 6
+   参数文件: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-13_13_00_00.pkl
+   平均RMSE: 0.009398
+   平均MAPE: 0.027440
+
+==========================================
+SVI拟合结束时间: 2025-10-18 10:45:33
+==========================================

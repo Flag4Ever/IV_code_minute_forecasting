@@ -1,0 +1,1262 @@
+==========================================
+SVI跨分钟批量测试开始时间: 2025-10-18 10:51:47
+模型来源标记列: train_flag_inter
+测试偏移: 10 分钟
+==========================================
+源分钟: 2025-08-04 09:30:00 -> 测试分钟: 2025-08-04 09:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-04_09_30_00.pkl
+成功加载SVI参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-04 09:40:00 (模型来自 2025-08-04 09:30:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-04 09:40:00	2025-08-04 09:30:00	forecast	clear	0.005481002723728711	0.016186174431596746	3.8402931766686423	0.06334000401385816	0	0.0
+RMSE: 0.005481 | MAPE: 0.016186 | Price RMSE: 3.840293 | Price MAPE: 0.063340
+
+所有指定分钟测试完成
+源分钟: 2025-08-04 10:00:00 -> 测试分钟: 2025-08-04 10:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-04_10_00_00.pkl
+成功加载SVI参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-04 10:10:00 (模型来自 2025-08-04 10:00:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-04 10:10:00	2025-08-04 10:00:00	forecast	clear	0.003834075698092569	0.014822218554762054	1.8633332787487311	0.060596726724170935	0	0.0
+RMSE: 0.003834 | MAPE: 0.014822 | Price RMSE: 1.863333 | Price MAPE: 0.060597
+
+所有指定分钟测试完成
+源分钟: 2025-08-04 10:30:00 -> 测试分钟: 2025-08-04 10:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-04_10_30_00.pkl
+成功加载SVI参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-04 10:40:00 (模型来自 2025-08-04 10:30:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-04 10:40:00	2025-08-04 10:30:00	forecast	clear	0.004023836426191407	0.01269286045891875	1.1974955286767917	0.05537692311784868	0	0.0
+RMSE: 0.004024 | MAPE: 0.012693 | Price RMSE: 1.197496 | Price MAPE: 0.055377
+
+所有指定分钟测试完成
+源分钟: 2025-08-04 11:00:00 -> 测试分钟: 2025-08-04 11:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-04_11_00_00.pkl
+成功加载SVI参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-04 11:10:00 (模型来自 2025-08-04 11:00:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-04 11:10:00	2025-08-04 11:00:00	forecast	clear	0.0032190231336981386	0.01140548236876044	1.373941028829325	0.054207739766896745	0	0.0
+RMSE: 0.003219 | MAPE: 0.011405 | Price RMSE: 1.373941 | Price MAPE: 0.054208
+
+所有指定分钟测试完成
+源分钟: 2025-08-04 11:20:00 -> 测试分钟: 2025-08-04 11:30:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-04_11_20_00.pkl
+成功加载SVI参数，包含 5 个到期日
+
+===== 测试分钟 2025-08-04 11:30:00 (模型来自 2025-08-04 11:20:00) =====
+⚠️  到期日 2025-12-19 无对应的SVI参数，跳过
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-04 11:30:00	2025-08-04 11:20:00	forecast	clear	0.0047656167202334895	0.016728749739949696	1.5124930139723367	0.057544360435081474	0	0.0
+RMSE: 0.004766 | MAPE: 0.016729 | Price RMSE: 1.512493 | Price MAPE: 0.057544
+
+所有指定分钟测试完成
+源分钟: 2025-08-04 13:00:00 -> 测试分钟: 2025-08-04 13:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-04_13_00_00.pkl
+成功加载SVI参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-04 13:10:00 (模型来自 2025-08-04 13:00:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-04 13:10:00	2025-08-04 13:00:00	forecast	clear	0.004075532337002047	0.010873699256563668	0.660502404662324	0.04231759212782438	0	0.0
+RMSE: 0.004076 | MAPE: 0.010874 | Price RMSE: 0.660502 | Price MAPE: 0.042318
+
+所有指定分钟测试完成
+源分钟: 2025-08-04 13:30:00 -> 测试分钟: 2025-08-04 13:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-04_13_30_00.pkl
+成功加载SVI参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-04 13:40:00 (模型来自 2025-08-04 13:30:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-04 13:40:00	2025-08-04 13:30:00	forecast	clear	0.0044381582919682545	0.015228581268381686	1.0892193788512319	0.061708089362438705	0	0.0
+RMSE: 0.004438 | MAPE: 0.015229 | Price RMSE: 1.089219 | Price MAPE: 0.061708
+
+所有指定分钟测试完成
+源分钟: 2025-08-04 14:00:00 -> 测试分钟: 2025-08-04 14:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-04_14_00_00.pkl
+成功加载SVI参数，包含 5 个到期日
+
+===== 测试分钟 2025-08-04 14:10:00 (模型来自 2025-08-04 14:00:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-04 14:10:00	2025-08-04 14:00:00	forecast	clear	0.003690916450759825	0.012147258096472961	2.6584228351525776	0.04849350641985333	0	0.0
+RMSE: 0.003691 | MAPE: 0.012147 | Price RMSE: 2.658423 | Price MAPE: 0.048494
+
+所有指定分钟测试完成
+源分钟: 2025-08-04 14:30:00 -> 测试分钟: 2025-08-04 14:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-04_14_30_00.pkl
+成功加载SVI参数，包含 5 个到期日
+
+===== 测试分钟 2025-08-04 14:40:00 (模型来自 2025-08-04 14:30:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-04 14:40:00	2025-08-04 14:30:00	forecast	clear	0.004311126171984122	0.014167366927837776	1.6156057307897917	0.06258337868575804	0	0.0
+RMSE: 0.004311 | MAPE: 0.014167 | Price RMSE: 1.615606 | Price MAPE: 0.062583
+
+所有指定分钟测试完成
+源分钟: 2025-08-04 14:50:00 -> 测试分钟: 2025-08-04 15:00:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-04_14_50_00.pkl
+成功加载SVI参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-04 15:00:00 (模型来自 2025-08-04 14:50:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-04 15:00:00	2025-08-04 14:50:00	forecast	clear	0.004336234700244761	0.01512177171214882	3.4614316744735563	0.05530220739219375	0	0.0
+RMSE: 0.004336 | MAPE: 0.015122 | Price RMSE: 3.461432 | Price MAPE: 0.055302
+
+所有指定分钟测试完成
+源分钟: 2025-08-06 09:30:00 -> 测试分钟: 2025-08-06 09:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-06_09_30_00.pkl
+成功加载SVI参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-06 09:40:00 (模型来自 2025-08-06 09:30:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-06 09:40:00	2025-08-06 09:30:00	forecast	clear	0.004819438377718215	0.0166772570723497	6.4814178074262	0.0629637441808783	0	0.0
+RMSE: 0.004819 | MAPE: 0.016677 | Price RMSE: 6.481418 | Price MAPE: 0.062964
+
+所有指定分钟测试完成
+源分钟: 2025-08-06 10:00:00 -> 测试分钟: 2025-08-06 10:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-06_10_00_00.pkl
+成功加载SVI参数，包含 5 个到期日
+
+===== 测试分钟 2025-08-06 10:10:00 (模型来自 2025-08-06 10:00:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-06 10:10:00	2025-08-06 10:00:00	forecast	clear	0.003907399393099786	0.01161986379108501	0.39371123501785443	0.06795736984475312	0	0.0
+RMSE: 0.003907 | MAPE: 0.011620 | Price RMSE: 0.393711 | Price MAPE: 0.067957
+
+所有指定分钟测试完成
+源分钟: 2025-08-06 10:30:00 -> 测试分钟: 2025-08-06 10:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-06_10_30_00.pkl
+成功加载SVI参数，包含 4 个到期日
+
+===== 测试分钟 2025-08-06 10:40:00 (模型来自 2025-08-06 10:30:00) =====
+⚠️  到期日 2026-03-20 无对应的SVI参数，跳过
+⚠️  到期日 2026-06-19 无对应的SVI参数，跳过
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-06 10:40:00	2025-08-06 10:30:00	forecast	clear	0.0032148785308563563	0.010965379940178469	1.1317677447003902	0.05157000038589454	0	0.0
+RMSE: 0.003215 | MAPE: 0.010965 | Price RMSE: 1.131768 | Price MAPE: 0.051570
+
+所有指定分钟测试完成
+源分钟: 2025-08-06 11:00:00 -> 测试分钟: 2025-08-06 11:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-06_11_00_00.pkl
+成功加载SVI参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-06 11:10:00 (模型来自 2025-08-06 11:00:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-06 11:10:00	2025-08-06 11:00:00	forecast	clear	0.0032182083351396445	0.01149052803875916	1.702578324187227	0.04459350077735103	0	0.0
+RMSE: 0.003218 | MAPE: 0.011491 | Price RMSE: 1.702578 | Price MAPE: 0.044594
+
+所有指定分钟测试完成
+源分钟: 2025-08-06 11:20:00 -> 测试分钟: 2025-08-06 11:30:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-06_11_20_00.pkl
+成功加载SVI参数，包含 3 个到期日
+
+===== 测试分钟 2025-08-06 11:30:00 (模型来自 2025-08-06 11:20:00) =====
+⚠️  到期日 2025-12-19 无对应的SVI参数，跳过
+⚠️  到期日 2026-03-20 无对应的SVI参数，跳过
+⚠️  到期日 2026-06-19 无对应的SVI参数，跳过
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-06 11:30:00	2025-08-06 11:20:00	forecast	clear	0.004156068572159808	0.016467086050009763	2.1258452385808524	0.05718210535115645	0	0.0
+RMSE: 0.004156 | MAPE: 0.016467 | Price RMSE: 2.125845 | Price MAPE: 0.057182
+
+所有指定分钟测试完成
+源分钟: 2025-08-06 13:00:00 -> 测试分钟: 2025-08-06 13:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-06_13_00_00.pkl
+成功加载SVI参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-06 13:10:00 (模型来自 2025-08-06 13:00:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-06 13:10:00	2025-08-06 13:00:00	forecast	clear	0.004221952711962057	0.015028933435895354	2.2429446849501455	0.04887337772030154	0	0.0
+RMSE: 0.004222 | MAPE: 0.015029 | Price RMSE: 2.242945 | Price MAPE: 0.048873
+
+所有指定分钟测试完成
+源分钟: 2025-08-06 13:30:00 -> 测试分钟: 2025-08-06 13:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-06_13_30_00.pkl
+成功加载SVI参数，包含 4 个到期日
+
+===== 测试分钟 2025-08-06 13:40:00 (模型来自 2025-08-06 13:30:00) =====
+⚠️  到期日 2025-10-17 无对应的SVI参数，跳过
+⚠️  到期日 2026-06-19 无对应的SVI参数，跳过
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-06 13:40:00	2025-08-06 13:30:00	forecast	clear	0.0028676822199153315	0.00986818603932353	1.6570914010267108	0.053106977019280605	0	0.0
+RMSE: 0.002868 | MAPE: 0.009868 | Price RMSE: 1.657091 | Price MAPE: 0.053107
+
+所有指定分钟测试完成
+源分钟: 2025-08-06 14:00:00 -> 测试分钟: 2025-08-06 14:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-06_14_00_00.pkl
+成功加载SVI参数，包含 5 个到期日
+
+===== 测试分钟 2025-08-06 14:10:00 (模型来自 2025-08-06 14:00:00) =====
+⚠️  到期日 2025-12-19 无对应的SVI参数，跳过
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-06 14:10:00	2025-08-06 14:00:00	forecast	clear	0.005890314998969991	0.024134667464305995	5.565419822525154	0.05514783188085232	0	0.0
+RMSE: 0.005890 | MAPE: 0.024135 | Price RMSE: 5.565420 | Price MAPE: 0.055148
+
+所有指定分钟测试完成
+源分钟: 2025-08-06 14:30:00 -> 测试分钟: 2025-08-06 14:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-06_14_30_00.pkl
+成功加载SVI参数，包含 5 个到期日
+
+===== 测试分钟 2025-08-06 14:40:00 (模型来自 2025-08-06 14:30:00) =====
+⚠️  到期日 2025-08-15 无对应的SVI参数，跳过
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-06 14:40:00	2025-08-06 14:30:00	forecast	clear	0.004370088046093748	0.013733845310808448	4.858508974300595	0.03266718951303817	0	0.0
+RMSE: 0.004370 | MAPE: 0.013734 | Price RMSE: 4.858509 | Price MAPE: 0.032667
+
+所有指定分钟测试完成
+源分钟: 2025-08-06 14:50:00 -> 测试分钟: 2025-08-06 15:00:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-06_14_50_00.pkl
+成功加载SVI参数，包含 4 个到期日
+
+===== 测试分钟 2025-08-06 15:00:00 (模型来自 2025-08-06 14:50:00) =====
+⚠️  到期日 2026-03-20 无对应的SVI参数，跳过
+⚠️  到期日 2026-06-19 无对应的SVI参数，跳过
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-06 15:00:00	2025-08-06 14:50:00	forecast	clear	0.004428685401219133	0.01713269570872131	2.1770647502869975	0.06157209487472209	0	0.0
+RMSE: 0.004429 | MAPE: 0.017133 | Price RMSE: 2.177065 | Price MAPE: 0.061572
+
+所有指定分钟测试完成
+源分钟: 2025-08-08 09:30:00 -> 测试分钟: 2025-08-08 09:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-08_09_30_00.pkl
+成功加载SVI参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-08 09:40:00 (模型来自 2025-08-08 09:30:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-08 09:40:00	2025-08-08 09:30:00	forecast	clear	0.005260308528995448	0.016589460709561684	2.243614401253953	0.0746737253408219	0	0.0
+RMSE: 0.005260 | MAPE: 0.016589 | Price RMSE: 2.243614 | Price MAPE: 0.074674
+
+所有指定分钟测试完成
+源分钟: 2025-08-08 10:00:00 -> 测试分钟: 2025-08-08 10:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-08_10_00_00.pkl
+成功加载SVI参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-08 10:10:00 (模型来自 2025-08-08 10:00:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-08 10:10:00	2025-08-08 10:00:00	forecast	clear	0.004621285544554493	0.01681813905102406	3.277427327360867	0.06140152840503862	0	0.0
+RMSE: 0.004621 | MAPE: 0.016818 | Price RMSE: 3.277427 | Price MAPE: 0.061402
+
+所有指定分钟测试完成
+源分钟: 2025-08-08 10:30:00 -> 测试分钟: 2025-08-08 10:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-08_10_30_00.pkl
+成功加载SVI参数，包含 5 个到期日
+
+===== 测试分钟 2025-08-08 10:40:00 (模型来自 2025-08-08 10:30:00) =====
+⚠️  到期日 2025-10-17 无对应的SVI参数，跳过
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-08 10:40:00	2025-08-08 10:30:00	forecast	clear	0.004504352632220084	0.01589390302686719	5.36187869009039	0.056342901539791976	0	0.0
+RMSE: 0.004504 | MAPE: 0.015894 | Price RMSE: 5.361879 | Price MAPE: 0.056343
+
+所有指定分钟测试完成
+源分钟: 2025-08-08 11:00:00 -> 测试分钟: 2025-08-08 11:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-08_11_00_00.pkl
+成功加载SVI参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-08 11:10:00 (模型来自 2025-08-08 11:00:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-08 11:10:00	2025-08-08 11:00:00	forecast	clear	0.00328946982102224	0.011590479865622866	2.63385010219309	0.053479395278136	0	0.0
+RMSE: 0.003289 | MAPE: 0.011590 | Price RMSE: 2.633850 | Price MAPE: 0.053479
+
+所有指定分钟测试完成
+源分钟: 2025-08-08 11:20:00 -> 测试分钟: 2025-08-08 11:30:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-08_11_20_00.pkl
+成功加载SVI参数，包含 4 个到期日
+
+===== 测试分钟 2025-08-08 11:30:00 (模型来自 2025-08-08 11:20:00) =====
+⚠️  到期日 2025-12-19 无对应的SVI参数，跳过
+⚠️  到期日 2026-06-19 无对应的SVI参数，跳过
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-08 11:30:00	2025-08-08 11:20:00	forecast	clear	0.0034301995431647576	0.011816320845464117	1.544533830875166	0.06718080853766471	0	0.0
+RMSE: 0.003430 | MAPE: 0.011816 | Price RMSE: 1.544534 | Price MAPE: 0.067181
+
+所有指定分钟测试完成
+源分钟: 2025-08-08 13:00:00 -> 测试分钟: 2025-08-08 13:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-08_13_00_00.pkl
+成功加载SVI参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-08 13:10:00 (模型来自 2025-08-08 13:00:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-08 13:10:00	2025-08-08 13:00:00	forecast	clear	0.0031456771821293163	0.010778268935517464	2.028656531719813	0.05896935772470066	0	0.0
+RMSE: 0.003146 | MAPE: 0.010778 | Price RMSE: 2.028657 | Price MAPE: 0.058969
+
+所有指定分钟测试完成
+源分钟: 2025-08-08 13:30:00 -> 测试分钟: 2025-08-08 13:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-08_13_30_00.pkl
+成功加载SVI参数，包含 4 个到期日
+
+===== 测试分钟 2025-08-08 13:40:00 (模型来自 2025-08-08 13:30:00) =====
+⚠️  到期日 2025-12-19 无对应的SVI参数，跳过
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-08 13:40:00	2025-08-08 13:30:00	forecast	clear	0.003914515754468093	0.01306032925521074	1.0860535643762954	0.07530448188145489	0	0.0
+RMSE: 0.003915 | MAPE: 0.013060 | Price RMSE: 1.086054 | Price MAPE: 0.075304
+
+所有指定分钟测试完成
+源分钟: 2025-08-08 14:00:00 -> 测试分钟: 2025-08-08 14:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-08_14_00_00.pkl
+成功加载SVI参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-08 14:10:00 (模型来自 2025-08-08 14:00:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-08 14:10:00	2025-08-08 14:00:00	forecast	clear	0.00577593646462271	0.018964649812285028	4.133862171450275	0.07403835165521143	0	0.0
+RMSE: 0.005776 | MAPE: 0.018965 | Price RMSE: 4.133862 | Price MAPE: 0.074038
+
+所有指定分钟测试完成
+源分钟: 2025-08-08 14:30:00 -> 测试分钟: 2025-08-08 14:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-08_14_30_00.pkl
+成功加载SVI参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-08 14:40:00 (模型来自 2025-08-08 14:30:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-08 14:40:00	2025-08-08 14:30:00	forecast	clear	0.0038719354781718857	0.010502863131507187	0.5071347122926466	0.07303648688081071	0	0.0
+RMSE: 0.003872 | MAPE: 0.010503 | Price RMSE: 0.507135 | Price MAPE: 0.073036
+
+所有指定分钟测试完成
+源分钟: 2025-08-08 14:50:00 -> 测试分钟: 2025-08-08 15:00:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-08_14_50_00.pkl
+成功加载SVI参数，包含 5 个到期日
+
+===== 测试分钟 2025-08-08 15:00:00 (模型来自 2025-08-08 14:50:00) =====
+⚠️  到期日 2025-10-17 无对应的SVI参数，跳过
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-08 15:00:00	2025-08-08 14:50:00	forecast	clear	0.0065684141300596756	0.01987780590761969	4.704065862417783	0.06932444396619508	0	0.0
+RMSE: 0.006568 | MAPE: 0.019878 | Price RMSE: 4.704066 | Price MAPE: 0.069324
+
+所有指定分钟测试完成
+源分钟: 2025-08-11 09:30:00 -> 测试分钟: 2025-08-11 09:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-11_09_30_00.pkl
+成功加载SVI参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-11 09:40:00 (模型来自 2025-08-11 09:30:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-11 09:40:00	2025-08-11 09:30:00	forecast	clear	0.0052818289648121795	0.018936775520036045	3.106291225688783	0.10150094392262428	0	0.0
+RMSE: 0.005282 | MAPE: 0.018937 | Price RMSE: 3.106291 | Price MAPE: 0.101501
+
+所有指定分钟测试完成
+源分钟: 2025-08-11 10:00:00 -> 测试分钟: 2025-08-11 10:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-11_10_00_00.pkl
+成功加载SVI参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-11 10:10:00 (模型来自 2025-08-11 10:00:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-11 10:10:00	2025-08-11 10:00:00	forecast	clear	0.01019134280068774	0.026318219086362237	5.288024763737498	0.08926516609386635	0	0.0
+RMSE: 0.010191 | MAPE: 0.026318 | Price RMSE: 5.288025 | Price MAPE: 0.089265
+
+所有指定分钟测试完成
+源分钟: 2025-08-11 10:30:00 -> 测试分钟: 2025-08-11 10:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-11_10_30_00.pkl
+成功加载SVI参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-11 10:40:00 (模型来自 2025-08-11 10:30:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-11 10:40:00	2025-08-11 10:30:00	forecast	clear	0.006992524345013448	0.012994149125267543	1.9602108348164526	0.056598131028727586	0	0.0
+RMSE: 0.006993 | MAPE: 0.012994 | Price RMSE: 1.960211 | Price MAPE: 0.056598
+
+所有指定分钟测试完成
+源分钟: 2025-08-11 11:00:00 -> 测试分钟: 2025-08-11 11:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-11_11_00_00.pkl
+成功加载SVI参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-11 11:10:00 (模型来自 2025-08-11 11:00:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-11 11:10:00	2025-08-11 11:00:00	forecast	clear	0.01125576003827802	0.02811943373091503	4.394425033241296	0.0968971798938259	0	0.0
+RMSE: 0.011256 | MAPE: 0.028119 | Price RMSE: 4.394425 | Price MAPE: 0.096897
+
+所有指定分钟测试完成
+源分钟: 2025-08-11 11:20:00 -> 测试分钟: 2025-08-11 11:30:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-11_11_20_00.pkl
+成功加载SVI参数，包含 5 个到期日
+
+===== 测试分钟 2025-08-11 11:30:00 (模型来自 2025-08-11 11:20:00) =====
+⚠️  到期日 2026-06-19 无对应的SVI参数，跳过
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-11 11:30:00	2025-08-11 11:20:00	forecast	clear	0.00970897809187359	0.028057323714446223	5.009874649697561	0.11470473448645517	0	0.0
+RMSE: 0.009709 | MAPE: 0.028057 | Price RMSE: 5.009875 | Price MAPE: 0.114705
+
+所有指定分钟测试完成
+源分钟: 2025-08-11 13:00:00 -> 测试分钟: 2025-08-11 13:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-11_13_00_00.pkl
+成功加载SVI参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-11 13:10:00 (模型来自 2025-08-11 13:00:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-11 13:10:00	2025-08-11 13:00:00	forecast	clear	0.003948580453923345	0.01639785134429457	2.9021223057352286	0.05658550934529963	0	0.0
+RMSE: 0.003949 | MAPE: 0.016398 | Price RMSE: 2.902122 | Price MAPE: 0.056586
+
+所有指定分钟测试完成
+源分钟: 2025-08-11 13:30:00 -> 测试分钟: 2025-08-11 13:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-11_13_30_00.pkl
+成功加载SVI参数，包含 5 个到期日
+
+===== 测试分钟 2025-08-11 13:40:00 (模型来自 2025-08-11 13:30:00) =====
+⚠️  到期日 2026-06-19 无对应的SVI参数，跳过
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-11 13:40:00	2025-08-11 13:30:00	forecast	clear	0.006991545968155001	0.013085527323927874	1.4395631511373639	0.05028008782555948	0	0.0
+RMSE: 0.006992 | MAPE: 0.013086 | Price RMSE: 1.439563 | Price MAPE: 0.050280
+
+所有指定分钟测试完成
+源分钟: 2025-08-11 14:00:00 -> 测试分钟: 2025-08-11 14:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-11_14_00_00.pkl
+成功加载SVI参数，包含 5 个到期日
+
+===== 测试分钟 2025-08-11 14:10:00 (模型来自 2025-08-11 14:00:00) =====
+⚠️  到期日 2026-06-19 无对应的SVI参数，跳过
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-11 14:10:00	2025-08-11 14:00:00	forecast	clear	0.00708257157727564	0.016591269328079764	1.1911699415478298	0.0609125174640446	0	0.0
+RMSE: 0.007083 | MAPE: 0.016591 | Price RMSE: 1.191170 | Price MAPE: 0.060913
+
+所有指定分钟测试完成
+源分钟: 2025-08-11 14:30:00 -> 测试分钟: 2025-08-11 14:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-11_14_30_00.pkl
+成功加载SVI参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-11 14:40:00 (模型来自 2025-08-11 14:30:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-11 14:40:00	2025-08-11 14:30:00	forecast	clear	0.00768774716395078	0.013259305790710666	0.648350257013272	0.06500709248023892	0	0.0
+RMSE: 0.007688 | MAPE: 0.013259 | Price RMSE: 0.648350 | Price MAPE: 0.065007
+
+所有指定分钟测试完成
+源分钟: 2025-08-11 14:50:00 -> 测试分钟: 2025-08-11 15:00:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-11_14_50_00.pkl
+成功加载SVI参数，包含 4 个到期日
+
+===== 测试分钟 2025-08-11 15:00:00 (模型来自 2025-08-11 14:50:00) =====
+⚠️  到期日 2026-03-20 无对应的SVI参数，跳过
+⚠️  到期日 2026-06-19 无对应的SVI参数，跳过
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-11 15:00:00	2025-08-11 14:50:00	forecast	clear	0.0076286764505361674	0.015152917895597392	1.8473345340689724	0.07075476960493499	0	0.0
+RMSE: 0.007629 | MAPE: 0.015153 | Price RMSE: 1.847335 | Price MAPE: 0.070755
+
+所有指定分钟测试完成
+源分钟: 2025-08-13 09:30:00 -> 测试分钟: 2025-08-13 09:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-13_09_30_00.pkl
+成功加载SVI参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-13 09:40:00 (模型来自 2025-08-13 09:30:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-13 09:40:00	2025-08-13 09:30:00	forecast	clear	0.014769009321113438	0.0314596226241738	5.228949198046018	0.15173147322914507	0	0.0
+RMSE: 0.014769 | MAPE: 0.031460 | Price RMSE: 5.228949 | Price MAPE: 0.151731
+
+所有指定分钟测试完成
+源分钟: 2025-08-13 10:00:00 -> 测试分钟: 2025-08-13 10:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-13_10_00_00.pkl
+成功加载SVI参数，包含 4 个到期日
+
+===== 测试分钟 2025-08-13 10:10:00 (模型来自 2025-08-13 10:00:00) =====
+⚠️  到期日 2025-12-19 无对应的SVI参数，跳过
+⚠️  到期日 2026-03-20 无对应的SVI参数，跳过
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-13 10:10:00	2025-08-13 10:00:00	forecast	clear	0.01657714996531453	0.043092105703552396	3.2677081935073082	0.17206581437702095	0	0.0
+RMSE: 0.016577 | MAPE: 0.043092 | Price RMSE: 3.267708 | Price MAPE: 0.172066
+
+所有指定分钟测试完成
+源分钟: 2025-08-13 10:30:00 -> 测试分钟: 2025-08-13 10:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-13_10_30_00.pkl
+成功加载SVI参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-13 10:40:00 (模型来自 2025-08-13 10:30:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-13 10:40:00	2025-08-13 10:30:00	forecast	clear	0.014204571338211881	0.03667876461510527	8.076663279798458	0.1364405498878281	0	0.0
+RMSE: 0.014205 | MAPE: 0.036679 | Price RMSE: 8.076663 | Price MAPE: 0.136441
+
+所有指定分钟测试完成
+源分钟: 2025-08-13 11:00:00 -> 测试分钟: 2025-08-13 11:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-13_11_00_00.pkl
+成功加载SVI参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-13 11:10:00 (模型来自 2025-08-13 11:00:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-13 11:10:00	2025-08-13 11:00:00	forecast	clear	0.016447116796141106	0.03195852489455477	5.469199405808144	0.1322082882429951	0	0.0
+RMSE: 0.016447 | MAPE: 0.031959 | Price RMSE: 5.469199 | Price MAPE: 0.132208
+
+所有指定分钟测试完成
+源分钟: 2025-08-13 11:20:00 -> 测试分钟: 2025-08-13 11:30:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-13_11_20_00.pkl
+成功加载SVI参数，包含 4 个到期日
+
+===== 测试分钟 2025-08-13 11:30:00 (模型来自 2025-08-13 11:20:00) =====
+⚠️  到期日 2025-12-19 无对应的SVI参数，跳过
+⚠️  到期日 2026-06-19 无对应的SVI参数，跳过
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-13 11:30:00	2025-08-13 11:20:00	forecast	clear	0.01742119688614461	0.035499200398705244	3.204383148114787	0.19006900906556262	0	0.0
+RMSE: 0.017421 | MAPE: 0.035499 | Price RMSE: 3.204383 | Price MAPE: 0.190069
+
+所有指定分钟测试完成
+源分钟: 2025-08-13 13:00:00 -> 测试分钟: 2025-08-13 13:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-13_13_00_00.pkl
+成功加载SVI参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-13 13:10:00 (模型来自 2025-08-13 13:00:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-13 13:10:00	2025-08-13 13:00:00	forecast	clear	0.014719149245265363	0.028858747013931308	3.6717913176302437	0.21221340199960553	0	0.0
+RMSE: 0.014719 | MAPE: 0.028859 | Price RMSE: 3.671791 | Price MAPE: 0.212213
+
+所有指定分钟测试完成
+源分钟: 2025-08-13 13:30:00 -> 测试分钟: 2025-08-13 13:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-13_13_30_00.pkl
+成功加载SVI参数，包含 5 个到期日
+
+===== 测试分钟 2025-08-13 13:40:00 (模型来自 2025-08-13 13:30:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-13 13:40:00	2025-08-13 13:30:00	forecast	clear	0.004135604265116595	0.0168254290664746	3.637167402674074	0.07108636399963408	0	0.0
+RMSE: 0.004136 | MAPE: 0.016825 | Price RMSE: 3.637167 | Price MAPE: 0.071086
+
+所有指定分钟测试完成
+源分钟: 2025-08-13 14:00:00 -> 测试分钟: 2025-08-13 14:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-13_14_00_00.pkl
+成功加载SVI参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-13 14:10:00 (模型来自 2025-08-13 14:00:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-13 14:10:00	2025-08-13 14:00:00	forecast	clear	0.01684242490243153	0.03342727414594953	8.907472517661764	0.16753188980333655	0	0.0
+RMSE: 0.016842 | MAPE: 0.033427 | Price RMSE: 8.907473 | Price MAPE: 0.167532
+
+所有指定分钟测试完成
+源分钟: 2025-08-13 14:30:00 -> 测试分钟: 2025-08-13 14:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-13_14_30_00.pkl
+成功加载SVI参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-13 14:40:00 (模型来自 2025-08-13 14:30:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-13 14:40:00	2025-08-13 14:30:00	forecast	clear	0.01565358780346678	0.034342532534550885	3.040145725037573	0.18833672131822643	0	0.0
+RMSE: 0.015654 | MAPE: 0.034343 | Price RMSE: 3.040146 | Price MAPE: 0.188337
+
+所有指定分钟测试完成
+源分钟: 2025-08-13 14:50:00 -> 测试分钟: 2025-08-13 15:00:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-13_14_50_00.pkl
+成功加载SVI参数，包含 4 个到期日
+
+===== 测试分钟 2025-08-13 15:00:00 (模型来自 2025-08-13 14:50:00) =====
+⚠️  到期日 2026-03-20 无对应的SVI参数，跳过
+⚠️  到期日 2026-06-19 无对应的SVI参数，跳过
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-13 15:00:00	2025-08-13 14:50:00	forecast	clear	0.0206991337048008	0.04525556724842961	6.106971194143356	0.20184184736407187	0	0.0
+RMSE: 0.020699 | MAPE: 0.045256 | Price RMSE: 6.106971 | Price MAPE: 0.201842
+
+所有指定分钟测试完成
+源分钟: 2025-08-15 09:30:00 -> 测试分钟: 2025-08-15 09:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-15_09_30_00.pkl
+成功加载SVI参数，包含 5 个到期日
+
+===== 测试分钟 2025-08-15 09:40:00 (模型来自 2025-08-15 09:30:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-15 09:40:00	2025-08-15 09:30:00	forecast	clear	0.005599027042516662	0.019677335436070642	3.161990349587053	0.10534815172543395	0	0.0
+RMSE: 0.005599 | MAPE: 0.019677 | Price RMSE: 3.161990 | Price MAPE: 0.105348
+
+所有指定分钟测试完成
+源分钟: 2025-08-15 10:00:00 -> 测试分钟: 2025-08-15 10:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-15_10_00_00.pkl
+成功加载SVI参数，包含 4 个到期日
+
+===== 测试分钟 2025-08-15 10:10:00 (模型来自 2025-08-15 10:00:00) =====
+⚠️  到期日 2026-06-19 无对应的SVI参数，跳过
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-15 10:10:00	2025-08-15 10:00:00	forecast	clear	0.0037532135406509993	0.010458133206716009	2.018312797933473	0.037876473181475925	0	0.0
+RMSE: 0.003753 | MAPE: 0.010458 | Price RMSE: 2.018313 | Price MAPE: 0.037876
+
+所有指定分钟测试完成
+源分钟: 2025-08-15 10:30:00 -> 测试分钟: 2025-08-15 10:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-15_10_30_00.pkl
+成功加载SVI参数，包含 4 个到期日
+
+===== 测试分钟 2025-08-15 10:40:00 (模型来自 2025-08-15 10:30:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-15 10:40:00	2025-08-15 10:30:00	forecast	clear	0.005600405831441972	0.019012789422972635	6.422406031028824	0.06925761424760553	0	0.0
+RMSE: 0.005600 | MAPE: 0.019013 | Price RMSE: 6.422406 | Price MAPE: 0.069258
+
+所有指定分钟测试完成
+源分钟: 2025-08-15 11:00:00 -> 测试分钟: 2025-08-15 11:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-15_11_00_00.pkl
+成功加载SVI参数，包含 5 个到期日
+
+===== 测试分钟 2025-08-15 11:10:00 (模型来自 2025-08-15 11:00:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-15 11:10:00	2025-08-15 11:00:00	forecast	clear	0.005375272776338578	0.01672000286309176	5.103477763337546	0.054845882890863694	0	0.0
+RMSE: 0.005375 | MAPE: 0.016720 | Price RMSE: 5.103478 | Price MAPE: 0.054846
+
+所有指定分钟测试完成
+源分钟: 2025-08-15 11:20:00 -> 测试分钟: 2025-08-15 11:30:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-15_11_20_00.pkl
+成功加载SVI参数，包含 4 个到期日
+
+===== 测试分钟 2025-08-15 11:30:00 (模型来自 2025-08-15 11:20:00) =====
+⚠️  到期日 2026-06-19 无对应的SVI参数，跳过
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-15 11:30:00	2025-08-15 11:20:00	forecast	clear	0.006090104319312514	0.019627029537656337	4.6709766113101105	0.06158825515892775	0	0.0
+RMSE: 0.006090 | MAPE: 0.019627 | Price RMSE: 4.670977 | Price MAPE: 0.061588
+
+所有指定分钟测试完成
+源分钟: 2025-08-15 13:00:00 -> 测试分钟: 2025-08-15 13:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-15_13_00_00.pkl
+成功加载SVI参数，包含 5 个到期日
+
+===== 测试分钟 2025-08-15 13:10:00 (模型来自 2025-08-15 13:00:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-15 13:10:00	2025-08-15 13:00:00	forecast	clear	0.005586103615421558	0.018948762740245446	1.6064424524607723	0.044403185658793816	0	0.0
+RMSE: 0.005586 | MAPE: 0.018949 | Price RMSE: 1.606442 | Price MAPE: 0.044403
+
+所有指定分钟测试完成
+源分钟: 2025-08-15 13:30:00 -> 测试分钟: 2025-08-15 13:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-15_13_30_00.pkl
+成功加载SVI参数，包含 5 个到期日
+
+===== 测试分钟 2025-08-15 13:40:00 (模型来自 2025-08-15 13:30:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-15 13:40:00	2025-08-15 13:30:00	forecast	clear	0.005894192627510524	0.016931124550661623	7.859124592785598	0.0430108124943328	0	0.0
+RMSE: 0.005894 | MAPE: 0.016931 | Price RMSE: 7.859125 | Price MAPE: 0.043011
+
+所有指定分钟测试完成
+源分钟: 2025-08-15 14:00:00 -> 测试分钟: 2025-08-15 14:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-15_14_00_00.pkl
+成功加载SVI参数，包含 5 个到期日
+
+===== 测试分钟 2025-08-15 14:10:00 (模型来自 2025-08-15 14:00:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-15 14:10:00	2025-08-15 14:00:00	forecast	clear	0.011406061929336776	0.032368688211008384	9.822929903942917	0.08117212132195362	0	0.0
+RMSE: 0.011406 | MAPE: 0.032369 | Price RMSE: 9.822930 | Price MAPE: 0.081172
+
+所有指定分钟测试完成
+源分钟: 2025-08-15 14:30:00 -> 测试分钟: 2025-08-15 14:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-15_14_30_00.pkl
+成功加载SVI参数，包含 4 个到期日
+
+===== 测试分钟 2025-08-15 14:40:00 (模型来自 2025-08-15 14:30:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-15 14:40:00	2025-08-15 14:30:00	forecast	clear	0.007138084715277069	0.024467802727003482	4.969322904288525	0.07175397493646697	0	0.0
+RMSE: 0.007138 | MAPE: 0.024468 | Price RMSE: 4.969323 | Price MAPE: 0.071754
+
+所有指定分钟测试完成
+源分钟: 2025-08-15 14:50:00 -> 测试分钟: 2025-08-15 15:00:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-15_14_50_00.pkl
+成功加载SVI参数，包含 5 个到期日
+
+===== 测试分钟 2025-08-15 15:00:00 (模型来自 2025-08-15 14:50:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-15 15:00:00	2025-08-15 14:50:00	forecast	clear	0.0058919373696400944	0.019691536755812016	8.912099726804337	0.06904031162234274	0	0.0
+RMSE: 0.005892 | MAPE: 0.019692 | Price RMSE: 8.912100 | Price MAPE: 0.069040
+
+所有指定分钟测试完成
+源分钟: 2025-08-18 09:30:00 -> 测试分钟: 2025-08-18 09:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-18_09_30_00.pkl
+成功加载SVI参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-18 09:40:00 (模型来自 2025-08-18 09:30:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-18 09:40:00	2025-08-18 09:30:00	forecast	clear	0.009500547486605523	0.030663999678290876	10.0009656217128	0.09249213111863346	0	0.0
+RMSE: 0.009501 | MAPE: 0.030664 | Price RMSE: 10.000966 | Price MAPE: 0.092492
+
+所有指定分钟测试完成
+源分钟: 2025-08-18 10:00:00 -> 测试分钟: 2025-08-18 10:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-18_10_00_00.pkl
+成功加载SVI参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-18 10:10:00 (模型来自 2025-08-18 10:00:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-18 10:10:00	2025-08-18 10:00:00	forecast	clear	0.011899032591019064	0.039943077721943936	11.792899109835115	0.12110997603331117	0	0.0
+RMSE: 0.011899 | MAPE: 0.039943 | Price RMSE: 11.792899 | Price MAPE: 0.121110
+
+所有指定分钟测试完成
+源分钟: 2025-08-18 10:30:00 -> 测试分钟: 2025-08-18 10:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-18_10_30_00.pkl
+成功加载SVI参数，包含 4 个到期日
+
+===== 测试分钟 2025-08-18 10:40:00 (模型来自 2025-08-18 10:30:00) =====
+⚠️  到期日 2025-11-21 无对应的SVI参数，跳过
+⚠️  到期日 2026-06-19 无对应的SVI参数，跳过
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-18 10:40:00	2025-08-18 10:30:00	forecast	clear	0.005337315058407249	0.018066215046472628	4.097406669546681	0.062239315112676254	0	0.0
+RMSE: 0.005337 | MAPE: 0.018066 | Price RMSE: 4.097407 | Price MAPE: 0.062239
+
+所有指定分钟测试完成
+源分钟: 2025-08-18 11:00:00 -> 测试分钟: 2025-08-18 11:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-18_11_00_00.pkl
+成功加载SVI参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-18 11:10:00 (模型来自 2025-08-18 11:00:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-18 11:10:00	2025-08-18 11:00:00	forecast	clear	0.01147507003600508	0.040298485043229096	17.85397084094723	0.14826164668116112	0	0.0
+RMSE: 0.011475 | MAPE: 0.040298 | Price RMSE: 17.853971 | Price MAPE: 0.148262
+
+所有指定分钟测试完成
+源分钟: 2025-08-18 11:20:00 -> 测试分钟: 2025-08-18 11:30:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-18_11_20_00.pkl
+成功加载SVI参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-18 11:30:00 (模型来自 2025-08-18 11:20:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-18 11:30:00	2025-08-18 11:20:00	forecast	clear	0.014788297680153557	0.048886296871476574	13.606576559103981	0.11993384101184766	0	0.0
+RMSE: 0.014788 | MAPE: 0.048886 | Price RMSE: 13.606577 | Price MAPE: 0.119934
+
+所有指定分钟测试完成
+源分钟: 2025-08-18 13:00:00 -> 测试分钟: 2025-08-18 13:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-18_13_00_00.pkl
+成功加载SVI参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-18 13:10:00 (模型来自 2025-08-18 13:00:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-18 13:10:00	2025-08-18 13:00:00	forecast	clear	0.010837318204686855	0.035626886841176715	15.68575018674399	0.1713789959435039	0	0.0
+RMSE: 0.010837 | MAPE: 0.035627 | Price RMSE: 15.685750 | Price MAPE: 0.171379
+
+所有指定分钟测试完成
+源分钟: 2025-08-18 13:30:00 -> 测试分钟: 2025-08-18 13:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-18_13_30_00.pkl
+成功加载SVI参数，包含 5 个到期日
+
+===== 测试分钟 2025-08-18 13:40:00 (模型来自 2025-08-18 13:30:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-18 13:40:00	2025-08-18 13:30:00	forecast	clear	0.009673526319058153	0.028757484743890598	8.758590331122674	0.07457110525561997	0	0.0
+RMSE: 0.009674 | MAPE: 0.028757 | Price RMSE: 8.758590 | Price MAPE: 0.074571
+
+所有指定分钟测试完成
+源分钟: 2025-08-18 14:00:00 -> 测试分钟: 2025-08-18 14:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-18_14_00_00.pkl
+成功加载SVI参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-18 14:10:00 (模型来自 2025-08-18 14:00:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-18 14:10:00	2025-08-18 14:00:00	forecast	clear	0.010090158770461979	0.03465610584956126	8.723872708803887	0.09311707099336816	0	0.0
+RMSE: 0.010090 | MAPE: 0.034656 | Price RMSE: 8.723873 | Price MAPE: 0.093117
+
+所有指定分钟测试完成
+源分钟: 2025-08-18 14:30:00 -> 测试分钟: 2025-08-18 14:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-18_14_30_00.pkl
+成功加载SVI参数，包含 5 个到期日
+
+===== 测试分钟 2025-08-18 14:40:00 (模型来自 2025-08-18 14:30:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-18 14:40:00	2025-08-18 14:30:00	forecast	clear	0.009555368493037928	0.026617751615776047	6.949451771411163	0.0766202117789492	0	0.0
+RMSE: 0.009555 | MAPE: 0.026618 | Price RMSE: 6.949452 | Price MAPE: 0.076620
+
+所有指定分钟测试完成
+源分钟: 2025-08-18 14:50:00 -> 测试分钟: 2025-08-18 15:00:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-18_14_50_00.pkl
+成功加载SVI参数，包含 5 个到期日
+
+===== 测试分钟 2025-08-18 15:00:00 (模型来自 2025-08-18 14:50:00) =====
+⚠️  到期日 2026-06-19 无对应的SVI参数，跳过
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-18 15:00:00	2025-08-18 14:50:00	forecast	clear	0.04450384625660392	0.1171617592702283	24.13490946190063	0.3649948097491196	0	0.0
+RMSE: 0.044504 | MAPE: 0.117162 | Price RMSE: 24.134909 | Price MAPE: 0.364995
+
+所有指定分钟测试完成
+源分钟: 2025-08-20 09:30:00 -> 测试分钟: 2025-08-20 09:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-20_09_30_00.pkl
+成功加载SVI参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-20 09:40:00 (模型来自 2025-08-20 09:30:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-20 09:40:00	2025-08-20 09:30:00	forecast	clear	0.010763403647076591	0.036319799797778926	6.190631353154014	0.1077847375697886	0	0.0
+RMSE: 0.010763 | MAPE: 0.036320 | Price RMSE: 6.190631 | Price MAPE: 0.107785
+
+所有指定分钟测试完成
+源分钟: 2025-08-20 10:00:00 -> 测试分钟: 2025-08-20 10:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-20_10_00_00.pkl
+成功加载SVI参数，包含 4 个到期日
+
+===== 测试分钟 2025-08-20 10:10:00 (模型来自 2025-08-20 10:00:00) =====
+⚠️  到期日 2025-11-21 无对应的SVI参数，跳过
+⚠️  到期日 2026-03-20 无对应的SVI参数，跳过
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-20 10:10:00	2025-08-20 10:00:00	forecast	clear	0.006972162924157605	0.02287748429086124	8.59903029045247	0.07794507624605185	0	0.0
+RMSE: 0.006972 | MAPE: 0.022877 | Price RMSE: 8.599030 | Price MAPE: 0.077945
+
+所有指定分钟测试完成
+源分钟: 2025-08-20 10:30:00 -> 测试分钟: 2025-08-20 10:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-20_10_30_00.pkl
+成功加载SVI参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-20 10:40:00 (模型来自 2025-08-20 10:30:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-20 10:40:00	2025-08-20 10:30:00	forecast	clear	0.004467570704533869	0.01271654545536396	1.967575601602037	0.05359732874731963	0	0.0
+RMSE: 0.004468 | MAPE: 0.012717 | Price RMSE: 1.967576 | Price MAPE: 0.053597
+
+所有指定分钟测试完成
+源分钟: 2025-08-20 11:00:00 -> 测试分钟: 2025-08-20 11:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-20_11_00_00.pkl
+成功加载SVI参数，包含 4 个到期日
+
+===== 测试分钟 2025-08-20 11:10:00 (模型来自 2025-08-20 11:00:00) =====
+⚠️  到期日 2025-12-19 无对应的SVI参数，跳过
+⚠️  到期日 2026-06-19 无对应的SVI参数，跳过
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-20 11:10:00	2025-08-20 11:00:00	forecast	clear	0.007797625708797399	0.02224075371129495	4.7537054217538035	0.07705425620260009	0	0.0
+RMSE: 0.007798 | MAPE: 0.022241 | Price RMSE: 4.753705 | Price MAPE: 0.077054
+
+所有指定分钟测试完成
+源分钟: 2025-08-20 11:20:00 -> 测试分钟: 2025-08-20 11:30:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-20_11_20_00.pkl
+成功加载SVI参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-20 11:30:00 (模型来自 2025-08-20 11:20:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-20 11:30:00	2025-08-20 11:20:00	forecast	clear	0.009354406131832532	0.030109010242428135	7.31119083385505	0.0881580395660794	0	0.0
+RMSE: 0.009354 | MAPE: 0.030109 | Price RMSE: 7.311191 | Price MAPE: 0.088158
+
+所有指定分钟测试完成
+源分钟: 2025-08-20 13:00:00 -> 测试分钟: 2025-08-20 13:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-20_13_00_00.pkl
+成功加载SVI参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-20 13:10:00 (模型来自 2025-08-20 13:00:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-20 13:10:00	2025-08-20 13:00:00	forecast	clear	0.004964347247532062	0.012722025239577031	2.132454713649572	0.0685640824581022	0	0.0
+RMSE: 0.004964 | MAPE: 0.012722 | Price RMSE: 2.132455 | Price MAPE: 0.068564
+
+所有指定分钟测试完成
+源分钟: 2025-08-20 13:30:00 -> 测试分钟: 2025-08-20 13:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-20_13_30_00.pkl
+成功加载SVI参数，包含 5 个到期日
+
+===== 测试分钟 2025-08-20 13:40:00 (模型来自 2025-08-20 13:30:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-20 13:40:00	2025-08-20 13:30:00	forecast	clear	0.010050541804184663	0.03387629678661324	9.106172593676927	0.11005672379048109	0	0.0
+RMSE: 0.010051 | MAPE: 0.033876 | Price RMSE: 9.106173 | Price MAPE: 0.110057
+
+所有指定分钟测试完成
+源分钟: 2025-08-20 14:00:00 -> 测试分钟: 2025-08-20 14:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-20_14_00_00.pkl
+成功加载SVI参数，包含 5 个到期日
+
+===== 测试分钟 2025-08-20 14:10:00 (模型来自 2025-08-20 14:00:00) =====
+⚠️  到期日 2026-06-19 无对应的SVI参数，跳过
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-20 14:10:00	2025-08-20 14:00:00	forecast	clear	0.00849463100745287	0.027842724381244497	6.654066605043106	0.08977514604379297	0	0.0
+RMSE: 0.008495 | MAPE: 0.027843 | Price RMSE: 6.654067 | Price MAPE: 0.089775
+
+所有指定分钟测试完成
+源分钟: 2025-08-20 14:30:00 -> 测试分钟: 2025-08-20 14:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-20_14_30_00.pkl
+成功加载SVI参数，包含 5 个到期日
+
+===== 测试分钟 2025-08-20 14:40:00 (模型来自 2025-08-20 14:30:00) =====
+⚠️  到期日 2025-12-19 无对应的SVI参数，跳过
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-20 14:40:00	2025-08-20 14:30:00	forecast	clear	0.008791764876423948	0.026264611821028877	12.284779201416793	0.10386332182260168	0	0.0
+RMSE: 0.008792 | MAPE: 0.026265 | Price RMSE: 12.284779 | Price MAPE: 0.103863
+
+所有指定分钟测试完成
+源分钟: 2025-08-20 14:50:00 -> 测试分钟: 2025-08-20 15:00:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-20_14_50_00.pkl
+成功加载SVI参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-20 15:00:00 (模型来自 2025-08-20 14:50:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-20 15:00:00	2025-08-20 14:50:00	forecast	clear	0.009794336647145909	0.03409621851591994	10.15775343548718	0.09849782102796024	0	0.0
+RMSE: 0.009794 | MAPE: 0.034096 | Price RMSE: 10.157753 | Price MAPE: 0.098498
+
+所有指定分钟测试完成
+源分钟: 2025-08-22 09:30:00 -> 测试分钟: 2025-08-22 09:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-22_09_30_00.pkl
+成功加载SVI参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-22 09:40:00 (模型来自 2025-08-22 09:30:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-22 09:40:00	2025-08-22 09:30:00	forecast	clear	0.006982667109385172	0.022965639040411594	8.501895993931567	0.0706285677205874	0	0.0
+RMSE: 0.006983 | MAPE: 0.022966 | Price RMSE: 8.501896 | Price MAPE: 0.070629
+
+所有指定分钟测试完成
+源分钟: 2025-08-22 10:00:00 -> 测试分钟: 2025-08-22 10:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-22_10_00_00.pkl
+成功加载SVI参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-22 10:10:00 (模型来自 2025-08-22 10:00:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-22 10:10:00	2025-08-22 10:00:00	forecast	clear	0.0077476371929092935	0.022386622186631722	7.60042274355274	0.0657025655502193	0	0.0
+RMSE: 0.007748 | MAPE: 0.022387 | Price RMSE: 7.600423 | Price MAPE: 0.065703
+
+所有指定分钟测试完成
+源分钟: 2025-08-22 10:30:00 -> 测试分钟: 2025-08-22 10:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-22_10_30_00.pkl
+成功加载SVI参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-22 10:40:00 (模型来自 2025-08-22 10:30:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-22 10:40:00	2025-08-22 10:30:00	forecast	clear	0.008022288620203162	0.02385075534207349	5.95040711205182	0.06815618508132108	0	0.0
+RMSE: 0.008022 | MAPE: 0.023851 | Price RMSE: 5.950407 | Price MAPE: 0.068156
+
+所有指定分钟测试完成
+源分钟: 2025-08-22 11:00:00 -> 测试分钟: 2025-08-22 11:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-22_11_00_00.pkl
+成功加载SVI参数，包含 5 个到期日
+
+===== 测试分钟 2025-08-22 11:10:00 (模型来自 2025-08-22 11:00:00) =====
+⚠️  到期日 2026-06-19 无对应的SVI参数，跳过
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-22 11:10:00	2025-08-22 11:00:00	forecast	clear	0.009574889894132004	0.029152353900224536	8.4432468753668	0.0882819600653337	0	0.0
+RMSE: 0.009575 | MAPE: 0.029152 | Price RMSE: 8.443247 | Price MAPE: 0.088282
+
+所有指定分钟测试完成
+源分钟: 2025-08-22 11:20:00 -> 测试分钟: 2025-08-22 11:30:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-22_11_20_00.pkl
+成功加载SVI参数，包含 5 个到期日
+
+===== 测试分钟 2025-08-22 11:30:00 (模型来自 2025-08-22 11:20:00) =====
+⚠️  到期日 2026-06-19 无对应的SVI参数，跳过
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-22 11:30:00	2025-08-22 11:20:00	forecast	clear	0.010154969980833326	0.02968426202399914	7.898571307144155	0.07969381197083118	0	0.0
+RMSE: 0.010155 | MAPE: 0.029684 | Price RMSE: 7.898571 | Price MAPE: 0.079694
+
+所有指定分钟测试完成
+源分钟: 2025-08-22 13:00:00 -> 测试分钟: 2025-08-22 13:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-22_13_00_00.pkl
+成功加载SVI参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-22 13:10:00 (模型来自 2025-08-22 13:00:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-22 13:10:00	2025-08-22 13:00:00	forecast	clear	0.00950902910432463	0.029031788003096717	20.774329087586068	0.11486803127360028	0	0.0
+RMSE: 0.009509 | MAPE: 0.029032 | Price RMSE: 20.774329 | Price MAPE: 0.114868
+
+所有指定分钟测试完成
+源分钟: 2025-08-22 13:30:00 -> 测试分钟: 2025-08-22 13:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-22_13_30_00.pkl
+成功加载SVI参数，包含 5 个到期日
+
+===== 测试分钟 2025-08-22 13:40:00 (模型来自 2025-08-22 13:30:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-22 13:40:00	2025-08-22 13:30:00	forecast	clear	0.004413068328181195	0.014225016270958441	4.162454144702933	0.08827959216718079	0	0.0
+RMSE: 0.004413 | MAPE: 0.014225 | Price RMSE: 4.162454 | Price MAPE: 0.088280
+
+所有指定分钟测试完成
+源分钟: 2025-08-22 14:00:00 -> 测试分钟: 2025-08-22 14:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-22_14_00_00.pkl
+成功加载SVI参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-22 14:10:00 (模型来自 2025-08-22 14:00:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-22 14:10:00	2025-08-22 14:00:00	forecast	clear	0.006907203571663434	0.02261541153758449	7.060838149199064	0.060255829538052176	0	0.0
+RMSE: 0.006907 | MAPE: 0.022615 | Price RMSE: 7.060838 | Price MAPE: 0.060256
+
+所有指定分钟测试完成
+源分钟: 2025-08-22 14:30:00 -> 测试分钟: 2025-08-22 14:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-22_14_30_00.pkl
+成功加载SVI参数，包含 5 个到期日
+
+===== 测试分钟 2025-08-22 14:40:00 (模型来自 2025-08-22 14:30:00) =====
+⚠️  到期日 2026-06-19 无对应的SVI参数，跳过
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-22 14:40:00	2025-08-22 14:30:00	forecast	clear	0.008742061338372653	0.027423096178235993	5.976451560118913	0.07229657352508213	0	0.0
+RMSE: 0.008742 | MAPE: 0.027423 | Price RMSE: 5.976452 | Price MAPE: 0.072297
+
+所有指定分钟测试完成
+源分钟: 2025-08-22 14:50:00 -> 测试分钟: 2025-08-22 15:00:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-22_14_50_00.pkl
+成功加载SVI参数，包含 5 个到期日
+
+===== 测试分钟 2025-08-22 15:00:00 (模型来自 2025-08-22 14:50:00) =====
+⚠️  到期日 2026-03-20 无对应的SVI参数，跳过
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-22 15:00:00	2025-08-22 14:50:00	forecast	clear	0.010911073193080727	0.03144436486067826	11.992098794687914	0.09424676876313615	0	0.0
+RMSE: 0.010911 | MAPE: 0.031444 | Price RMSE: 11.992099 | Price MAPE: 0.094247
+
+所有指定分钟测试完成
+源分钟: 2025-08-25 09:30:00 -> 测试分钟: 2025-08-25 09:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-25_09_30_00.pkl
+成功加载SVI参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-25 09:40:00 (模型来自 2025-08-25 09:30:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-25 09:40:00	2025-08-25 09:30:00	forecast	clear	0.018958009534964085	0.05290188208441125	15.830440952179092	0.11235920737996793	0	0.0
+RMSE: 0.018958 | MAPE: 0.052902 | Price RMSE: 15.830441 | Price MAPE: 0.112359
+
+所有指定分钟测试完成
+源分钟: 2025-08-25 10:00:00 -> 测试分钟: 2025-08-25 10:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-25_10_00_00.pkl
+成功加载SVI参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-25 10:10:00 (模型来自 2025-08-25 10:00:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-25 10:10:00	2025-08-25 10:00:00	forecast	clear	0.01145426638390941	0.033428665047914786	12.188903497818993	0.08595878456960461	0	0.0
+RMSE: 0.011454 | MAPE: 0.033429 | Price RMSE: 12.188903 | Price MAPE: 0.085959
+
+所有指定分钟测试完成
+源分钟: 2025-08-25 10:30:00 -> 测试分钟: 2025-08-25 10:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-25_10_30_00.pkl
+成功加载SVI参数，包含 5 个到期日
+
+===== 测试分钟 2025-08-25 10:40:00 (模型来自 2025-08-25 10:30:00) =====
+⚠️  到期日 2026-03-20 无对应的SVI参数，跳过
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-25 10:40:00	2025-08-25 10:30:00	forecast	clear	0.0096686581218348	0.025776533481622985	5.608805240010904	0.08785710204251926	0	0.0
+RMSE: 0.009669 | MAPE: 0.025777 | Price RMSE: 5.608805 | Price MAPE: 0.087857
+
+所有指定分钟测试完成
+源分钟: 2025-08-25 11:00:00 -> 测试分钟: 2025-08-25 11:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-25_11_00_00.pkl
+成功加载SVI参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-25 11:10:00 (模型来自 2025-08-25 11:00:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-25 11:10:00	2025-08-25 11:00:00	forecast	clear	0.011197775698038325	0.03335023378662152	12.612208404488522	0.09014046972632109	0	0.0
+RMSE: 0.011198 | MAPE: 0.033350 | Price RMSE: 12.612208 | Price MAPE: 0.090140
+
+所有指定分钟测试完成
+源分钟: 2025-08-25 11:20:00 -> 测试分钟: 2025-08-25 11:30:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-25_11_20_00.pkl
+成功加载SVI参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-25 11:30:00 (模型来自 2025-08-25 11:20:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-25 11:30:00	2025-08-25 11:20:00	forecast	clear	0.009505469305229271	0.029542951376508562	7.687004279942906	0.09429404325256334	0	0.0
+RMSE: 0.009505 | MAPE: 0.029543 | Price RMSE: 7.687004 | Price MAPE: 0.094294
+
+所有指定分钟测试完成
+源分钟: 2025-08-25 13:00:00 -> 测试分钟: 2025-08-25 13:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-25_13_00_00.pkl
+成功加载SVI参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-25 13:10:00 (模型来自 2025-08-25 13:00:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-25 13:10:00	2025-08-25 13:00:00	forecast	clear	0.00985615925129077	0.028886842288396292	8.133453859169315	0.08572104247158163	0	0.0
+RMSE: 0.009856 | MAPE: 0.028887 | Price RMSE: 8.133454 | Price MAPE: 0.085721
+
+所有指定分钟测试完成
+源分钟: 2025-08-25 13:30:00 -> 测试分钟: 2025-08-25 13:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-25_13_30_00.pkl
+成功加载SVI参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-25 13:40:00 (模型来自 2025-08-25 13:30:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-25 13:40:00	2025-08-25 13:30:00	forecast	clear	0.008574279019027388	0.025619798651447534	6.881613867993935	0.07752954543992935	0	0.0
+RMSE: 0.008574 | MAPE: 0.025620 | Price RMSE: 6.881614 | Price MAPE: 0.077530
+
+所有指定分钟测试完成
+源分钟: 2025-08-25 14:00:00 -> 测试分钟: 2025-08-25 14:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-25_14_00_00.pkl
+成功加载SVI参数，包含 5 个到期日
+
+===== 测试分钟 2025-08-25 14:10:00 (模型来自 2025-08-25 14:00:00) =====
+⚠️  到期日 2026-03-20 无对应的SVI参数，跳过
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-25 14:10:00	2025-08-25 14:00:00	forecast	clear	0.008319296166703504	0.02231776912861345	6.90631108208558	0.07392001649603457	0	0.0
+RMSE: 0.008319 | MAPE: 0.022318 | Price RMSE: 6.906311 | Price MAPE: 0.073920
+
+所有指定分钟测试完成
+源分钟: 2025-08-25 14:30:00 -> 测试分钟: 2025-08-25 14:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-25_14_30_00.pkl
+成功加载SVI参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-25 14:40:00 (模型来自 2025-08-25 14:30:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-25 14:40:00	2025-08-25 14:30:00	forecast	clear	0.01765357454607366	0.05005554216739357	13.53447114161099	0.1699804638364687	0	0.0
+RMSE: 0.017654 | MAPE: 0.050056 | Price RMSE: 13.534471 | Price MAPE: 0.169980
+
+所有指定分钟测试完成
+源分钟: 2025-08-25 14:50:00 -> 测试分钟: 2025-08-25 15:00:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-25_14_50_00.pkl
+成功加载SVI参数，包含 4 个到期日
+
+===== 测试分钟 2025-08-25 15:00:00 (模型来自 2025-08-25 14:50:00) =====
+⚠️  到期日 2026-03-20 无对应的SVI参数，跳过
+⚠️  到期日 2026-06-19 无对应的SVI参数，跳过
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-25 15:00:00	2025-08-25 14:50:00	forecast	clear	0.011362948711114906	0.02942133172517982	8.640135213007431	0.10262132565768516	0	0.0
+RMSE: 0.011363 | MAPE: 0.029421 | Price RMSE: 8.640135 | Price MAPE: 0.102621
+
+所有指定分钟测试完成
+源分钟: 2025-08-27 09:30:00 -> 测试分钟: 2025-08-27 09:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-27_09_30_00.pkl
+成功加载SVI参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-27 09:40:00 (模型来自 2025-08-27 09:30:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-27 09:40:00	2025-08-27 09:30:00	forecast	clear	0.012223839785032936	0.035123160351546466	9.83546762932796	0.13293342572123354	0	0.0
+RMSE: 0.012224 | MAPE: 0.035123 | Price RMSE: 9.835468 | Price MAPE: 0.132933
+
+所有指定分钟测试完成
+源分钟: 2025-08-27 10:00:00 -> 测试分钟: 2025-08-27 10:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-27_10_00_00.pkl
+成功加载SVI参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-27 10:10:00 (模型来自 2025-08-27 10:00:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-27 10:10:00	2025-08-27 10:00:00	forecast	clear	0.010662159741862421	0.02729630371565764	6.774839796600795	0.11239144163000891	0	0.0
+RMSE: 0.010662 | MAPE: 0.027296 | Price RMSE: 6.774840 | Price MAPE: 0.112391
+
+所有指定分钟测试完成
+源分钟: 2025-08-27 10:30:00 -> 测试分钟: 2025-08-27 10:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-27_10_30_00.pkl
+成功加载SVI参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-27 10:40:00 (模型来自 2025-08-27 10:30:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-27 10:40:00	2025-08-27 10:30:00	forecast	clear	0.01076718745442221	0.029090349110151514	8.117095851910104	0.0971766034497041	0	0.0
+RMSE: 0.010767 | MAPE: 0.029090 | Price RMSE: 8.117096 | Price MAPE: 0.097177
+
+所有指定分钟测试完成
+源分钟: 2025-08-27 11:00:00 -> 测试分钟: 2025-08-27 11:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-27_11_00_00.pkl
+成功加载SVI参数，包含 4 个到期日
+
+===== 测试分钟 2025-08-27 11:10:00 (模型来自 2025-08-27 11:00:00) =====
+⚠️  到期日 2026-03-20 无对应的SVI参数，跳过
+⚠️  到期日 2026-06-19 无对应的SVI参数，跳过
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-27 11:10:00	2025-08-27 11:00:00	forecast	clear	0.01028904648625091	0.024621011738899162	6.056094284980641	0.09150500424322354	0	0.0
+RMSE: 0.010289 | MAPE: 0.024621 | Price RMSE: 6.056094 | Price MAPE: 0.091505
+
+所有指定分钟测试完成
+源分钟: 2025-08-27 11:20:00 -> 测试分钟: 2025-08-27 11:30:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-27_11_20_00.pkl
+成功加载SVI参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-27 11:30:00 (模型来自 2025-08-27 11:20:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-27 11:30:00	2025-08-27 11:20:00	forecast	clear	0.009951807177191409	0.02760404951709282	7.838713900597564	0.1090538998578609	0	0.0
+RMSE: 0.009952 | MAPE: 0.027604 | Price RMSE: 7.838714 | Price MAPE: 0.109054
+
+所有指定分钟测试完成
+源分钟: 2025-08-27 13:00:00 -> 测试分钟: 2025-08-27 13:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-27_13_00_00.pkl
+成功加载SVI参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-27 13:10:00 (模型来自 2025-08-27 13:00:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-27 13:10:00	2025-08-27 13:00:00	forecast	clear	0.009838733072079714	0.02739554361565955	8.264093990337424	0.09982132994303138	0	0.0
+RMSE: 0.009839 | MAPE: 0.027396 | Price RMSE: 8.264094 | Price MAPE: 0.099821
+
+所有指定分钟测试完成
+源分钟: 2025-08-27 13:30:00 -> 测试分钟: 2025-08-27 13:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-27_13_30_00.pkl
+成功加载SVI参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-27 13:40:00 (模型来自 2025-08-27 13:30:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-27 13:40:00	2025-08-27 13:30:00	forecast	clear	0.008957701328815643	0.02687810220062791	11.563160636133606	0.10435568483650473	0	0.0
+RMSE: 0.008958 | MAPE: 0.026878 | Price RMSE: 11.563161 | Price MAPE: 0.104356
+
+所有指定分钟测试完成
+源分钟: 2025-08-27 14:00:00 -> 测试分钟: 2025-08-27 14:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-27_14_00_00.pkl
+成功加载SVI参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-27 14:10:00 (模型来自 2025-08-27 14:00:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-27 14:10:00	2025-08-27 14:00:00	forecast	clear	0.01023225671609868	0.02935504329683365	7.191924124917028	0.1178158083274807	0	0.0
+RMSE: 0.010232 | MAPE: 0.029355 | Price RMSE: 7.191924 | Price MAPE: 0.117816
+
+所有指定分钟测试完成
+源分钟: 2025-08-27 14:30:00 -> 测试分钟: 2025-08-27 14:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-27_14_30_00.pkl
+成功加载SVI参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-27 14:40:00 (模型来自 2025-08-27 14:30:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-27 14:40:00	2025-08-27 14:30:00	forecast	clear	0.009042550605131445	0.027427692882019256	6.997427465148562	0.081603637262209	0	0.0
+RMSE: 0.009043 | MAPE: 0.027428 | Price RMSE: 6.997427 | Price MAPE: 0.081604
+
+所有指定分钟测试完成
+源分钟: 2025-08-27 14:50:00 -> 测试分钟: 2025-08-27 15:00:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-27_14_50_00.pkl
+成功加载SVI参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-27 15:00:00 (模型来自 2025-08-27 14:50:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-27 15:00:00	2025-08-27 14:50:00	forecast	clear	0.010893454087412187	0.034631573904549906	7.342785420410566	0.09749581910445702	0	0.0
+RMSE: 0.010893 | MAPE: 0.034632 | Price RMSE: 7.342785 | Price MAPE: 0.097496
+
+所有指定分钟测试完成
+源分钟: 2025-08-29 09:30:00 -> 测试分钟: 2025-08-29 09:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-29_09_30_00.pkl
+成功加载SVI参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-29 09:40:00 (模型来自 2025-08-29 09:30:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-29 09:40:00	2025-08-29 09:30:00	forecast	clear	0.013911326370913142	0.039663888332400365	11.99097754125124	0.13953187280511248	0	0.0
+RMSE: 0.013911 | MAPE: 0.039664 | Price RMSE: 11.990978 | Price MAPE: 0.139532
+
+所有指定分钟测试完成
+源分钟: 2025-08-29 10:00:00 -> 测试分钟: 2025-08-29 10:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-29_10_00_00.pkl
+成功加载SVI参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-29 10:10:00 (模型来自 2025-08-29 10:00:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-29 10:10:00	2025-08-29 10:00:00	forecast	clear	0.012424725992503419	0.03424146887719804	11.870559036915678	0.12079579939737857	0	0.0
+RMSE: 0.012425 | MAPE: 0.034241 | Price RMSE: 11.870559 | Price MAPE: 0.120796
+
+所有指定分钟测试完成
+源分钟: 2025-08-29 10:30:00 -> 测试分钟: 2025-08-29 10:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-29_10_30_00.pkl
+成功加载SVI参数，包含 4 个到期日
+
+===== 测试分钟 2025-08-29 10:40:00 (模型来自 2025-08-29 10:30:00) =====
+⚠️  到期日 2025-12-19 无对应的SVI参数，跳过
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-29 10:40:00	2025-08-29 10:30:00	forecast	clear	0.02029167066762868	0.06753138654350065	13.446861896029732	0.24789389341046184	0	0.0
+RMSE: 0.020292 | MAPE: 0.067531 | Price RMSE: 13.446862 | Price MAPE: 0.247894
+
+所有指定分钟测试完成
+源分钟: 2025-08-29 11:00:00 -> 测试分钟: 2025-08-29 11:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-29_11_00_00.pkl
+成功加载SVI参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-29 11:10:00 (模型来自 2025-08-29 11:00:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-29 11:10:00	2025-08-29 11:00:00	forecast	clear	0.01052372901861554	0.029789888421646427	6.879354200871057	0.1044604258579003	0	0.0
+RMSE: 0.010524 | MAPE: 0.029790 | Price RMSE: 6.879354 | Price MAPE: 0.104460
+
+所有指定分钟测试完成
+源分钟: 2025-08-29 11:20:00 -> 测试分钟: 2025-08-29 11:30:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-29_11_20_00.pkl
+成功加载SVI参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-29 11:30:00 (模型来自 2025-08-29 11:20:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-29 11:30:00	2025-08-29 11:20:00	forecast	clear	0.009812235801996378	0.025287089018533444	6.9757332906914815	0.0908056512507091	0	0.0
+RMSE: 0.009812 | MAPE: 0.025287 | Price RMSE: 6.975733 | Price MAPE: 0.090806
+
+所有指定分钟测试完成
+源分钟: 2025-08-29 13:00:00 -> 测试分钟: 2025-08-29 13:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-29_13_00_00.pkl
+成功加载SVI参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-29 13:10:00 (模型来自 2025-08-29 13:00:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-29 13:10:00	2025-08-29 13:00:00	forecast	clear	0.03796369488104147	0.07246102673671952	35.80697033922824	0.210988454701299	0	0.0
+RMSE: 0.037964 | MAPE: 0.072461 | Price RMSE: 35.806970 | Price MAPE: 0.210988
+
+所有指定分钟测试完成
+源分钟: 2025-08-29 13:30:00 -> 测试分钟: 2025-08-29 13:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-29_13_30_00.pkl
+成功加载SVI参数，包含 5 个到期日
+
+===== 测试分钟 2025-08-29 13:40:00 (模型来自 2025-08-29 13:30:00) =====
+⚠️  到期日 2026-06-19 无对应的SVI参数，跳过
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-29 13:40:00	2025-08-29 13:30:00	forecast	clear	0.00953768940023486	0.02536368072961333	5.860313032770825	0.09766963759013822	0	0.0
+RMSE: 0.009538 | MAPE: 0.025364 | Price RMSE: 5.860313 | Price MAPE: 0.097670
+
+所有指定分钟测试完成
+源分钟: 2025-08-29 14:00:00 -> 测试分钟: 2025-08-29 14:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-29_14_00_00.pkl
+成功加载SVI参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-29 14:10:00 (模型来自 2025-08-29 14:00:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-29 14:10:00	2025-08-29 14:00:00	forecast	clear	0.010965508481016392	0.03045543805355022	8.987764434453103	0.10294214609487543	0	0.0
+RMSE: 0.010966 | MAPE: 0.030455 | Price RMSE: 8.987764 | Price MAPE: 0.102942
+
+所有指定分钟测试完成
+源分钟: 2025-08-29 14:30:00 -> 测试分钟: 2025-08-29 14:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-29_14_30_00.pkl
+成功加载SVI参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-29 14:40:00 (模型来自 2025-08-29 14:30:00) =====
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-29 14:40:00	2025-08-29 14:30:00	forecast	clear	0.014465976184952664	0.05352428195299673	9.398074364027087	0.16763858141729712	0	0.0
+RMSE: 0.014466 | MAPE: 0.053524 | Price RMSE: 9.398074 | Price MAPE: 0.167639
+
+所有指定分钟测试完成
+源分钟: 2025-08-29 14:50:00 -> 测试分钟: 2025-08-29 15:00:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SVI参数: ./results_forecasting/svi_forecast_all/hushen300_minute_forecast_clear/svi_params_2025-08-29_14_50_00.pkl
+成功加载SVI参数，包含 4 个到期日
+
+===== 测试分钟 2025-08-29 15:00:00 (模型来自 2025-08-29 14:50:00) =====
+⚠️  到期日 2026-03-20 无对应的SVI参数，跳过
+⚠️  到期日 2026-06-19 无对应的SVI参数，跳过
+svi	svi_forecast_all	hushen300_minute	0.0	2025-08-29 15:00:00	2025-08-29 14:50:00	forecast	clear	0.011922292162083766	0.035146047165973915	6.17874183004925	0.13074705662240127	0	0.0
+RMSE: 0.011922 | MAPE: 0.035146 | Price RMSE: 6.178742 | Price MAPE: 0.130747
+
+所有指定分钟测试完成
+
+==========================================
+SVI跨分钟批量测试结束时间: 2025-10-18 10:54:29
+==========================================

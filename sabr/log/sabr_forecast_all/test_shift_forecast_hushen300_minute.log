@@ -1,0 +1,1262 @@
+==========================================
+SABR跨分钟批量测试开始时间: 2025-10-18 11:33:30
+模型来源标记列: train_flag_inter
+测试偏移: 10 分钟
+==========================================
+源分钟: 2025-08-04 09:30:00 -> 测试分钟: 2025-08-04 09:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-04_09_30_00.pkl
+成功加载SABR参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-04 09:40:00 (模型来自 2025-08-04 09:30:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-04 09:40:00	2025-08-04 09:30:00	forecast	clear	0.007412977537999481	0.022453327506234137	3.8809571368027878	0.09402674125324163	0	1.3161973297162315e-07
+RMSE: 0.007413 | MAPE: 0.022453 | Price RMSE: 3.880957 | Price MAPE: 0.094027
+
+所有指定分钟测试完成
+源分钟: 2025-08-04 10:00:00 -> 测试分钟: 2025-08-04 10:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-04_10_00_00.pkl
+成功加载SABR参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-04 10:10:00 (模型来自 2025-08-04 10:00:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-04 10:10:00	2025-08-04 10:00:00	forecast	clear	0.008030219539491505	0.030273620602640987	2.448611408402268	0.1236421080815306	0	0.0
+RMSE: 0.008030 | MAPE: 0.030274 | Price RMSE: 2.448611 | Price MAPE: 0.123642
+
+所有指定分钟测试完成
+源分钟: 2025-08-04 10:30:00 -> 测试分钟: 2025-08-04 10:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-04_10_30_00.pkl
+成功加载SABR参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-04 10:40:00 (模型来自 2025-08-04 10:30:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-04 10:40:00	2025-08-04 10:30:00	forecast	clear	0.008880349905128431	0.030030847033889318	2.1432276536210826	0.13066205640340883	0	0.0
+RMSE: 0.008880 | MAPE: 0.030031 | Price RMSE: 2.143228 | Price MAPE: 0.130662
+
+所有指定分钟测试完成
+源分钟: 2025-08-04 11:00:00 -> 测试分钟: 2025-08-04 11:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-04_11_00_00.pkl
+成功加载SABR参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-04 11:10:00 (模型来自 2025-08-04 11:00:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-04 11:10:00	2025-08-04 11:00:00	forecast	clear	0.008551414946110697	0.02931929636806206	2.046704825537764	0.12966915948346258	0	0.0
+RMSE: 0.008551 | MAPE: 0.029319 | Price RMSE: 2.046705 | Price MAPE: 0.129669
+
+所有指定分钟测试完成
+源分钟: 2025-08-04 11:20:00 -> 测试分钟: 2025-08-04 11:30:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-04_11_20_00.pkl
+成功加载SABR参数，包含 5 个到期日
+
+===== 测试分钟 2025-08-04 11:30:00 (模型来自 2025-08-04 11:20:00) =====
+⚠️  到期日 2025-12-19 无对应的SABR参数，跳过
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-04 11:30:00	2025-08-04 11:20:00	forecast	clear	0.009321626345073719	0.035475977795805635	2.504150436266448	0.13913312819544932	0	0.0
+RMSE: 0.009322 | MAPE: 0.035476 | Price RMSE: 2.504150 | Price MAPE: 0.139133
+
+所有指定分钟测试完成
+源分钟: 2025-08-04 13:00:00 -> 测试分钟: 2025-08-04 13:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-04_13_00_00.pkl
+成功加载SABR参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-04 13:10:00 (模型来自 2025-08-04 13:00:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-04 13:10:00	2025-08-04 13:00:00	forecast	clear	0.009623392545487875	0.03338503930474595	1.8878734230542427	0.1428337577047582	0	0.0
+RMSE: 0.009623 | MAPE: 0.033385 | Price RMSE: 1.887873 | Price MAPE: 0.142834
+
+所有指定分钟测试完成
+源分钟: 2025-08-04 13:30:00 -> 测试分钟: 2025-08-04 13:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-04_13_30_00.pkl
+成功加载SABR参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-04 13:40:00 (模型来自 2025-08-04 13:30:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-04 13:40:00	2025-08-04 13:30:00	forecast	clear	0.010153778829883792	0.03688470213822539	1.9088888173115648	0.17575392788668043	0	0.0
+RMSE: 0.010154 | MAPE: 0.036885 | Price RMSE: 1.908889 | Price MAPE: 0.175754
+
+所有指定分钟测试完成
+源分钟: 2025-08-04 14:00:00 -> 测试分钟: 2025-08-04 14:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-04_14_00_00.pkl
+成功加载SABR参数，包含 5 个到期日
+
+===== 测试分钟 2025-08-04 14:10:00 (模型来自 2025-08-04 14:00:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-04 14:10:00	2025-08-04 14:00:00	forecast	clear	0.012281570246986482	0.044772239907364154	4.975028384215967	0.14732272504593466	0	1.7934385406319953e-07
+RMSE: 0.012282 | MAPE: 0.044772 | Price RMSE: 4.975028 | Price MAPE: 0.147323
+
+所有指定分钟测试完成
+源分钟: 2025-08-04 14:30:00 -> 测试分钟: 2025-08-04 14:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-04_14_30_00.pkl
+成功加载SABR参数，包含 5 个到期日
+
+===== 测试分钟 2025-08-04 14:40:00 (模型来自 2025-08-04 14:30:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-04 14:40:00	2025-08-04 14:30:00	forecast	clear	0.010952938183673228	0.039225822508913086	2.6288281308753856	0.17955489904287691	0	0.0
+RMSE: 0.010953 | MAPE: 0.039226 | Price RMSE: 2.628828 | Price MAPE: 0.179555
+
+所有指定分钟测试完成
+源分钟: 2025-08-04 14:50:00 -> 测试分钟: 2025-08-04 15:00:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-04_14_50_00.pkl
+成功加载SABR参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-04 15:00:00 (模型来自 2025-08-04 14:50:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-04 15:00:00	2025-08-04 14:50:00	forecast	clear	0.008459939102075298	0.02794053226087973	2.7120455164055626	0.11703059074166032	0	1.021037011918098e-07
+RMSE: 0.008460 | MAPE: 0.027941 | Price RMSE: 2.712046 | Price MAPE: 0.117031
+
+所有指定分钟测试完成
+源分钟: 2025-08-06 09:30:00 -> 测试分钟: 2025-08-06 09:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-06_09_30_00.pkl
+成功加载SABR参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-06 09:40:00 (模型来自 2025-08-06 09:30:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-06 09:40:00	2025-08-06 09:30:00	forecast	clear	0.008899940514440817	0.030667157511568812	6.329520447208375	0.12493644194125285	0	0.0
+RMSE: 0.008900 | MAPE: 0.030667 | Price RMSE: 6.329520 | Price MAPE: 0.124936
+
+所有指定分钟测试完成
+源分钟: 2025-08-06 10:00:00 -> 测试分钟: 2025-08-06 10:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-06_10_00_00.pkl
+成功加载SABR参数，包含 5 个到期日
+
+===== 测试分钟 2025-08-06 10:10:00 (模型来自 2025-08-06 10:00:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-06 10:10:00	2025-08-06 10:00:00	forecast	clear	0.011791483191520862	0.04481666781971313	2.1196718963571124	0.21089206158611934	0	0.0
+RMSE: 0.011791 | MAPE: 0.044817 | Price RMSE: 2.119672 | Price MAPE: 0.210892
+
+所有指定分钟测试完成
+源分钟: 2025-08-06 10:30:00 -> 测试分钟: 2025-08-06 10:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-06_10_30_00.pkl
+成功加载SABR参数，包含 4 个到期日
+
+===== 测试分钟 2025-08-06 10:40:00 (模型来自 2025-08-06 10:30:00) =====
+⚠️  到期日 2026-03-20 无对应的SABR参数，跳过
+⚠️  到期日 2026-06-19 无对应的SABR参数，跳过
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-06 10:40:00	2025-08-06 10:30:00	forecast	clear	0.009056903961824455	0.030960889849364338	1.7501557966661727	0.14116999447287104	0	0.0
+RMSE: 0.009057 | MAPE: 0.030961 | Price RMSE: 1.750156 | Price MAPE: 0.141170
+
+所有指定分钟测试完成
+源分钟: 2025-08-06 11:00:00 -> 测试分钟: 2025-08-06 11:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-06_11_00_00.pkl
+成功加载SABR参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-06 11:10:00 (模型来自 2025-08-06 11:00:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-06 11:10:00	2025-08-06 11:00:00	forecast	clear	0.009067959929660998	0.030958005250058183	2.4992564880052193	0.13221022367382979	0	0.0
+RMSE: 0.009068 | MAPE: 0.030958 | Price RMSE: 2.499256 | Price MAPE: 0.132210
+
+所有指定分钟测试完成
+源分钟: 2025-08-06 11:20:00 -> 测试分钟: 2025-08-06 11:30:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-06_11_20_00.pkl
+成功加载SABR参数，包含 3 个到期日
+
+===== 测试分钟 2025-08-06 11:30:00 (模型来自 2025-08-06 11:20:00) =====
+⚠️  到期日 2025-12-19 无对应的SABR参数，跳过
+⚠️  到期日 2026-03-20 无对应的SABR参数，跳过
+⚠️  到期日 2026-06-19 无对应的SABR参数，跳过
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-06 11:30:00	2025-08-06 11:20:00	forecast	clear	0.01019162784091203	0.03887015126520354	3.0503993592888756	0.15806801361076794	0	0.0
+RMSE: 0.010192 | MAPE: 0.038870 | Price RMSE: 3.050399 | Price MAPE: 0.158068
+
+所有指定分钟测试完成
+源分钟: 2025-08-06 13:00:00 -> 测试分钟: 2025-08-06 13:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-06_13_00_00.pkl
+成功加载SABR参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-06 13:10:00 (模型来自 2025-08-06 13:00:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-06 13:10:00	2025-08-06 13:00:00	forecast	clear	0.009953665000590495	0.03426340974307103	2.6845351602546197	0.14273043758182083	0	1.3454121475139885e-07
+RMSE: 0.009954 | MAPE: 0.034263 | Price RMSE: 2.684535 | Price MAPE: 0.142730
+
+所有指定分钟测试完成
+源分钟: 2025-08-06 13:30:00 -> 测试分钟: 2025-08-06 13:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-06_13_30_00.pkl
+成功加载SABR参数，包含 4 个到期日
+
+===== 测试分钟 2025-08-06 13:40:00 (模型来自 2025-08-06 13:30:00) =====
+⚠️  到期日 2025-10-17 无对应的SABR参数，跳过
+⚠️  到期日 2026-06-19 无对应的SABR参数，跳过
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-06 13:40:00	2025-08-06 13:30:00	forecast	clear	0.00962212323575003	0.031346942034047295	1.6297437451073773	0.14506835576302357	0	0.0
+RMSE: 0.009622 | MAPE: 0.031347 | Price RMSE: 1.629744 | Price MAPE: 0.145068
+
+所有指定分钟测试完成
+源分钟: 2025-08-06 14:00:00 -> 测试分钟: 2025-08-06 14:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-06_14_00_00.pkl
+成功加载SABR参数，包含 5 个到期日
+
+===== 测试分钟 2025-08-06 14:10:00 (模型来自 2025-08-06 14:00:00) =====
+⚠️  到期日 2025-12-19 无对应的SABR参数，跳过
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-06 14:10:00	2025-08-06 14:00:00	forecast	clear	0.009300474984270836	0.03076714286445151	4.655684998596435	0.10112388174673524	0	1.4684977400712092e-07
+RMSE: 0.009300 | MAPE: 0.030767 | Price RMSE: 4.655685 | Price MAPE: 0.101124
+
+所有指定分钟测试完成
+源分钟: 2025-08-06 14:30:00 -> 测试分钟: 2025-08-06 14:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-06_14_30_00.pkl
+成功加载SABR参数，包含 5 个到期日
+
+===== 测试分钟 2025-08-06 14:40:00 (模型来自 2025-08-06 14:30:00) =====
+⚠️  到期日 2025-08-15 无对应的SABR参数，跳过
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-06 14:40:00	2025-08-06 14:30:00	forecast	clear	0.007075889132402995	0.021818566980683057	3.253972837048903	0.08102228613127205	0	2.944712673078052e-07
+RMSE: 0.007076 | MAPE: 0.021819 | Price RMSE: 3.253973 | Price MAPE: 0.081022
+
+所有指定分钟测试完成
+源分钟: 2025-08-06 14:50:00 -> 测试分钟: 2025-08-06 15:00:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-06_14_50_00.pkl
+成功加载SABR参数，包含 4 个到期日
+
+===== 测试分钟 2025-08-06 15:00:00 (模型来自 2025-08-06 14:50:00) =====
+⚠️  到期日 2026-03-20 无对应的SABR参数，跳过
+⚠️  到期日 2026-06-19 无对应的SABR参数，跳过
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-06 15:00:00	2025-08-06 14:50:00	forecast	clear	0.010219920287416516	0.03734894829087841	2.828349621125669	0.14633695369929864	0	0.0
+RMSE: 0.010220 | MAPE: 0.037349 | Price RMSE: 2.828350 | Price MAPE: 0.146337
+
+所有指定分钟测试完成
+源分钟: 2025-08-08 09:30:00 -> 测试分钟: 2025-08-08 09:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-08_09_30_00.pkl
+成功加载SABR参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-08 09:40:00 (模型来自 2025-08-08 09:30:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-08 09:40:00	2025-08-08 09:30:00	forecast	clear	0.009028309774594493	0.024650899344455832	2.4614187963189806	0.09705423052920219	0	0.0
+RMSE: 0.009028 | MAPE: 0.024651 | Price RMSE: 2.461419 | Price MAPE: 0.097054
+
+所有指定分钟测试完成
+源分钟: 2025-08-08 10:00:00 -> 测试分钟: 2025-08-08 10:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-08_10_00_00.pkl
+成功加载SABR参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-08 10:10:00 (模型来自 2025-08-08 10:00:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-08 10:10:00	2025-08-08 10:00:00	forecast	clear	0.008413569030540033	0.02736311176977105	3.4562533363830408	0.10519594149321165	0	0.0
+RMSE: 0.008414 | MAPE: 0.027363 | Price RMSE: 3.456253 | Price MAPE: 0.105196
+
+所有指定分钟测试完成
+源分钟: 2025-08-08 10:30:00 -> 测试分钟: 2025-08-08 10:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-08_10_30_00.pkl
+成功加载SABR参数，包含 5 个到期日
+
+===== 测试分钟 2025-08-08 10:40:00 (模型来自 2025-08-08 10:30:00) =====
+⚠️  到期日 2025-10-17 无对应的SABR参数，跳过
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-08 10:40:00	2025-08-08 10:30:00	forecast	clear	0.00954269809226693	0.03289324791169973	5.665188809801549	0.11622313130991999	0	0.001722027638450074
+RMSE: 0.009543 | MAPE: 0.032893 | Price RMSE: 5.665189 | Price MAPE: 0.116223
+
+所有指定分钟测试完成
+源分钟: 2025-08-08 11:00:00 -> 测试分钟: 2025-08-08 11:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-08_11_00_00.pkl
+成功加载SABR参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-08 11:10:00 (模型来自 2025-08-08 11:00:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-08 11:10:00	2025-08-08 11:00:00	forecast	clear	0.00881975093730861	0.026709333277725702	2.5992438368151607	0.12306777950226079	0	0.0
+RMSE: 0.008820 | MAPE: 0.026709 | Price RMSE: 2.599244 | Price MAPE: 0.123068
+
+所有指定分钟测试完成
+源分钟: 2025-08-08 11:20:00 -> 测试分钟: 2025-08-08 11:30:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-08_11_20_00.pkl
+成功加载SABR参数，包含 4 个到期日
+
+===== 测试分钟 2025-08-08 11:30:00 (模型来自 2025-08-08 11:20:00) =====
+⚠️  到期日 2025-12-19 无对应的SABR参数，跳过
+⚠️  到期日 2026-06-19 无对应的SABR参数，跳过
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-08 11:30:00	2025-08-08 11:20:00	forecast	clear	0.009524766615809773	0.031723420570720195	2.3904057865196036	0.14076903585183795	0	2.8390485880203817e-08
+RMSE: 0.009525 | MAPE: 0.031723 | Price RMSE: 2.390406 | Price MAPE: 0.140769
+
+所有指定分钟测试完成
+源分钟: 2025-08-08 13:00:00 -> 测试分钟: 2025-08-08 13:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-08_13_00_00.pkl
+成功加载SABR参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-08 13:10:00 (模型来自 2025-08-08 13:00:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-08 13:10:00	2025-08-08 13:00:00	forecast	clear	0.009209138079525028	0.029481187320632755	2.7520302556928304	0.12817366156916923	0	0.0
+RMSE: 0.009209 | MAPE: 0.029481 | Price RMSE: 2.752030 | Price MAPE: 0.128174
+
+所有指定分钟测试完成
+源分钟: 2025-08-08 13:30:00 -> 测试分钟: 2025-08-08 13:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-08_13_30_00.pkl
+成功加载SABR参数，包含 4 个到期日
+
+===== 测试分钟 2025-08-08 13:40:00 (模型来自 2025-08-08 13:30:00) =====
+⚠️  到期日 2025-12-19 无对应的SABR参数，跳过
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-08 13:40:00	2025-08-08 13:30:00	forecast	clear	0.010536938871105458	0.03617793432500309	1.9061123761737726	0.1715025922630957	0	0.0
+RMSE: 0.010537 | MAPE: 0.036178 | Price RMSE: 1.906112 | Price MAPE: 0.171503
+
+所有指定分钟测试完成
+源分钟: 2025-08-08 14:00:00 -> 测试分钟: 2025-08-08 14:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-08_14_00_00.pkl
+成功加载SABR参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-08 14:10:00 (模型来自 2025-08-08 14:00:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-08 14:10:00	2025-08-08 14:00:00	forecast	clear	0.009669789048483115	0.035321480861273284	3.3297478463302115	0.14612779212204552	0	0.0
+RMSE: 0.009670 | MAPE: 0.035321 | Price RMSE: 3.329748 | Price MAPE: 0.146128
+
+所有指定分钟测试完成
+源分钟: 2025-08-08 14:30:00 -> 测试分钟: 2025-08-08 14:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-08_14_30_00.pkl
+成功加载SABR参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-08 14:40:00 (模型来自 2025-08-08 14:30:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-08 14:40:00	2025-08-08 14:30:00	forecast	clear	0.009299480340014533	0.03315536912980822	1.7447207839822236	0.16880735336232977	0	0.0
+RMSE: 0.009299 | MAPE: 0.033155 | Price RMSE: 1.744721 | Price MAPE: 0.168807
+
+所有指定分钟测试完成
+源分钟: 2025-08-08 14:50:00 -> 测试分钟: 2025-08-08 15:00:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-08_14_50_00.pkl
+成功加载SABR参数，包含 5 个到期日
+
+===== 测试分钟 2025-08-08 15:00:00 (模型来自 2025-08-08 14:50:00) =====
+⚠️  到期日 2025-10-17 无对应的SABR参数，跳过
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-08 15:00:00	2025-08-08 14:50:00	forecast	clear	0.010613170621560617	0.04157347753457969	5.495585402279078	0.1534552336244755	0	1.4747710924562906e-07
+RMSE: 0.010613 | MAPE: 0.041573 | Price RMSE: 5.495585 | Price MAPE: 0.153455
+
+所有指定分钟测试完成
+源分钟: 2025-08-11 09:30:00 -> 测试分钟: 2025-08-11 09:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-11_09_30_00.pkl
+成功加载SABR参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-11 09:40:00 (模型来自 2025-08-11 09:30:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-11 09:40:00	2025-08-11 09:30:00	forecast	clear	0.00932745569909203	0.030401293931931046	4.090976677124543	0.15872970608897402	0	0.0007367915790529374
+RMSE: 0.009327 | MAPE: 0.030401 | Price RMSE: 4.090977 | Price MAPE: 0.158730
+
+所有指定分钟测试完成
+源分钟: 2025-08-11 10:00:00 -> 测试分钟: 2025-08-11 10:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-11_10_00_00.pkl
+成功加载SABR参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-11 10:10:00 (模型来自 2025-08-11 10:00:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-11 10:10:00	2025-08-11 10:00:00	forecast	clear	0.0102216675215818	0.02669552676822346	2.9401172330668275	0.11271603124398351	0	2.2079556807391875e-08
+RMSE: 0.010222 | MAPE: 0.026696 | Price RMSE: 2.940117 | Price MAPE: 0.112716
+
+所有指定分钟测试完成
+源分钟: 2025-08-11 10:30:00 -> 测试分钟: 2025-08-11 10:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-11_10_30_00.pkl
+成功加载SABR参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-11 10:40:00 (模型来自 2025-08-11 10:30:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-11 10:40:00	2025-08-11 10:30:00	forecast	clear	0.010708984473022884	0.027722745328200512	2.528472014245809	0.12624862746634588	0	0.0
+RMSE: 0.010709 | MAPE: 0.027723 | Price RMSE: 2.528472 | Price MAPE: 0.126249
+
+所有指定分钟测试完成
+源分钟: 2025-08-11 11:00:00 -> 测试分钟: 2025-08-11 11:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-11_11_00_00.pkl
+成功加载SABR参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-11 11:10:00 (模型来自 2025-08-11 11:00:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-11 11:10:00	2025-08-11 11:00:00	forecast	clear	0.011944033288404791	0.03341229949716209	3.7483712070729034	0.1310957932559507	0	0.0
+RMSE: 0.011944 | MAPE: 0.033412 | Price RMSE: 3.748371 | Price MAPE: 0.131096
+
+所有指定分钟测试完成
+源分钟: 2025-08-11 11:20:00 -> 测试分钟: 2025-08-11 11:30:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-11_11_20_00.pkl
+成功加载SABR参数，包含 5 个到期日
+
+===== 测试分钟 2025-08-11 11:30:00 (模型来自 2025-08-11 11:20:00) =====
+⚠️  到期日 2026-06-19 无对应的SABR参数，跳过
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-11 11:30:00	2025-08-11 11:20:00	forecast	clear	0.011683989370962407	0.03055874329387371	3.192691396246082	0.14470198489388833	0	1.7068567276463265e-07
+RMSE: 0.011684 | MAPE: 0.030559 | Price RMSE: 3.192691 | Price MAPE: 0.144702
+
+所有指定分钟测试完成
+源分钟: 2025-08-11 13:00:00 -> 测试分钟: 2025-08-11 13:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-11_13_00_00.pkl
+成功加载SABR参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-11 13:10:00 (模型来自 2025-08-11 13:00:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-11 13:10:00	2025-08-11 13:00:00	forecast	clear	0.007858698098665896	0.03075840296802328	3.547738481239264	0.11668344263944841	0	0.0
+RMSE: 0.007859 | MAPE: 0.030758 | Price RMSE: 3.547738 | Price MAPE: 0.116683
+
+所有指定分钟测试完成
+源分钟: 2025-08-11 13:30:00 -> 测试分钟: 2025-08-11 13:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-11_13_30_00.pkl
+成功加载SABR参数，包含 5 个到期日
+
+===== 测试分钟 2025-08-11 13:40:00 (模型来自 2025-08-11 13:30:00) =====
+⚠️  到期日 2026-06-19 无对应的SABR参数，跳过
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-11 13:40:00	2025-08-11 13:30:00	forecast	clear	0.01133793373339907	0.02897752613701805	2.1206643933131013	0.11286476260356705	0	0.0
+RMSE: 0.011338 | MAPE: 0.028978 | Price RMSE: 2.120664 | Price MAPE: 0.112865
+
+所有指定分钟测试完成
+源分钟: 2025-08-11 14:00:00 -> 测试分钟: 2025-08-11 14:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-11_14_00_00.pkl
+成功加载SABR参数，包含 5 个到期日
+
+===== 测试分钟 2025-08-11 14:10:00 (模型来自 2025-08-11 14:00:00) =====
+⚠️  到期日 2026-06-19 无对应的SABR参数，跳过
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-11 14:10:00	2025-08-11 14:00:00	forecast	clear	0.012300335709842817	0.035753469507212185	2.08702960783826	0.1562310655994232	0	0.0
+RMSE: 0.012300 | MAPE: 0.035753 | Price RMSE: 2.087030 | Price MAPE: 0.156231
+
+所有指定分钟测试完成
+源分钟: 2025-08-11 14:30:00 -> 测试分钟: 2025-08-11 14:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-11_14_30_00.pkl
+成功加载SABR参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-11 14:40:00 (模型来自 2025-08-11 14:30:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-11 14:40:00	2025-08-11 14:30:00	forecast	clear	0.013188982051584095	0.0375897093880472	2.2411907648484686	0.1661293216180533	0	0.0
+RMSE: 0.013189 | MAPE: 0.037590 | Price RMSE: 2.241191 | Price MAPE: 0.166129
+
+所有指定分钟测试完成
+源分钟: 2025-08-11 14:50:00 -> 测试分钟: 2025-08-11 15:00:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-11_14_50_00.pkl
+成功加载SABR参数，包含 4 个到期日
+
+===== 测试分钟 2025-08-11 15:00:00 (模型来自 2025-08-11 14:50:00) =====
+⚠️  到期日 2026-03-20 无对应的SABR参数，跳过
+⚠️  到期日 2026-06-19 无对应的SABR参数，跳过
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-11 15:00:00	2025-08-11 14:50:00	forecast	clear	0.012274444088200156	0.03398253305057993	2.677493569712982	0.15324740552174632	0	0.0
+RMSE: 0.012274 | MAPE: 0.033983 | Price RMSE: 2.677494 | Price MAPE: 0.153247
+
+所有指定分钟测试完成
+源分钟: 2025-08-13 09:30:00 -> 测试分钟: 2025-08-13 09:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-13_09_30_00.pkl
+成功加载SABR参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-13 09:40:00 (模型来自 2025-08-13 09:30:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-13 09:40:00	2025-08-13 09:30:00	forecast	clear	0.014187991086022487	0.03133033763061731	3.8766663924763063	0.1633384192266771	0	1.0783767045861998e-07
+RMSE: 0.014188 | MAPE: 0.031330 | Price RMSE: 3.876666 | Price MAPE: 0.163338
+
+所有指定分钟测试完成
+源分钟: 2025-08-13 10:00:00 -> 测试分钟: 2025-08-13 10:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-13_10_00_00.pkl
+成功加载SABR参数，包含 4 个到期日
+
+===== 测试分钟 2025-08-13 10:10:00 (模型来自 2025-08-13 10:00:00) =====
+⚠️  到期日 2025-12-19 无对应的SABR参数，跳过
+⚠️  到期日 2026-03-20 无对应的SABR参数，跳过
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-13 10:10:00	2025-08-13 10:00:00	forecast	clear	0.02339535042612899	0.07185119103766337	4.221049168014249	0.33008251052186915	0	2.6088061791878474e-07
+RMSE: 0.023395 | MAPE: 0.071851 | Price RMSE: 4.221049 | Price MAPE: 0.330083
+
+所有指定分钟测试完成
+源分钟: 2025-08-13 10:30:00 -> 测试分钟: 2025-08-13 10:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-13_10_30_00.pkl
+成功加载SABR参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-13 10:40:00 (模型来自 2025-08-13 10:30:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-13 10:40:00	2025-08-13 10:30:00	forecast	clear	0.017390557894314183	0.0413214093809974	6.666872551610702	0.18438762437171283	0	7.008634195160281e-08
+RMSE: 0.017391 | MAPE: 0.041321 | Price RMSE: 6.666873 | Price MAPE: 0.184388
+
+所有指定分钟测试完成
+源分钟: 2025-08-13 11:00:00 -> 测试分钟: 2025-08-13 11:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-13_11_00_00.pkl
+成功加载SABR参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-13 11:10:00 (模型来自 2025-08-13 11:00:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-13 11:10:00	2025-08-13 11:00:00	forecast	clear	0.024087803837648004	0.05875091803910648	3.664089174982733	0.24572943642147038	0	1.0792342450527729e-07
+RMSE: 0.024088 | MAPE: 0.058751 | Price RMSE: 3.664089 | Price MAPE: 0.245729
+
+所有指定分钟测试完成
+源分钟: 2025-08-13 11:20:00 -> 测试分钟: 2025-08-13 11:30:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-13_11_20_00.pkl
+成功加载SABR参数，包含 4 个到期日
+
+===== 测试分钟 2025-08-13 11:30:00 (模型来自 2025-08-13 11:20:00) =====
+⚠️  到期日 2025-12-19 无对应的SABR参数，跳过
+⚠️  到期日 2026-06-19 无对应的SABR参数，跳过
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-13 11:30:00	2025-08-13 11:20:00	forecast	clear	0.02549183425719198	0.05683961606126717	4.39518360970454	0.2717176347934452	0	0.0
+RMSE: 0.025492 | MAPE: 0.056840 | Price RMSE: 4.395184 | Price MAPE: 0.271718
+
+所有指定分钟测试完成
+源分钟: 2025-08-13 13:00:00 -> 测试分钟: 2025-08-13 13:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-13_13_00_00.pkl
+成功加载SABR参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-13 13:10:00 (模型来自 2025-08-13 13:00:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-13 13:10:00	2025-08-13 13:00:00	forecast	clear	0.021571359270744387	0.04614275333994177	4.247467292074076	0.2902889646166572	0	0.0
+RMSE: 0.021571 | MAPE: 0.046143 | Price RMSE: 4.247467 | Price MAPE: 0.290289
+
+所有指定分钟测试完成
+源分钟: 2025-08-13 13:30:00 -> 测试分钟: 2025-08-13 13:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-13_13_30_00.pkl
+成功加载SABR参数，包含 5 个到期日
+
+===== 测试分钟 2025-08-13 13:40:00 (模型来自 2025-08-13 13:30:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-13 13:40:00	2025-08-13 13:30:00	forecast	clear	0.009206030053917357	0.033711437594410004	4.097090657961749	0.1359399131657606	0	3.113482768623082e-07
+RMSE: 0.009206 | MAPE: 0.033711 | Price RMSE: 4.097091 | Price MAPE: 0.135940
+
+所有指定分钟测试完成
+源分钟: 2025-08-13 14:00:00 -> 测试分钟: 2025-08-13 14:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-13_14_00_00.pkl
+成功加载SABR参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-13 14:10:00 (模型来自 2025-08-13 14:00:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-13 14:10:00	2025-08-13 14:00:00	forecast	clear	0.022266586027358384	0.05771509321977766	9.59616193028857	0.25185103194743563	0	0.006261289074712267
+RMSE: 0.022267 | MAPE: 0.057715 | Price RMSE: 9.596162 | Price MAPE: 0.251851
+
+所有指定分钟测试完成
+源分钟: 2025-08-13 14:30:00 -> 测试分钟: 2025-08-13 14:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-13_14_30_00.pkl
+成功加载SABR参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-13 14:40:00 (模型来自 2025-08-13 14:30:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-13 14:40:00	2025-08-13 14:30:00	forecast	clear	0.019756998459510504	0.04430896091029255	2.541596412104891	0.24337242043546017	0	3.0738496452260464e-08
+RMSE: 0.019757 | MAPE: 0.044309 | Price RMSE: 2.541596 | Price MAPE: 0.243372
+
+所有指定分钟测试完成
+源分钟: 2025-08-13 14:50:00 -> 测试分钟: 2025-08-13 15:00:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-13_14_50_00.pkl
+成功加载SABR参数，包含 4 个到期日
+
+===== 测试分钟 2025-08-13 15:00:00 (模型来自 2025-08-13 14:50:00) =====
+⚠️  到期日 2026-03-20 无对应的SABR参数，跳过
+⚠️  到期日 2026-06-19 无对应的SABR参数，跳过
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-13 15:00:00	2025-08-13 14:50:00	forecast	clear	0.02471141401489421	0.04811059348608388	4.044638230028923	0.2579458157589779	0	0.0
+RMSE: 0.024711 | MAPE: 0.048111 | Price RMSE: 4.044638 | Price MAPE: 0.257946
+
+所有指定分钟测试完成
+源分钟: 2025-08-15 09:30:00 -> 测试分钟: 2025-08-15 09:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-15_09_30_00.pkl
+成功加载SABR参数，包含 5 个到期日
+
+===== 测试分钟 2025-08-15 09:40:00 (模型来自 2025-08-15 09:30:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-15 09:40:00	2025-08-15 09:30:00	forecast	clear	0.012445716890011203	0.04064649996919356	4.817658839424653	0.21369798137656953	0	0.0
+RMSE: 0.012446 | MAPE: 0.040646 | Price RMSE: 4.817659 | Price MAPE: 0.213698
+
+所有指定分钟测试完成
+源分钟: 2025-08-15 10:00:00 -> 测试分钟: 2025-08-15 10:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-15_10_00_00.pkl
+成功加载SABR参数，包含 4 个到期日
+
+===== 测试分钟 2025-08-15 10:10:00 (模型来自 2025-08-15 10:00:00) =====
+⚠️  到期日 2026-06-19 无对应的SABR参数，跳过
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-15 10:10:00	2025-08-15 10:00:00	forecast	clear	0.011877547279012394	0.037322872435660785	4.607302878680385	0.1494561821145677	0	1.8754623032043608e-07
+RMSE: 0.011878 | MAPE: 0.037323 | Price RMSE: 4.607303 | Price MAPE: 0.149456
+
+所有指定分钟测试完成
+源分钟: 2025-08-15 10:30:00 -> 测试分钟: 2025-08-15 10:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-15_10_30_00.pkl
+成功加载SABR参数，包含 4 个到期日
+
+===== 测试分钟 2025-08-15 10:40:00 (模型来自 2025-08-15 10:30:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-15 10:40:00	2025-08-15 10:30:00	forecast	clear	0.01080113224129312	0.029032928620114272	3.8841960844609664	0.1447906542824761	0	1.3136624594826816e-07
+RMSE: 0.010801 | MAPE: 0.029033 | Price RMSE: 3.884196 | Price MAPE: 0.144791
+
+所有指定分钟测试完成
+源分钟: 2025-08-15 11:00:00 -> 测试分钟: 2025-08-15 11:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-15_11_00_00.pkl
+成功加载SABR参数，包含 5 个到期日
+
+===== 测试分钟 2025-08-15 11:10:00 (模型来自 2025-08-15 11:00:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-15 11:10:00	2025-08-15 11:00:00	forecast	clear	0.011869079194108453	0.037323751223118644	5.241062654747385	0.15250158943619863	0	0.0004942956403346272
+RMSE: 0.011869 | MAPE: 0.037324 | Price RMSE: 5.241063 | Price MAPE: 0.152502
+
+所有指定分钟测试完成
+源分钟: 2025-08-15 11:20:00 -> 测试分钟: 2025-08-15 11:30:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-15_11_20_00.pkl
+成功加载SABR参数，包含 4 个到期日
+
+===== 测试分钟 2025-08-15 11:30:00 (模型来自 2025-08-15 11:20:00) =====
+⚠️  到期日 2026-06-19 无对应的SABR参数，跳过
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-15 11:30:00	2025-08-15 11:20:00	forecast	clear	0.0132329362924016	0.04113405013769424	6.464415655097069	0.1521806527376543	0	2.2427760904374497e-07
+RMSE: 0.013233 | MAPE: 0.041134 | Price RMSE: 6.464416 | Price MAPE: 0.152181
+
+所有指定分钟测试完成
+源分钟: 2025-08-15 13:00:00 -> 测试分钟: 2025-08-15 13:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-15_13_00_00.pkl
+成功加载SABR参数，包含 5 个到期日
+
+===== 测试分钟 2025-08-15 13:10:00 (模型来自 2025-08-15 13:00:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-15 13:10:00	2025-08-15 13:00:00	forecast	clear	0.013372267811724878	0.046189393367651654	4.8160548920421435	0.15193824461898686	0	0.0
+RMSE: 0.013372 | MAPE: 0.046189 | Price RMSE: 4.816055 | Price MAPE: 0.151938
+
+所有指定分钟测试完成
+源分钟: 2025-08-15 13:30:00 -> 测试分钟: 2025-08-15 13:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-15_13_30_00.pkl
+成功加载SABR参数，包含 5 个到期日
+
+===== 测试分钟 2025-08-15 13:40:00 (模型来自 2025-08-15 13:30:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-15 13:40:00	2025-08-15 13:30:00	forecast	clear	0.009142911575712773	0.024056974148314064	5.437427209947722	0.09945590412869136	0	1.8321716420385294e-07
+RMSE: 0.009143 | MAPE: 0.024057 | Price RMSE: 5.437427 | Price MAPE: 0.099456
+
+所有指定分钟测试完成
+源分钟: 2025-08-15 14:00:00 -> 测试分钟: 2025-08-15 14:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-15_14_00_00.pkl
+成功加载SABR参数，包含 5 个到期日
+
+===== 测试分钟 2025-08-15 14:10:00 (模型来自 2025-08-15 14:00:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-15 14:10:00	2025-08-15 14:00:00	forecast	clear	0.015092002362906433	0.051796758802697455	9.794401423564535	0.16916396650613152	0	0.0
+RMSE: 0.015092 | MAPE: 0.051797 | Price RMSE: 9.794401 | Price MAPE: 0.169164
+
+所有指定分钟测试完成
+源分钟: 2025-08-15 14:30:00 -> 测试分钟: 2025-08-15 14:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-15_14_30_00.pkl
+成功加载SABR参数，包含 4 个到期日
+
+===== 测试分钟 2025-08-15 14:40:00 (模型来自 2025-08-15 14:30:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-15 14:40:00	2025-08-15 14:30:00	forecast	clear	0.012618779854699102	0.04631865897325496	5.809598195453761	0.16804038837887217	0	0.0
+RMSE: 0.012619 | MAPE: 0.046319 | Price RMSE: 5.809598 | Price MAPE: 0.168040
+
+所有指定分钟测试完成
+源分钟: 2025-08-15 14:50:00 -> 测试分钟: 2025-08-15 15:00:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-15_14_50_00.pkl
+成功加载SABR参数，包含 5 个到期日
+
+===== 测试分钟 2025-08-15 15:00:00 (模型来自 2025-08-15 14:50:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-15 15:00:00	2025-08-15 14:50:00	forecast	clear	0.007830518828927503	0.023059996149705494	6.99289684206037	0.10113076497781932	0	0.0
+RMSE: 0.007831 | MAPE: 0.023060 | Price RMSE: 6.992897 | Price MAPE: 0.101131
+
+所有指定分钟测试完成
+源分钟: 2025-08-18 09:30:00 -> 测试分钟: 2025-08-18 09:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-18_09_30_00.pkl
+成功加载SABR参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-18 09:40:00 (模型来自 2025-08-18 09:30:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-18 09:40:00	2025-08-18 09:30:00	forecast	clear	0.011278953543658033	0.03519731674993899	8.328681557687004	0.14466869683704375	0	4.298870227808728e-07
+RMSE: 0.011279 | MAPE: 0.035197 | Price RMSE: 8.328682 | Price MAPE: 0.144669
+
+所有指定分钟测试完成
+源分钟: 2025-08-18 10:00:00 -> 测试分钟: 2025-08-18 10:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-18_10_00_00.pkl
+成功加载SABR参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-18 10:10:00 (模型来自 2025-08-18 10:00:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-18 10:10:00	2025-08-18 10:00:00	forecast	clear	0.012719982040698427	0.041043720607003	9.731950950091182	0.16072137063377084	0	3.072141108231042e-07
+RMSE: 0.012720 | MAPE: 0.041044 | Price RMSE: 9.731951 | Price MAPE: 0.160721
+
+所有指定分钟测试完成
+源分钟: 2025-08-18 10:30:00 -> 测试分钟: 2025-08-18 10:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-18_10_30_00.pkl
+成功加载SABR参数，包含 4 个到期日
+
+===== 测试分钟 2025-08-18 10:40:00 (模型来自 2025-08-18 10:30:00) =====
+⚠️  到期日 2025-11-21 无对应的SABR参数，跳过
+⚠️  到期日 2026-06-19 无对应的SABR参数，跳过
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-18 10:40:00	2025-08-18 10:30:00	forecast	clear	0.012701854764818159	0.035269514719714	4.999124768060794	0.14933873898810276	0	1.4324801652949949e-06
+RMSE: 0.012702 | MAPE: 0.035270 | Price RMSE: 4.999125 | Price MAPE: 0.149339
+
+所有指定分钟测试完成
+源分钟: 2025-08-18 11:00:00 -> 测试分钟: 2025-08-18 11:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-18_11_00_00.pkl
+成功加载SABR参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-18 11:10:00 (模型来自 2025-08-18 11:00:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-18 11:10:00	2025-08-18 11:00:00	forecast	clear	0.025728952817714576	0.08461785299340917	24.175632231092326	0.33419332466887225	0	0.0
+RMSE: 0.025729 | MAPE: 0.084618 | Price RMSE: 24.175632 | Price MAPE: 0.334193
+
+所有指定分钟测试完成
+源分钟: 2025-08-18 11:20:00 -> 测试分钟: 2025-08-18 11:30:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-18_11_20_00.pkl
+成功加载SABR参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-18 11:30:00 (模型来自 2025-08-18 11:20:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-18 11:30:00	2025-08-18 11:20:00	forecast	clear	0.028449577981384547	0.08648070404286486	25.326029647177727	0.2539301899856954	0	1.3195159902714112e-06
+RMSE: 0.028450 | MAPE: 0.086481 | Price RMSE: 25.326030 | Price MAPE: 0.253930
+
+所有指定分钟测试完成
+源分钟: 2025-08-18 13:00:00 -> 测试分钟: 2025-08-18 13:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-18_13_00_00.pkl
+成功加载SABR参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-18 13:10:00 (模型来自 2025-08-18 13:00:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-18 13:10:00	2025-08-18 13:00:00	forecast	clear	0.01719134344841713	0.056020361425889446	15.63362937315243	0.22270663341496905	0	0.0
+RMSE: 0.017191 | MAPE: 0.056020 | Price RMSE: 15.633629 | Price MAPE: 0.222707
+
+所有指定分钟测试完成
+源分钟: 2025-08-18 13:30:00 -> 测试分钟: 2025-08-18 13:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-18_13_30_00.pkl
+成功加载SABR参数，包含 5 个到期日
+
+===== 测试分钟 2025-08-18 13:40:00 (模型来自 2025-08-18 13:30:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-18 13:40:00	2025-08-18 13:30:00	forecast	clear	0.014607179147923395	0.04781030544046423	8.74525151055081	0.16067286753096638	0	4.818775024687829e-07
+RMSE: 0.014607 | MAPE: 0.047810 | Price RMSE: 8.745252 | Price MAPE: 0.160673
+
+所有指定分钟测试完成
+源分钟: 2025-08-18 14:00:00 -> 测试分钟: 2025-08-18 14:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-18_14_00_00.pkl
+成功加载SABR参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-18 14:10:00 (模型来自 2025-08-18 14:00:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-18 14:10:00	2025-08-18 14:00:00	forecast	clear	0.024487206373373455	0.07096000672978257	20.244298402811854	0.25528308136516153	0	7.3519506913742895e-06
+RMSE: 0.024487 | MAPE: 0.070960 | Price RMSE: 20.244298 | Price MAPE: 0.255283
+
+所有指定分钟测试完成
+源分钟: 2025-08-18 14:30:00 -> 测试分钟: 2025-08-18 14:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-18_14_30_00.pkl
+成功加载SABR参数，包含 5 个到期日
+
+===== 测试分钟 2025-08-18 14:40:00 (模型来自 2025-08-18 14:30:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-18 14:40:00	2025-08-18 14:30:00	forecast	clear	0.027907202950089763	0.08490353242420152	26.97215173276791	0.2356790626290326	0	0.0
+RMSE: 0.027907 | MAPE: 0.084904 | Price RMSE: 26.972152 | Price MAPE: 0.235679
+
+所有指定分钟测试完成
+源分钟: 2025-08-18 14:50:00 -> 测试分钟: 2025-08-18 15:00:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-18_14_50_00.pkl
+成功加载SABR参数，包含 5 个到期日
+
+===== 测试分钟 2025-08-18 15:00:00 (模型来自 2025-08-18 14:50:00) =====
+⚠️  到期日 2026-06-19 无对应的SABR参数，跳过
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-18 15:00:00	2025-08-18 14:50:00	forecast	clear	0.05288856322189706	0.16658419729455334	34.31180872964155	0.5214978409350911	0	3.3520738192500756e-05
+RMSE: 0.052889 | MAPE: 0.166584 | Price RMSE: 34.311809 | Price MAPE: 0.521498
+
+所有指定分钟测试完成
+源分钟: 2025-08-20 09:30:00 -> 测试分钟: 2025-08-20 09:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-20_09_30_00.pkl
+成功加载SABR参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-20 09:40:00 (模型来自 2025-08-20 09:30:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-20 09:40:00	2025-08-20 09:30:00	forecast	clear	0.013742413226989336	0.04439126436327118	6.724942585534821	0.2042397507826909	0	3.6609142837260266e-07
+RMSE: 0.013742 | MAPE: 0.044391 | Price RMSE: 6.724943 | Price MAPE: 0.204240
+
+所有指定分钟测试完成
+源分钟: 2025-08-20 10:00:00 -> 测试分钟: 2025-08-20 10:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-20_10_00_00.pkl
+成功加载SABR参数，包含 4 个到期日
+
+===== 测试分钟 2025-08-20 10:10:00 (模型来自 2025-08-20 10:00:00) =====
+⚠️  到期日 2025-11-21 无对应的SABR参数，跳过
+⚠️  到期日 2026-03-20 无对应的SABR参数，跳过
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-20 10:10:00	2025-08-20 10:00:00	forecast	clear	0.013935441065535641	0.0427785070569636	10.589363735599383	0.19095112519219035	0	6.800546338556812e-08
+RMSE: 0.013935 | MAPE: 0.042779 | Price RMSE: 10.589364 | Price MAPE: 0.190951
+
+所有指定分钟测试完成
+源分钟: 2025-08-20 10:30:00 -> 测试分钟: 2025-08-20 10:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-20_10_30_00.pkl
+成功加载SABR参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-20 10:40:00 (模型来自 2025-08-20 10:30:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-20 10:40:00	2025-08-20 10:30:00	forecast	clear	0.012659419401762007	0.03321515555949322	2.9808303495796387	0.15216250820683952	0	7.229300660215835e-08
+RMSE: 0.012659 | MAPE: 0.033215 | Price RMSE: 2.980830 | Price MAPE: 0.152163
+
+所有指定分钟测试完成
+源分钟: 2025-08-20 11:00:00 -> 测试分钟: 2025-08-20 11:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-20_11_00_00.pkl
+成功加载SABR参数，包含 4 个到期日
+
+===== 测试分钟 2025-08-20 11:10:00 (模型来自 2025-08-20 11:00:00) =====
+⚠️  到期日 2025-12-19 无对应的SABR参数，跳过
+⚠️  到期日 2026-06-19 无对应的SABR参数，跳过
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-20 11:10:00	2025-08-20 11:00:00	forecast	clear	0.012317236525920918	0.034882497949660037	4.437787431032457	0.16200639223413763	0	0.0
+RMSE: 0.012317 | MAPE: 0.034882 | Price RMSE: 4.437787 | Price MAPE: 0.162006
+
+所有指定分钟测试完成
+源分钟: 2025-08-20 11:20:00 -> 测试分钟: 2025-08-20 11:30:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-20_11_20_00.pkl
+成功加载SABR参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-20 11:30:00 (模型来自 2025-08-20 11:20:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-20 11:30:00	2025-08-20 11:20:00	forecast	clear	0.011206985557851093	0.03228975994442557	4.55248635728234	0.14117019198047343	0	2.847705238630643e-07
+RMSE: 0.011207 | MAPE: 0.032290 | Price RMSE: 4.552486 | Price MAPE: 0.141170
+
+所有指定分钟测试完成
+源分钟: 2025-08-20 13:00:00 -> 测试分钟: 2025-08-20 13:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-20_13_00_00.pkl
+成功加载SABR参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-20 13:10:00 (模型来自 2025-08-20 13:00:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-20 13:10:00	2025-08-20 13:00:00	forecast	clear	0.013876225518112375	0.03746318282851917	3.3275498973922324	0.19540839500742477	0	0.0
+RMSE: 0.013876 | MAPE: 0.037463 | Price RMSE: 3.327550 | Price MAPE: 0.195408
+
+所有指定分钟测试完成
+源分钟: 2025-08-20 13:30:00 -> 测试分钟: 2025-08-20 13:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-20_13_30_00.pkl
+成功加载SABR参数，包含 5 个到期日
+
+===== 测试分钟 2025-08-20 13:40:00 (模型来自 2025-08-20 13:30:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-20 13:40:00	2025-08-20 13:30:00	forecast	clear	0.012886635205256123	0.04142127954724012	7.895239505557394	0.16151551207354367	0	0.0
+RMSE: 0.012887 | MAPE: 0.041421 | Price RMSE: 7.895240 | Price MAPE: 0.161516
+
+所有指定分钟测试完成
+源分钟: 2025-08-20 14:00:00 -> 测试分钟: 2025-08-20 14:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-20_14_00_00.pkl
+成功加载SABR参数，包含 5 个到期日
+
+===== 测试分钟 2025-08-20 14:10:00 (模型来自 2025-08-20 14:00:00) =====
+⚠️  到期日 2026-06-19 无对应的SABR参数，跳过
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-20 14:10:00	2025-08-20 14:00:00	forecast	clear	0.010431058672272573	0.03204584599624166	4.557891510098504	0.12160697695225879	0	0.0
+RMSE: 0.010431 | MAPE: 0.032046 | Price RMSE: 4.557892 | Price MAPE: 0.121607
+
+所有指定分钟测试完成
+源分钟: 2025-08-20 14:30:00 -> 测试分钟: 2025-08-20 14:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-20_14_30_00.pkl
+成功加载SABR参数，包含 5 个到期日
+
+===== 测试分钟 2025-08-20 14:40:00 (模型来自 2025-08-20 14:30:00) =====
+⚠️  到期日 2025-12-19 无对应的SABR参数，跳过
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-20 14:40:00	2025-08-20 14:30:00	forecast	clear	0.011939070357811355	0.039063293417582134	11.81985324442714	0.1609963176418698	0	3.371899558640627e-07
+RMSE: 0.011939 | MAPE: 0.039063 | Price RMSE: 11.819853 | Price MAPE: 0.160996
+
+所有指定分钟测试完成
+源分钟: 2025-08-20 14:50:00 -> 测试分钟: 2025-08-20 15:00:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-20_14_50_00.pkl
+成功加载SABR参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-20 15:00:00 (模型来自 2025-08-20 14:50:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-20 15:00:00	2025-08-20 14:50:00	forecast	clear	0.010722399875553646	0.03528155845490757	5.811245319849042	0.12040341629177138	0	0.0
+RMSE: 0.010722 | MAPE: 0.035282 | Price RMSE: 5.811245 | Price MAPE: 0.120403
+
+所有指定分钟测试完成
+源分钟: 2025-08-22 09:30:00 -> 测试分钟: 2025-08-22 09:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-22_09_30_00.pkl
+成功加载SABR参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-22 09:40:00 (模型来自 2025-08-22 09:30:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-22 09:40:00	2025-08-22 09:30:00	forecast	clear	0.010436420672106874	0.033041957859935904	8.077310294759302	0.11995066527996871	0	5.391036864193987e-07
+RMSE: 0.010436 | MAPE: 0.033042 | Price RMSE: 8.077310 | Price MAPE: 0.119951
+
+所有指定分钟测试完成
+源分钟: 2025-08-22 10:00:00 -> 测试分钟: 2025-08-22 10:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-22_10_00_00.pkl
+成功加载SABR参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-22 10:10:00 (模型来自 2025-08-22 10:00:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-22 10:10:00	2025-08-22 10:00:00	forecast	clear	0.008138377682086452	0.02169243599283442	3.938710610863144	0.09388823039772123	0	3.7360553841935567e-07
+RMSE: 0.008138 | MAPE: 0.021692 | Price RMSE: 3.938711 | Price MAPE: 0.093888
+
+所有指定分钟测试完成
+源分钟: 2025-08-22 10:30:00 -> 测试分钟: 2025-08-22 10:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-22_10_30_00.pkl
+成功加载SABR参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-22 10:40:00 (模型来自 2025-08-22 10:30:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-22 10:40:00	2025-08-22 10:30:00	forecast	clear	0.017492060668164843	0.05697998801265356	11.753968034196932	0.20673283394720482	0	0.008657155013736057
+RMSE: 0.017492 | MAPE: 0.056980 | Price RMSE: 11.753968 | Price MAPE: 0.206733
+
+所有指定分钟测试完成
+源分钟: 2025-08-22 11:00:00 -> 测试分钟: 2025-08-22 11:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-22_11_00_00.pkl
+成功加载SABR参数，包含 5 个到期日
+
+===== 测试分钟 2025-08-22 11:10:00 (模型来自 2025-08-22 11:00:00) =====
+⚠️  到期日 2026-06-19 无对应的SABR参数，跳过
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-22 11:10:00	2025-08-22 11:00:00	forecast	clear	0.026949274221952313	0.07494185513784947	19.253673274230195	0.21563216587881556	0	8.581564862188641e-08
+RMSE: 0.026949 | MAPE: 0.074942 | Price RMSE: 19.253673 | Price MAPE: 0.215632
+
+所有指定分钟测试完成
+源分钟: 2025-08-22 11:20:00 -> 测试分钟: 2025-08-22 11:30:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-22_11_20_00.pkl
+成功加载SABR参数，包含 5 个到期日
+
+===== 测试分钟 2025-08-22 11:30:00 (模型来自 2025-08-22 11:20:00) =====
+⚠️  到期日 2026-06-19 无对应的SABR参数，跳过
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-22 11:30:00	2025-08-22 11:20:00	forecast	clear	0.010889350028199754	0.03360966216606924	6.363089049759243	0.12541796629215332	0	0.0
+RMSE: 0.010889 | MAPE: 0.033610 | Price RMSE: 6.363089 | Price MAPE: 0.125418
+
+所有指定分钟测试完成
+源分钟: 2025-08-22 13:00:00 -> 测试分钟: 2025-08-22 13:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-22_13_00_00.pkl
+成功加载SABR参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-22 13:10:00 (模型来自 2025-08-22 13:00:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-22 13:10:00	2025-08-22 13:00:00	forecast	clear	0.013341506246835616	0.04357825951054587	22.568385768344967	0.16367454888676386	0	3.9168069665299586e-07
+RMSE: 0.013342 | MAPE: 0.043578 | Price RMSE: 22.568386 | Price MAPE: 0.163675
+
+所有指定分钟测试完成
+源分钟: 2025-08-22 13:30:00 -> 测试分钟: 2025-08-22 13:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-22_13_30_00.pkl
+成功加载SABR参数，包含 5 个到期日
+
+===== 测试分钟 2025-08-22 13:40:00 (模型来自 2025-08-22 13:30:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-22 13:40:00	2025-08-22 13:30:00	forecast	clear	0.011694361258612083	0.03644873687483971	4.711222579997157	0.1980630576443703	0	0.0
+RMSE: 0.011694 | MAPE: 0.036449 | Price RMSE: 4.711223 | Price MAPE: 0.198063
+
+所有指定分钟测试完成
+源分钟: 2025-08-22 14:00:00 -> 测试分钟: 2025-08-22 14:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-22_14_00_00.pkl
+成功加载SABR参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-22 14:10:00 (模型来自 2025-08-22 14:00:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-22 14:10:00	2025-08-22 14:00:00	forecast	clear	0.011184494230892768	0.03230534323517743	7.817481033275034	0.11147803559617979	0	4.5301957858521606e-08
+RMSE: 0.011184 | MAPE: 0.032305 | Price RMSE: 7.817481 | Price MAPE: 0.111478
+
+所有指定分钟测试完成
+源分钟: 2025-08-22 14:30:00 -> 测试分钟: 2025-08-22 14:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-22_14_30_00.pkl
+成功加载SABR参数，包含 5 个到期日
+
+===== 测试分钟 2025-08-22 14:40:00 (模型来自 2025-08-22 14:30:00) =====
+⚠️  到期日 2026-06-19 无对应的SABR参数，跳过
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-22 14:40:00	2025-08-22 14:30:00	forecast	clear	0.017134868937694663	0.0539378383764126	7.903212786219165	0.16191761711801356	0	0.0
+RMSE: 0.017135 | MAPE: 0.053938 | Price RMSE: 7.903213 | Price MAPE: 0.161918
+
+所有指定分钟测试完成
+源分钟: 2025-08-22 14:50:00 -> 测试分钟: 2025-08-22 15:00:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-22_14_50_00.pkl
+成功加载SABR参数，包含 5 个到期日
+
+===== 测试分钟 2025-08-22 15:00:00 (模型来自 2025-08-22 14:50:00) =====
+⚠️  到期日 2026-03-20 无对应的SABR参数，跳过
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-22 15:00:00	2025-08-22 14:50:00	forecast	clear	0.014346525101961816	0.04810128555075503	10.70195161609572	0.17359025586268073	0	0.0
+RMSE: 0.014347 | MAPE: 0.048101 | Price RMSE: 10.701952 | Price MAPE: 0.173590
+
+所有指定分钟测试完成
+源分钟: 2025-08-25 09:30:00 -> 测试分钟: 2025-08-25 09:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-25_09_30_00.pkl
+成功加载SABR参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-25 09:40:00 (模型来自 2025-08-25 09:30:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-25 09:40:00	2025-08-25 09:30:00	forecast	clear	0.018421123788294268	0.05650576066230595	14.35592510585177	0.15766396665701915	0	2.0427903717020018e-07
+RMSE: 0.018421 | MAPE: 0.056506 | Price RMSE: 14.355925 | Price MAPE: 0.157664
+
+所有指定分钟测试完成
+源分钟: 2025-08-25 10:00:00 -> 测试分钟: 2025-08-25 10:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-25_10_00_00.pkl
+成功加载SABR参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-25 10:10:00 (模型来自 2025-08-25 10:00:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-25 10:10:00	2025-08-25 10:00:00	forecast	clear	0.012441176897956192	0.035083895687643106	8.794537014309315	0.12813913930844742	0	0.0
+RMSE: 0.012441 | MAPE: 0.035084 | Price RMSE: 8.794537 | Price MAPE: 0.128139
+
+所有指定分钟测试完成
+源分钟: 2025-08-25 10:30:00 -> 测试分钟: 2025-08-25 10:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-25_10_30_00.pkl
+成功加载SABR参数，包含 5 个到期日
+
+===== 测试分钟 2025-08-25 10:40:00 (模型来自 2025-08-25 10:30:00) =====
+⚠️  到期日 2026-03-20 无对应的SABR参数，跳过
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-25 10:40:00	2025-08-25 10:30:00	forecast	clear	0.014683746119822181	0.04099199782716593	5.877294254686326	0.17705119639120592	0	0.0
+RMSE: 0.014684 | MAPE: 0.040992 | Price RMSE: 5.877294 | Price MAPE: 0.177051
+
+所有指定分钟测试完成
+源分钟: 2025-08-25 11:00:00 -> 测试分钟: 2025-08-25 11:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-25_11_00_00.pkl
+成功加载SABR参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-25 11:10:00 (模型来自 2025-08-25 11:00:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-25 11:10:00	2025-08-25 11:00:00	forecast	clear	0.01864502662913381	0.05576693455069437	16.55930427534906	0.17191647699510812	0	3.964728381222784e-06
+RMSE: 0.018645 | MAPE: 0.055767 | Price RMSE: 16.559304 | Price MAPE: 0.171916
+
+所有指定分钟测试完成
+源分钟: 2025-08-25 11:20:00 -> 测试分钟: 2025-08-25 11:30:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-25_11_20_00.pkl
+成功加载SABR参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-25 11:30:00 (模型来自 2025-08-25 11:20:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-25 11:30:00	2025-08-25 11:20:00	forecast	clear	0.021624303174144023	0.05750347370508038	23.322529185395307	0.20101406003030156	0	0.0
+RMSE: 0.021624 | MAPE: 0.057503 | Price RMSE: 23.322529 | Price MAPE: 0.201014
+
+所有指定分钟测试完成
+源分钟: 2025-08-25 13:00:00 -> 测试分钟: 2025-08-25 13:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-25_13_00_00.pkl
+成功加载SABR参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-25 13:10:00 (模型来自 2025-08-25 13:00:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-25 13:10:00	2025-08-25 13:00:00	forecast	clear	0.014579931270817602	0.04292232139940654	8.043351425535583	0.16196589743197312	0	3.680569168200293e-07
+RMSE: 0.014580 | MAPE: 0.042922 | Price RMSE: 8.043351 | Price MAPE: 0.161966
+
+所有指定分钟测试完成
+源分钟: 2025-08-25 13:30:00 -> 测试分钟: 2025-08-25 13:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-25_13_30_00.pkl
+成功加载SABR参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-25 13:40:00 (模型来自 2025-08-25 13:30:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-25 13:40:00	2025-08-25 13:30:00	forecast	clear	0.02733782937725904	0.0691029697354913	19.9367732317923	0.2285875079975409	0	6.249213971490737e-07
+RMSE: 0.027338 | MAPE: 0.069103 | Price RMSE: 19.936773 | Price MAPE: 0.228588
+
+所有指定分钟测试完成
+源分钟: 2025-08-25 14:00:00 -> 测试分钟: 2025-08-25 14:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-25_14_00_00.pkl
+成功加载SABR参数，包含 5 个到期日
+
+===== 测试分钟 2025-08-25 14:10:00 (模型来自 2025-08-25 14:00:00) =====
+⚠️  到期日 2026-03-20 无对应的SABR参数，跳过
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-25 14:10:00	2025-08-25 14:00:00	forecast	clear	0.016314970166218853	0.045122801155362935	7.3410715015997035	0.19068919649761065	0	0.0
+RMSE: 0.016315 | MAPE: 0.045123 | Price RMSE: 7.341072 | Price MAPE: 0.190689
+
+所有指定分钟测试完成
+源分钟: 2025-08-25 14:30:00 -> 测试分钟: 2025-08-25 14:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-25_14_30_00.pkl
+成功加载SABR参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-25 14:40:00 (模型来自 2025-08-25 14:30:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-25 14:40:00	2025-08-25 14:30:00	forecast	clear	0.017331138541161605	0.05056694093390538	8.678602703463831	0.24077915550867962	0	0.0
+RMSE: 0.017331 | MAPE: 0.050567 | Price RMSE: 8.678603 | Price MAPE: 0.240779
+
+所有指定分钟测试完成
+源分钟: 2025-08-25 14:50:00 -> 测试分钟: 2025-08-25 15:00:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-25_14_50_00.pkl
+成功加载SABR参数，包含 4 个到期日
+
+===== 测试分钟 2025-08-25 15:00:00 (模型来自 2025-08-25 14:50:00) =====
+⚠️  到期日 2026-03-20 无对应的SABR参数，跳过
+⚠️  到期日 2026-06-19 无对应的SABR参数，跳过
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-25 15:00:00	2025-08-25 14:50:00	forecast	clear	0.018813843415302327	0.05160569718872825	11.577019429185738	0.18109205498542127	0	1.0956237227223508e-08
+RMSE: 0.018814 | MAPE: 0.051606 | Price RMSE: 11.577019 | Price MAPE: 0.181092
+
+所有指定分钟测试完成
+源分钟: 2025-08-27 09:30:00 -> 测试分钟: 2025-08-27 09:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-27_09_30_00.pkl
+成功加载SABR参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-27 09:40:00 (模型来自 2025-08-27 09:30:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-27 09:40:00	2025-08-27 09:30:00	forecast	clear	0.024306160713653872	0.06627643542431394	14.74667429329866	0.27222147462705093	0	0.0
+RMSE: 0.024306 | MAPE: 0.066276 | Price RMSE: 14.746674 | Price MAPE: 0.272221
+
+所有指定分钟测试完成
+源分钟: 2025-08-27 10:00:00 -> 测试分钟: 2025-08-27 10:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-27_10_00_00.pkl
+成功加载SABR参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-27 10:10:00 (模型来自 2025-08-27 10:00:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-27 10:10:00	2025-08-27 10:00:00	forecast	clear	0.015571729129431779	0.04096748170606204	6.512308756018561	0.20509181802938914	0	7.077209143116183e-07
+RMSE: 0.015572 | MAPE: 0.040967 | Price RMSE: 6.512309 | Price MAPE: 0.205092
+
+所有指定分钟测试完成
+源分钟: 2025-08-27 10:30:00 -> 测试分钟: 2025-08-27 10:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-27_10_30_00.pkl
+成功加载SABR参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-27 10:40:00 (模型来自 2025-08-27 10:30:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-27 10:40:00	2025-08-27 10:30:00	forecast	clear	0.0163615018506196	0.042935734540749844	8.22464599935289	0.17394147367162827	0	0.0
+RMSE: 0.016362 | MAPE: 0.042936 | Price RMSE: 8.224646 | Price MAPE: 0.173941
+
+所有指定分钟测试完成
+源分钟: 2025-08-27 11:00:00 -> 测试分钟: 2025-08-27 11:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-27_11_00_00.pkl
+成功加载SABR参数，包含 4 个到期日
+
+===== 测试分钟 2025-08-27 11:10:00 (模型来自 2025-08-27 11:00:00) =====
+⚠️  到期日 2026-03-20 无对应的SABR参数，跳过
+⚠️  到期日 2026-06-19 无对应的SABR参数，跳过
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-27 11:10:00	2025-08-27 11:00:00	forecast	clear	0.016822644054209576	0.04339303194657976	6.690653264848015	0.1937464190194246	0	0.0
+RMSE: 0.016823 | MAPE: 0.043393 | Price RMSE: 6.690653 | Price MAPE: 0.193746
+
+所有指定分钟测试完成
+源分钟: 2025-08-27 11:20:00 -> 测试分钟: 2025-08-27 11:30:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-27_11_20_00.pkl
+成功加载SABR参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-27 11:30:00 (模型来自 2025-08-27 11:20:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-27 11:30:00	2025-08-27 11:20:00	forecast	clear	0.03716756352694634	0.09215575890506868	33.65821582585071	0.3094648366515501	0	2.359299623398787e-08
+RMSE: 0.037168 | MAPE: 0.092156 | Price RMSE: 33.658216 | Price MAPE: 0.309465
+
+所有指定分钟测试完成
+源分钟: 2025-08-27 13:00:00 -> 测试分钟: 2025-08-27 13:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-27_13_00_00.pkl
+成功加载SABR参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-27 13:10:00 (模型来自 2025-08-27 13:00:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-27 13:10:00	2025-08-27 13:00:00	forecast	clear	0.01595274051222895	0.04526968869833896	9.063747507160237	0.1830035762115945	0	1.1981120763189497e-07
+RMSE: 0.015953 | MAPE: 0.045270 | Price RMSE: 9.063748 | Price MAPE: 0.183004
+
+所有指定分钟测试完成
+源分钟: 2025-08-27 13:30:00 -> 测试分钟: 2025-08-27 13:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-27_13_30_00.pkl
+成功加载SABR参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-27 13:40:00 (模型来自 2025-08-27 13:30:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-27 13:40:00	2025-08-27 13:30:00	forecast	clear	0.015888810342083285	0.04391652428205229	10.932209574218062	0.20849685709597496	0	0.0
+RMSE: 0.015889 | MAPE: 0.043917 | Price RMSE: 10.932210 | Price MAPE: 0.208497
+
+所有指定分钟测试完成
+源分钟: 2025-08-27 14:00:00 -> 测试分钟: 2025-08-27 14:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-27_14_00_00.pkl
+成功加载SABR参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-27 14:10:00 (模型来自 2025-08-27 14:00:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-27 14:10:00	2025-08-27 14:00:00	forecast	clear	0.014258978683784345	0.033610109712630114	5.985138757984251	0.17950281676327703	0	1.6229801728780027e-07
+RMSE: 0.014259 | MAPE: 0.033610 | Price RMSE: 5.985139 | Price MAPE: 0.179503
+
+所有指定分钟测试完成
+源分钟: 2025-08-27 14:30:00 -> 测试分钟: 2025-08-27 14:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-27_14_30_00.pkl
+成功加载SABR参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-27 14:40:00 (模型来自 2025-08-27 14:30:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-27 14:40:00	2025-08-27 14:30:00	forecast	clear	0.01583034372975512	0.04451444867611855	8.497595420456776	0.17383766613485102	0	2.553937760331589e-07
+RMSE: 0.015830 | MAPE: 0.044514 | Price RMSE: 8.497595 | Price MAPE: 0.173838
+
+所有指定分钟测试完成
+源分钟: 2025-08-27 14:50:00 -> 测试分钟: 2025-08-27 15:00:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-27_14_50_00.pkl
+成功加载SABR参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-27 15:00:00 (模型来自 2025-08-27 14:50:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-27 15:00:00	2025-08-27 14:50:00	forecast	clear	0.01719616795431733	0.04609312524116951	8.858317838299403	0.19866523693294813	0	2.1713886645788853e-07
+RMSE: 0.017196 | MAPE: 0.046093 | Price RMSE: 8.858318 | Price MAPE: 0.198665
+
+所有指定分钟测试完成
+源分钟: 2025-08-29 09:30:00 -> 测试分钟: 2025-08-29 09:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-29_09_30_00.pkl
+成功加载SABR参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-29 09:40:00 (模型来自 2025-08-29 09:30:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-29 09:40:00	2025-08-29 09:30:00	forecast	clear	0.018538890872518955	0.05354684479836906	9.885684743339151	0.20749906483102923	0	2.288372414685937e-07
+RMSE: 0.018539 | MAPE: 0.053547 | Price RMSE: 9.885685 | Price MAPE: 0.207499
+
+所有指定分钟测试完成
+源分钟: 2025-08-29 10:00:00 -> 测试分钟: 2025-08-29 10:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-29_10_00_00.pkl
+成功加载SABR参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-29 10:10:00 (模型来自 2025-08-29 10:00:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-29 10:10:00	2025-08-29 10:00:00	forecast	clear	0.017630531731112335	0.04706524549242115	9.355042488185708	0.1924283570318515	0	3.2204756868744905e-07
+RMSE: 0.017631 | MAPE: 0.047065 | Price RMSE: 9.355042 | Price MAPE: 0.192428
+
+所有指定分钟测试完成
+源分钟: 2025-08-29 10:30:00 -> 测试分钟: 2025-08-29 10:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-29_10_30_00.pkl
+成功加载SABR参数，包含 4 个到期日
+
+===== 测试分钟 2025-08-29 10:40:00 (模型来自 2025-08-29 10:30:00) =====
+⚠️  到期日 2025-12-19 无对应的SABR参数，跳过
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-29 10:40:00	2025-08-29 10:30:00	forecast	clear	0.018360598747655395	0.042459550626320196	9.696217829277824	0.2429171007784749	0	0.0
+RMSE: 0.018361 | MAPE: 0.042460 | Price RMSE: 9.696218 | Price MAPE: 0.242917
+
+所有指定分钟测试完成
+源分钟: 2025-08-29 11:00:00 -> 测试分钟: 2025-08-29 11:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-29_11_00_00.pkl
+成功加载SABR参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-29 11:10:00 (模型来自 2025-08-29 11:00:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-29 11:10:00	2025-08-29 11:00:00	forecast	clear	0.029318383553945924	0.07270740614500543	26.648146348186078	0.2598904562417015	0	1.7874610929043762e-07
+RMSE: 0.029318 | MAPE: 0.072707 | Price RMSE: 26.648146 | Price MAPE: 0.259890
+
+所有指定分钟测试完成
+源分钟: 2025-08-29 11:20:00 -> 测试分钟: 2025-08-29 11:30:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-29_11_20_00.pkl
+成功加载SABR参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-29 11:30:00 (模型来自 2025-08-29 11:20:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-29 11:30:00	2025-08-29 11:20:00	forecast	clear	0.016105126519888064	0.03793994534618118	7.275268552937649	0.1548566561285366	0	2.0953980294088865e-07
+RMSE: 0.016105 | MAPE: 0.037940 | Price RMSE: 7.275269 | Price MAPE: 0.154857
+
+所有指定分钟测试完成
+源分钟: 2025-08-29 13:00:00 -> 测试分钟: 2025-08-29 13:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-29_13_00_00.pkl
+成功加载SABR参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-29 13:10:00 (模型来自 2025-08-29 13:00:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-29 13:10:00	2025-08-29 13:00:00	forecast	clear	0.03930127771902473	0.0838359587917236	32.1254355941468	0.24462793559158866	0	1.6272296692729435e-07
+RMSE: 0.039301 | MAPE: 0.083836 | Price RMSE: 32.125436 | Price MAPE: 0.244628
+
+所有指定分钟测试完成
+源分钟: 2025-08-29 13:30:00 -> 测试分钟: 2025-08-29 13:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-29_13_30_00.pkl
+成功加载SABR参数，包含 5 个到期日
+
+===== 测试分钟 2025-08-29 13:40:00 (模型来自 2025-08-29 13:30:00) =====
+⚠️  到期日 2026-06-19 无对应的SABR参数，跳过
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-29 13:40:00	2025-08-29 13:30:00	forecast	clear	0.031360402637799975	0.07469431956230074	29.013648293934168	0.26361737049293066	0	2.2085067887109484e-07
+RMSE: 0.031360 | MAPE: 0.074694 | Price RMSE: 29.013648 | Price MAPE: 0.263617
+
+所有指定分钟测试完成
+源分钟: 2025-08-29 14:00:00 -> 测试分钟: 2025-08-29 14:10:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-29_14_00_00.pkl
+成功加载SABR参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-29 14:10:00 (模型来自 2025-08-29 14:00:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-29 14:10:00	2025-08-29 14:00:00	forecast	clear	0.017591225085006157	0.04589906519731065	8.938705016623253	0.1973661081776856	0	1.375464564518274e-07
+RMSE: 0.017591 | MAPE: 0.045899 | Price RMSE: 8.938705 | Price MAPE: 0.197366
+
+所有指定分钟测试完成
+源分钟: 2025-08-29 14:30:00 -> 测试分钟: 2025-08-29 14:40:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-29_14_30_00.pkl
+成功加载SABR参数，包含 6 个到期日
+
+===== 测试分钟 2025-08-29 14:40:00 (模型来自 2025-08-29 14:30:00) =====
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-29 14:40:00	2025-08-29 14:30:00	forecast	clear	0.003965144318099491	0.011429796202301003	1.7700915459830062	0.018683981689289416	0	2.307484422064008e-08
+RMSE: 0.003965 | MAPE: 0.011430 | Price RMSE: 1.770092 | Price MAPE: 0.018684
+
+所有指定分钟测试完成
+源分钟: 2025-08-29 14:50:00 -> 测试分钟: 2025-08-29 15:00:00
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载SABR参数: ./results_forecasting/sabr_forecast_all/hushen300_minute_forecast_clear/sabr_params_2025-08-29_14_50_00.pkl
+成功加载SABR参数，包含 4 个到期日
+
+===== 测试分钟 2025-08-29 15:00:00 (模型来自 2025-08-29 14:50:00) =====
+⚠️  到期日 2026-03-20 无对应的SABR参数，跳过
+⚠️  到期日 2026-06-19 无对应的SABR参数，跳过
+sabr	sabr_forecast_all	hushen300_minute	0.0	2025-08-29 15:00:00	2025-08-29 14:50:00	forecast	clear	0.01981600113650862	0.050054210042943706	6.939876972055063	0.2543393300335629	0	0.0
+RMSE: 0.019816 | MAPE: 0.050054 | Price RMSE: 6.939877 | Price MAPE: 0.254339
+
+所有指定分钟测试完成
+
+==========================================
+SABR跨分钟批量测试结束时间: 2025-10-18 11:36:14
+==========================================

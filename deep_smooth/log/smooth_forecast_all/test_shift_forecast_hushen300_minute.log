@@ -1,0 +1,1209 @@
+==========================================
+跨分钟批量测试开始时间: 2025-10-18 19:16:00
+模型来源标记列: train_flag_inter
+测试偏移: 10 分钟
+==========================================
+源分钟: 2025-08-04 09:30:00 -> 测试分钟: 2025-08-04 09:40:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-04_09_30_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-04 09:40:00 (模型来自 2025-08-04 09:30:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-04 09:40:00	2025-08-04 09:30:00	forecast	clear	0.018480461090803146	0.04734077677130699
+RMSE: 0.018480 | MAPE: 0.047341
+
+所有指定分钟测试完成
+源分钟: 2025-08-04 10:00:00 -> 测试分钟: 2025-08-04 10:10:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-04_10_00_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-04 10:10:00 (模型来自 2025-08-04 10:00:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-04 10:10:00	2025-08-04 10:00:00	forecast	clear	0.0061980909667909145	0.020594680681824684
+RMSE: 0.006198 | MAPE: 0.020595
+
+所有指定分钟测试完成
+源分钟: 2025-08-04 10:30:00 -> 测试分钟: 2025-08-04 10:40:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-04_10_30_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-04 10:40:00 (模型来自 2025-08-04 10:30:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-04 10:40:00	2025-08-04 10:30:00	forecast	clear	0.003732239594683051	0.011997342109680176
+RMSE: 0.003732 | MAPE: 0.011997
+
+所有指定分钟测试完成
+源分钟: 2025-08-04 11:00:00 -> 测试分钟: 2025-08-04 11:10:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-04_11_00_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-04 11:10:00 (模型来自 2025-08-04 11:00:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-04 11:10:00	2025-08-04 11:00:00	forecast	clear	0.008180471137166023	0.02692987583577633
+RMSE: 0.008180 | MAPE: 0.026930
+
+所有指定分钟测试完成
+源分钟: 2025-08-04 11:20:00 -> 测试分钟: 2025-08-04 11:30:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-04_11_20_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-04 11:30:00 (模型来自 2025-08-04 11:20:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-04 11:30:00	2025-08-04 11:20:00	forecast	clear	0.012335867621004581	0.046839214861392975
+RMSE: 0.012336 | MAPE: 0.046839
+
+所有指定分钟测试完成
+源分钟: 2025-08-04 13:00:00 -> 测试分钟: 2025-08-04 13:10:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-04_13_00_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-04 13:10:00 (模型来自 2025-08-04 13:00:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-04 13:10:00	2025-08-04 13:00:00	forecast	clear	0.007794591132551432	0.021631240844726562
+RMSE: 0.007795 | MAPE: 0.021631
+
+所有指定分钟测试完成
+源分钟: 2025-08-04 13:30:00 -> 测试分钟: 2025-08-04 13:40:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-04_13_30_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-04 13:40:00 (模型来自 2025-08-04 13:30:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-04 13:40:00	2025-08-04 13:30:00	forecast	clear	0.0042452458292245865	0.012208040803670883
+RMSE: 0.004245 | MAPE: 0.012208
+
+所有指定分钟测试完成
+源分钟: 2025-08-04 14:00:00 -> 测试分钟: 2025-08-04 14:10:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-04_14_00_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-04 14:10:00 (模型来自 2025-08-04 14:00:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-04 14:10:00	2025-08-04 14:00:00	forecast	clear	0.006242526229470968	0.02074303664267063
+RMSE: 0.006243 | MAPE: 0.020743
+
+所有指定分钟测试完成
+源分钟: 2025-08-04 14:30:00 -> 测试分钟: 2025-08-04 14:40:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-04_14_30_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-04 14:40:00 (模型来自 2025-08-04 14:30:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-04 14:40:00	2025-08-04 14:30:00	forecast	clear	0.003923445008695126	0.011438308283686638
+RMSE: 0.003923 | MAPE: 0.011438
+
+所有指定分钟测试完成
+源分钟: 2025-08-04 14:50:00 -> 测试分钟: 2025-08-04 15:00:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-04_14_50_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-04 15:00:00 (模型来自 2025-08-04 14:50:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-04 15:00:00	2025-08-04 14:50:00	forecast	clear	0.0073907701298594475	0.02547142654657364
+RMSE: 0.007391 | MAPE: 0.025471
+
+所有指定分钟测试完成
+源分钟: 2025-08-06 09:30:00 -> 测试分钟: 2025-08-06 09:40:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-06_09_30_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-06 09:40:00 (模型来自 2025-08-06 09:30:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-06 09:40:00	2025-08-06 09:30:00	forecast	clear	0.00578062329441309	0.02006872184574604
+RMSE: 0.005781 | MAPE: 0.020069
+
+所有指定分钟测试完成
+源分钟: 2025-08-06 10:00:00 -> 测试分钟: 2025-08-06 10:10:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-06_10_00_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-06 10:10:00 (模型来自 2025-08-06 10:00:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-06 10:10:00	2025-08-06 10:00:00	forecast	clear	0.004451882094144821	0.01324482448399067
+RMSE: 0.004452 | MAPE: 0.013245
+
+所有指定分钟测试完成
+源分钟: 2025-08-06 10:30:00 -> 测试分钟: 2025-08-06 10:40:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-06_10_30_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-06 10:40:00 (模型来自 2025-08-06 10:30:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-06 10:40:00	2025-08-06 10:30:00	forecast	clear	0.016796911135315895	0.04768943414092064
+RMSE: 0.016797 | MAPE: 0.047689
+
+所有指定分钟测试完成
+源分钟: 2025-08-06 11:00:00 -> 测试分钟: 2025-08-06 11:10:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-06_11_00_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-06 11:10:00 (模型来自 2025-08-06 11:00:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-06 11:10:00	2025-08-06 11:00:00	forecast	clear	0.003795822849497199	0.012233523651957512
+RMSE: 0.003796 | MAPE: 0.012234
+
+所有指定分钟测试完成
+源分钟: 2025-08-06 11:20:00 -> 测试分钟: 2025-08-06 11:30:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-06_11_20_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-06 11:30:00 (模型来自 2025-08-06 11:20:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-06 11:30:00	2025-08-06 11:20:00	forecast	clear	0.010334410704672337	0.03552769124507904
+RMSE: 0.010334 | MAPE: 0.035528
+
+所有指定分钟测试完成
+源分钟: 2025-08-06 13:00:00 -> 测试分钟: 2025-08-06 13:10:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-06_13_00_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-06 13:10:00 (模型来自 2025-08-06 13:00:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-06 13:10:00	2025-08-06 13:00:00	forecast	clear	0.005641134921461344	0.018837595358490944
+RMSE: 0.005641 | MAPE: 0.018838
+
+所有指定分钟测试完成
+源分钟: 2025-08-06 13:30:00 -> 测试分钟: 2025-08-06 13:40:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-06_13_30_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-06 13:40:00 (模型来自 2025-08-06 13:30:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-06 13:40:00	2025-08-06 13:30:00	forecast	clear	0.004119220655411482	0.014914174564182758
+RMSE: 0.004119 | MAPE: 0.014914
+
+所有指定分钟测试完成
+源分钟: 2025-08-06 14:00:00 -> 测试分钟: 2025-08-06 14:10:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-06_14_00_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-06 14:10:00 (模型来自 2025-08-06 14:00:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-06 14:10:00	2025-08-06 14:00:00	forecast	clear	0.006654674187302589	0.02496485412120819
+RMSE: 0.006655 | MAPE: 0.024965
+
+所有指定分钟测试完成
+源分钟: 2025-08-06 14:30:00 -> 测试分钟: 2025-08-06 14:40:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-06_14_30_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-06 14:40:00 (模型来自 2025-08-06 14:30:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-06 14:40:00	2025-08-06 14:30:00	forecast	clear	0.020927095785737038	0.0540456660091877
+RMSE: 0.020927 | MAPE: 0.054046
+
+所有指定分钟测试完成
+源分钟: 2025-08-06 14:50:00 -> 测试分钟: 2025-08-06 15:00:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-06_14_50_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-06 15:00:00 (模型来自 2025-08-06 14:50:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-06 15:00:00	2025-08-06 14:50:00	forecast	clear	0.004717556294053793	0.017245441675186157
+RMSE: 0.004718 | MAPE: 0.017245
+
+所有指定分钟测试完成
+源分钟: 2025-08-08 09:30:00 -> 测试分钟: 2025-08-08 09:40:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-08_09_30_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-08 09:40:00 (模型来自 2025-08-08 09:30:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-08 09:40:00	2025-08-08 09:30:00	forecast	clear	0.0063693891279399395	0.018224315717816353
+RMSE: 0.006369 | MAPE: 0.018224
+
+所有指定分钟测试完成
+源分钟: 2025-08-08 10:00:00 -> 测试分钟: 2025-08-08 10:10:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-08_10_00_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-08 10:10:00 (模型来自 2025-08-08 10:00:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-08 10:10:00	2025-08-08 10:00:00	forecast	clear	0.02500719390809536	0.054171446710824966
+RMSE: 0.025007 | MAPE: 0.054171
+
+所有指定分钟测试完成
+源分钟: 2025-08-08 10:30:00 -> 测试分钟: 2025-08-08 10:40:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-08_10_30_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-08 10:40:00 (模型来自 2025-08-08 10:30:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-08 10:40:00	2025-08-08 10:30:00	forecast	clear	0.02610209956765175	0.05561739206314087
+RMSE: 0.026102 | MAPE: 0.055617
+
+所有指定分钟测试完成
+源分钟: 2025-08-08 11:00:00 -> 测试分钟: 2025-08-08 11:10:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-08_11_00_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-08 11:10:00 (模型来自 2025-08-08 11:00:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-08 11:10:00	2025-08-08 11:00:00	forecast	clear	0.003838346339762211	0.01078301016241312
+RMSE: 0.003838 | MAPE: 0.010783
+
+所有指定分钟测试完成
+源分钟: 2025-08-08 11:20:00 -> 测试分钟: 2025-08-08 11:30:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-08_11_20_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-08 11:30:00 (模型来自 2025-08-08 11:20:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-08 11:30:00	2025-08-08 11:20:00	forecast	clear	0.008332600817084312	0.02606872096657753
+RMSE: 0.008333 | MAPE: 0.026069
+
+所有指定分钟测试完成
+源分钟: 2025-08-08 13:00:00 -> 测试分钟: 2025-08-08 13:10:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-08_13_00_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-08 13:10:00 (模型来自 2025-08-08 13:00:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-08 13:10:00	2025-08-08 13:00:00	forecast	clear	0.007262934930622578	0.022611459717154503
+RMSE: 0.007263 | MAPE: 0.022611
+
+所有指定分钟测试完成
+源分钟: 2025-08-08 13:30:00 -> 测试分钟: 2025-08-08 13:40:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-08_13_30_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-08 13:40:00 (模型来自 2025-08-08 13:30:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-08 13:40:00	2025-08-08 13:30:00	forecast	clear	0.0060637169517576694	0.019483473151922226
+RMSE: 0.006064 | MAPE: 0.019483
+
+所有指定分钟测试完成
+源分钟: 2025-08-08 14:00:00 -> 测试分钟: 2025-08-08 14:10:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-08_14_00_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-08 14:10:00 (模型来自 2025-08-08 14:00:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-08 14:10:00	2025-08-08 14:00:00	forecast	clear	0.029369236901402473	0.0694163590669632
+RMSE: 0.029369 | MAPE: 0.069416
+
+所有指定分钟测试完成
+源分钟: 2025-08-08 14:30:00 -> 测试分钟: 2025-08-08 14:40:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-08_14_30_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-08 14:40:00 (模型来自 2025-08-08 14:30:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-08 14:40:00	2025-08-08 14:30:00	forecast	clear	0.03418465703725815	0.06899210065603256
+RMSE: 0.034185 | MAPE: 0.068992
+
+所有指定分钟测试完成
+源分钟: 2025-08-08 14:50:00 -> 测试分钟: 2025-08-08 15:00:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-08_14_50_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-08 15:00:00 (模型来自 2025-08-08 14:50:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-08 15:00:00	2025-08-08 14:50:00	forecast	clear	0.006409174762666225	0.02132086455821991
+RMSE: 0.006409 | MAPE: 0.021321
+
+所有指定分钟测试完成
+源分钟: 2025-08-11 09:30:00 -> 测试分钟: 2025-08-11 09:40:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-11_09_30_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-11 09:40:00 (模型来自 2025-08-11 09:30:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-11 09:40:00	2025-08-11 09:30:00	forecast	clear	0.031329188495874405	0.06046260893344879
+RMSE: 0.031329 | MAPE: 0.060463
+
+所有指定分钟测试完成
+源分钟: 2025-08-11 10:00:00 -> 测试分钟: 2025-08-11 10:10:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-11_10_00_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-11 10:10:00 (模型来自 2025-08-11 10:00:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-11 10:10:00	2025-08-11 10:00:00	forecast	clear	0.00798032060265541	0.0153961768373847
+RMSE: 0.007980 | MAPE: 0.015396
+
+所有指定分钟测试完成
+源分钟: 2025-08-11 10:30:00 -> 测试分钟: 2025-08-11 10:40:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-11_10_30_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-11 10:40:00 (模型来自 2025-08-11 10:30:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-11 10:40:00	2025-08-11 10:30:00	forecast	clear	0.010121356695890427	0.02188504859805107
+RMSE: 0.010121 | MAPE: 0.021885
+
+所有指定分钟测试完成
+源分钟: 2025-08-11 11:00:00 -> 测试分钟: 2025-08-11 11:10:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-11_11_00_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-11 11:10:00 (模型来自 2025-08-11 11:00:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-11 11:10:00	2025-08-11 11:00:00	forecast	clear	0.009282433427870274	0.018406536430120468
+RMSE: 0.009282 | MAPE: 0.018407
+
+所有指定分钟测试完成
+源分钟: 2025-08-11 11:20:00 -> 测试分钟: 2025-08-11 11:30:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-11_11_20_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-11 11:30:00 (模型来自 2025-08-11 11:20:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-11 11:30:00	2025-08-11 11:20:00	forecast	clear	0.007552641443908215	0.020654834806919098
+RMSE: 0.007553 | MAPE: 0.020655
+
+所有指定分钟测试完成
+源分钟: 2025-08-11 13:00:00 -> 测试分钟: 2025-08-11 13:10:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-11_13_00_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-11 13:10:00 (模型来自 2025-08-11 13:00:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-11 13:10:00	2025-08-11 13:00:00	forecast	clear	0.005008736625313759	0.019152896478772163
+RMSE: 0.005009 | MAPE: 0.019153
+
+所有指定分钟测试完成
+源分钟: 2025-08-11 13:30:00 -> 测试分钟: 2025-08-11 13:40:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-11_13_30_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-11 13:40:00 (模型来自 2025-08-11 13:30:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-11 13:40:00	2025-08-11 13:30:00	forecast	clear	0.007418379187583923	0.016455352306365967
+RMSE: 0.007418 | MAPE: 0.016455
+
+所有指定分钟测试完成
+源分钟: 2025-08-11 14:00:00 -> 测试分钟: 2025-08-11 14:10:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-11_14_00_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-11 14:10:00 (模型来自 2025-08-11 14:00:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-11 14:10:00	2025-08-11 14:00:00	forecast	clear	0.010479106567800045	0.025359338149428368
+RMSE: 0.010479 | MAPE: 0.025359
+
+所有指定分钟测试完成
+源分钟: 2025-08-11 14:30:00 -> 测试分钟: 2025-08-11 14:40:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-11_14_30_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-11 14:40:00 (模型来自 2025-08-11 14:30:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-11 14:40:00	2025-08-11 14:30:00	forecast	clear	0.012084126472473145	0.02931712567806244
+RMSE: 0.012084 | MAPE: 0.029317
+
+所有指定分钟测试完成
+源分钟: 2025-08-11 14:50:00 -> 测试分钟: 2025-08-11 15:00:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-11_14_50_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-11 15:00:00 (模型来自 2025-08-11 14:50:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-11 15:00:00	2025-08-11 14:50:00	forecast	clear	0.014485539868474007	0.04251442104578018
+RMSE: 0.014486 | MAPE: 0.042514
+
+所有指定分钟测试完成
+源分钟: 2025-08-13 09:30:00 -> 测试分钟: 2025-08-13 09:40:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-13_09_30_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-13 09:40:00 (模型来自 2025-08-13 09:30:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-13 09:40:00	2025-08-13 09:30:00	forecast	clear	0.01483204122632742	0.029174717143177986
+RMSE: 0.014832 | MAPE: 0.029175
+
+所有指定分钟测试完成
+源分钟: 2025-08-13 10:00:00 -> 测试分钟: 2025-08-13 10:10:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-13_10_00_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-13 10:10:00 (模型来自 2025-08-13 10:00:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-13 10:10:00	2025-08-13 10:00:00	forecast	clear	0.014277727343142033	0.041598908603191376
+RMSE: 0.014278 | MAPE: 0.041599
+
+所有指定分钟测试完成
+源分钟: 2025-08-13 10:30:00 -> 测试分钟: 2025-08-13 10:40:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-13_10_30_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-13 10:40:00 (模型来自 2025-08-13 10:30:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-13 10:40:00	2025-08-13 10:30:00	forecast	clear	0.011713550426065922	0.023597421124577522
+RMSE: 0.011714 | MAPE: 0.023597
+
+所有指定分钟测试完成
+源分钟: 2025-08-13 11:00:00 -> 测试分钟: 2025-08-13 11:10:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-13_11_00_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-13 11:10:00 (模型来自 2025-08-13 11:00:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-13 11:10:00	2025-08-13 11:00:00	forecast	clear	0.02555566094815731	0.046773482114076614
+RMSE: 0.025556 | MAPE: 0.046773
+
+所有指定分钟测试完成
+源分钟: 2025-08-13 11:20:00 -> 测试分钟: 2025-08-13 11:30:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-13_11_20_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-13 11:30:00 (模型来自 2025-08-13 11:20:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-13 11:30:00	2025-08-13 11:20:00	forecast	clear	0.013523032888770103	0.03360825031995773
+RMSE: 0.013523 | MAPE: 0.033608
+
+所有指定分钟测试完成
+源分钟: 2025-08-13 13:00:00 -> 测试分钟: 2025-08-13 13:10:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-13_13_00_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-13 13:10:00 (模型来自 2025-08-13 13:00:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-13 13:10:00	2025-08-13 13:00:00	forecast	clear	0.012767914682626724	0.02935107797384262
+RMSE: 0.012768 | MAPE: 0.029351
+
+所有指定分钟测试完成
+源分钟: 2025-08-13 13:30:00 -> 测试分钟: 2025-08-13 13:40:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-13_13_30_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-13 13:40:00 (模型来自 2025-08-13 13:30:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-13 13:40:00	2025-08-13 13:30:00	forecast	clear	0.004957478027790785	0.020290231332182884
+RMSE: 0.004957 | MAPE: 0.020290
+
+所有指定分钟测试完成
+源分钟: 2025-08-13 14:00:00 -> 测试分钟: 2025-08-13 14:10:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-13_14_00_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-13 14:10:00 (模型来自 2025-08-13 14:00:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-13 14:10:00	2025-08-13 14:00:00	forecast	clear	0.015309249982237816	0.030874617397785187
+RMSE: 0.015309 | MAPE: 0.030875
+
+所有指定分钟测试完成
+源分钟: 2025-08-13 14:30:00 -> 测试分钟: 2025-08-13 14:40:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-13_14_30_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-13 14:40:00 (模型来自 2025-08-13 14:30:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-13 14:40:00	2025-08-13 14:30:00	forecast	clear	0.012641332112252712	0.02634783834218979
+RMSE: 0.012641 | MAPE: 0.026348
+
+所有指定分钟测试完成
+源分钟: 2025-08-13 14:50:00 -> 测试分钟: 2025-08-13 15:00:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-13_14_50_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-13 15:00:00 (模型来自 2025-08-13 14:50:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-13 15:00:00	2025-08-13 14:50:00	forecast	clear	0.016865134239196777	0.040605414658784866
+RMSE: 0.016865 | MAPE: 0.040605
+
+所有指定分钟测试完成
+源分钟: 2025-08-15 09:30:00 -> 测试分钟: 2025-08-15 09:40:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-15_09_30_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-15 09:40:00 (模型来自 2025-08-15 09:30:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-15 09:40:00	2025-08-15 09:30:00	forecast	clear	0.006572677753865719	0.023509062826633453
+RMSE: 0.006573 | MAPE: 0.023509
+
+所有指定分钟测试完成
+源分钟: 2025-08-15 10:00:00 -> 测试分钟: 2025-08-15 10:10:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-15_10_00_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-15 10:10:00 (模型来自 2025-08-15 10:00:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-15 10:10:00	2025-08-15 10:00:00	forecast	clear	0.004617351107299328	0.014838970266282558
+RMSE: 0.004617 | MAPE: 0.014839
+
+所有指定分钟测试完成
+源分钟: 2025-08-15 10:30:00 -> 测试分钟: 2025-08-15 10:40:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-15_10_30_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-15 10:40:00 (模型来自 2025-08-15 10:30:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-15 10:40:00	2025-08-15 10:30:00	forecast	clear	0.004413033369928598	0.01406887173652649
+RMSE: 0.004413 | MAPE: 0.014069
+
+所有指定分钟测试完成
+源分钟: 2025-08-15 11:00:00 -> 测试分钟: 2025-08-15 11:10:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-15_11_00_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-15 11:10:00 (模型来自 2025-08-15 11:00:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-15 11:10:00	2025-08-15 11:00:00	forecast	clear	0.0058693005703389645	0.02066757343709469
+RMSE: 0.005869 | MAPE: 0.020668
+
+所有指定分钟测试完成
+源分钟: 2025-08-15 11:20:00 -> 测试分钟: 2025-08-15 11:30:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-15_11_20_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-15 11:30:00 (模型来自 2025-08-15 11:20:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-15 11:30:00	2025-08-15 11:20:00	forecast	clear	0.006517251022160053	0.021126842126250267
+RMSE: 0.006517 | MAPE: 0.021127
+
+所有指定分钟测试完成
+源分钟: 2025-08-15 13:00:00 -> 测试分钟: 2025-08-15 13:10:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-15_13_00_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-15 13:10:00 (模型来自 2025-08-15 13:00:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-15 13:10:00	2025-08-15 13:00:00	forecast	clear	0.006856643129140139	0.023449992761015892
+RMSE: 0.006857 | MAPE: 0.023450
+
+所有指定分钟测试完成
+源分钟: 2025-08-15 13:30:00 -> 测试分钟: 2025-08-15 13:40:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-15_13_30_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-15 13:40:00 (模型来自 2025-08-15 13:30:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-15 13:40:00	2025-08-15 13:30:00	forecast	clear	0.004992080386728048	0.014523787423968315
+RMSE: 0.004992 | MAPE: 0.014524
+
+所有指定分钟测试完成
+源分钟: 2025-08-15 14:00:00 -> 测试分钟: 2025-08-15 14:10:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-15_14_00_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-15 14:10:00 (模型来自 2025-08-15 14:00:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-15 14:10:00	2025-08-15 14:00:00	forecast	clear	0.011672435328364372	0.03237792104482651
+RMSE: 0.011672 | MAPE: 0.032378
+
+所有指定分钟测试完成
+源分钟: 2025-08-15 14:30:00 -> 测试分钟: 2025-08-15 14:40:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-15_14_30_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-15 14:40:00 (模型来自 2025-08-15 14:30:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-15 14:40:00	2025-08-15 14:30:00	forecast	clear	0.009233747608959675	0.02925136499106884
+RMSE: 0.009234 | MAPE: 0.029251
+
+所有指定分钟测试完成
+源分钟: 2025-08-15 14:50:00 -> 测试分钟: 2025-08-15 15:00:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-15_14_50_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-15 15:00:00 (模型来自 2025-08-15 14:50:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-15 15:00:00	2025-08-15 14:50:00	forecast	clear	0.003709990531206131	0.013274267315864563
+RMSE: 0.003710 | MAPE: 0.013274
+
+所有指定分钟测试完成
+源分钟: 2025-08-18 09:30:00 -> 测试分钟: 2025-08-18 09:40:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-18_09_30_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-18 09:40:00 (模型来自 2025-08-18 09:30:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-18 09:40:00	2025-08-18 09:30:00	forecast	clear	0.02229013666510582	0.061682358384132385
+RMSE: 0.022290 | MAPE: 0.061682
+
+所有指定分钟测试完成
+源分钟: 2025-08-18 10:00:00 -> 测试分钟: 2025-08-18 10:10:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-18_10_00_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-18 10:10:00 (模型来自 2025-08-18 10:00:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-18 10:10:00	2025-08-18 10:00:00	forecast	clear	0.00854868721216917	0.028011096641421318
+RMSE: 0.008549 | MAPE: 0.028011
+
+所有指定分钟测试完成
+源分钟: 2025-08-18 10:30:00 -> 测试分钟: 2025-08-18 10:40:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-18_10_30_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-18 10:40:00 (模型来自 2025-08-18 10:30:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-18 10:40:00	2025-08-18 10:30:00	forecast	clear	0.013770371675491333	0.036271046847105026
+RMSE: 0.013770 | MAPE: 0.036271
+
+所有指定分钟测试完成
+源分钟: 2025-08-18 11:00:00 -> 测试分钟: 2025-08-18 11:10:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-18_11_00_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-18 11:10:00 (模型来自 2025-08-18 11:00:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-18 11:10:00	2025-08-18 11:00:00	forecast	clear	0.0069056726060807705	0.020197492092847824
+RMSE: 0.006906 | MAPE: 0.020197
+
+所有指定分钟测试完成
+源分钟: 2025-08-18 11:20:00 -> 测试分钟: 2025-08-18 11:30:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-18_11_20_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-18 11:30:00 (模型来自 2025-08-18 11:20:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-18 11:30:00	2025-08-18 11:20:00	forecast	clear	0.0112074613571167	0.0380714125931263
+RMSE: 0.011207 | MAPE: 0.038071
+
+所有指定分钟测试完成
+源分钟: 2025-08-18 13:00:00 -> 测试分钟: 2025-08-18 13:10:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-18_13_00_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-18 13:10:00 (模型来自 2025-08-18 13:00:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-18 13:10:00	2025-08-18 13:00:00	forecast	clear	0.015193907544016838	0.055006761103868484
+RMSE: 0.015194 | MAPE: 0.055007
+
+所有指定分钟测试完成
+源分钟: 2025-08-18 13:30:00 -> 测试分钟: 2025-08-18 13:40:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-18_13_30_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-18 13:40:00 (模型来自 2025-08-18 13:30:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-18 13:40:00	2025-08-18 13:30:00	forecast	clear	0.0048814681358635426	0.014630516059696674
+RMSE: 0.004881 | MAPE: 0.014631
+
+所有指定分钟测试完成
+源分钟: 2025-08-18 14:00:00 -> 测试分钟: 2025-08-18 14:10:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-18_14_00_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-18 14:10:00 (模型来自 2025-08-18 14:00:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-18 14:10:00	2025-08-18 14:00:00	forecast	clear	0.004061098210513592	0.013994338922202587
+RMSE: 0.004061 | MAPE: 0.013994
+
+所有指定分钟测试完成
+源分钟: 2025-08-18 14:30:00 -> 测试分钟: 2025-08-18 14:40:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-18_14_30_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-18 14:40:00 (模型来自 2025-08-18 14:30:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-18 14:40:00	2025-08-18 14:30:00	forecast	clear	0.009639567695558071	0.02844196744263172
+RMSE: 0.009640 | MAPE: 0.028442
+
+所有指定分钟测试完成
+源分钟: 2025-08-18 14:50:00 -> 测试分钟: 2025-08-18 15:00:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-18_14_50_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-18 15:00:00 (模型来自 2025-08-18 14:50:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-18 15:00:00	2025-08-18 14:50:00	forecast	clear	0.03176857531070709	0.08698761463165283
+RMSE: 0.031769 | MAPE: 0.086988
+
+所有指定分钟测试完成
+源分钟: 2025-08-20 09:30:00 -> 测试分钟: 2025-08-20 09:40:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-20_09_30_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-20 09:40:00 (模型来自 2025-08-20 09:30:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-20 09:40:00	2025-08-20 09:30:00	forecast	clear	0.008352150209248066	0.032861340790987015
+RMSE: 0.008352 | MAPE: 0.032861
+
+所有指定分钟测试完成
+源分钟: 2025-08-20 10:00:00 -> 测试分钟: 2025-08-20 10:10:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-20_10_00_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-20 10:10:00 (模型来自 2025-08-20 10:00:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-20 10:10:00	2025-08-20 10:00:00	forecast	clear	0.005355719476938248	0.019408244639635086
+RMSE: 0.005356 | MAPE: 0.019408
+
+所有指定分钟测试完成
+源分钟: 2025-08-20 10:30:00 -> 测试分钟: 2025-08-20 10:40:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-20_10_30_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-20 10:40:00 (模型来自 2025-08-20 10:30:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-20 10:40:00	2025-08-20 10:30:00	forecast	clear	0.004073692485690117	0.010827149264514446
+RMSE: 0.004074 | MAPE: 0.010827
+
+所有指定分钟测试完成
+源分钟: 2025-08-20 11:00:00 -> 测试分钟: 2025-08-20 11:10:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-20_11_00_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-20 11:10:00 (模型来自 2025-08-20 11:00:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-20 11:10:00	2025-08-20 11:00:00	forecast	clear	0.007067907135933638	0.019948868080973625
+RMSE: 0.007068 | MAPE: 0.019949
+
+所有指定分钟测试完成
+源分钟: 2025-08-20 11:20:00 -> 测试分钟: 2025-08-20 11:30:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-20_11_20_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-20 11:30:00 (模型来自 2025-08-20 11:20:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-20 11:30:00	2025-08-20 11:20:00	forecast	clear	0.005355798173695803	0.018167709931731224
+RMSE: 0.005356 | MAPE: 0.018168
+
+所有指定分钟测试完成
+源分钟: 2025-08-20 13:00:00 -> 测试分钟: 2025-08-20 13:10:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-20_13_00_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-20 13:10:00 (模型来自 2025-08-20 13:00:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-20 13:10:00	2025-08-20 13:00:00	forecast	clear	0.004447155632078648	0.01112481951713562
+RMSE: 0.004447 | MAPE: 0.011125
+
+所有指定分钟测试完成
+源分钟: 2025-08-20 13:30:00 -> 测试分钟: 2025-08-20 13:40:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-20_13_30_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-20 13:40:00 (模型来自 2025-08-20 13:30:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-20 13:40:00	2025-08-20 13:30:00	forecast	clear	0.007329828571528196	0.024589762091636658
+RMSE: 0.007330 | MAPE: 0.024590
+
+所有指定分钟测试完成
+源分钟: 2025-08-20 14:00:00 -> 测试分钟: 2025-08-20 14:10:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-20_14_00_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-20 14:10:00 (模型来自 2025-08-20 14:00:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-20 14:10:00	2025-08-20 14:00:00	forecast	clear	0.006254628766328096	0.021765321493148804
+RMSE: 0.006255 | MAPE: 0.021765
+
+所有指定分钟测试完成
+源分钟: 2025-08-20 14:30:00 -> 测试分钟: 2025-08-20 14:40:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-20_14_30_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-20 14:40:00 (模型来自 2025-08-20 14:30:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-20 14:40:00	2025-08-20 14:30:00	forecast	clear	0.008130992762744427	0.02346566691994667
+RMSE: 0.008131 | MAPE: 0.023466
+
+所有指定分钟测试完成
+源分钟: 2025-08-20 14:50:00 -> 测试分钟: 2025-08-20 15:00:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-20_14_50_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-20 15:00:00 (模型来自 2025-08-20 14:50:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-20 15:00:00	2025-08-20 14:50:00	forecast	clear	0.00707071740180254	0.02402046136558056
+RMSE: 0.007071 | MAPE: 0.024020
+
+所有指定分钟测试完成
+源分钟: 2025-08-22 09:30:00 -> 测试分钟: 2025-08-22 09:40:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-22_09_30_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-22 09:40:00 (模型来自 2025-08-22 09:30:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-22 09:40:00	2025-08-22 09:30:00	forecast	clear	0.005707792472094297	0.02102210931479931
+RMSE: 0.005708 | MAPE: 0.021022
+
+所有指定分钟测试完成
+源分钟: 2025-08-22 10:00:00 -> 测试分钟: 2025-08-22 10:10:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-22_10_00_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-22 10:10:00 (模型来自 2025-08-22 10:00:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-22 10:10:00	2025-08-22 10:00:00	forecast	clear	0.005074637476354837	0.012399192899465561
+RMSE: 0.005075 | MAPE: 0.012399
+
+所有指定分钟测试完成
+源分钟: 2025-08-22 10:30:00 -> 测试分钟: 2025-08-22 10:40:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-22_10_30_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-22 10:40:00 (模型来自 2025-08-22 10:30:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-22 10:40:00	2025-08-22 10:30:00	forecast	clear	0.0064117866568267345	0.02105647325515747
+RMSE: 0.006412 | MAPE: 0.021056
+
+所有指定分钟测试完成
+源分钟: 2025-08-22 11:00:00 -> 测试分钟: 2025-08-22 11:10:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-22_11_00_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-22 11:10:00 (模型来自 2025-08-22 11:00:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-22 11:10:00	2025-08-22 11:00:00	forecast	clear	0.0103205107152462	0.03240491449832916
+RMSE: 0.010321 | MAPE: 0.032405
+
+所有指定分钟测试完成
+源分钟: 2025-08-22 11:20:00 -> 测试分钟: 2025-08-22 11:30:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-22_11_20_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-22 11:30:00 (模型来自 2025-08-22 11:20:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-22 11:30:00	2025-08-22 11:20:00	forecast	clear	0.01042928732931614	0.0337236188352108
+RMSE: 0.010429 | MAPE: 0.033724
+
+所有指定分钟测试完成
+源分钟: 2025-08-22 13:00:00 -> 测试分钟: 2025-08-22 13:10:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-22_13_00_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-22 13:10:00 (模型来自 2025-08-22 13:00:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-22 13:10:00	2025-08-22 13:00:00	forecast	clear	0.010599147528409958	0.03216071054339409
+RMSE: 0.010599 | MAPE: 0.032161
+
+所有指定分钟测试完成
+源分钟: 2025-08-22 13:30:00 -> 测试分钟: 2025-08-22 13:40:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-22_13_30_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-22 13:40:00 (模型来自 2025-08-22 13:30:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-22 13:40:00	2025-08-22 13:30:00	forecast	clear	0.005443132482469082	0.017391255125403404
+RMSE: 0.005443 | MAPE: 0.017391
+
+所有指定分钟测试完成
+源分钟: 2025-08-22 14:00:00 -> 测试分钟: 2025-08-22 14:10:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-22_14_00_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-22 14:10:00 (模型来自 2025-08-22 14:00:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-22 14:10:00	2025-08-22 14:00:00	forecast	clear	0.005473520141094923	0.018024947494268417
+RMSE: 0.005474 | MAPE: 0.018025
+
+所有指定分钟测试完成
+源分钟: 2025-08-22 14:30:00 -> 测试分钟: 2025-08-22 14:40:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-22_14_30_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-22 14:40:00 (模型来自 2025-08-22 14:30:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-22 14:40:00	2025-08-22 14:30:00	forecast	clear	0.013804769143462181	0.04486300051212311
+RMSE: 0.013805 | MAPE: 0.044863
+
+所有指定分钟测试完成
+源分钟: 2025-08-22 14:50:00 -> 测试分钟: 2025-08-22 15:00:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-22_14_50_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-22 15:00:00 (模型来自 2025-08-22 14:50:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-22 15:00:00	2025-08-22 14:50:00	forecast	clear	0.008695641532540321	0.03091217577457428
+RMSE: 0.008696 | MAPE: 0.030912
+
+所有指定分钟测试完成
+源分钟: 2025-08-25 09:30:00 -> 测试分钟: 2025-08-25 09:40:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-25_09_30_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-25 09:40:00 (模型来自 2025-08-25 09:30:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-25 09:40:00	2025-08-25 09:30:00	forecast	clear	0.01496949978172779	0.04667866230010986
+RMSE: 0.014969 | MAPE: 0.046679
+
+所有指定分钟测试完成
+源分钟: 2025-08-25 10:00:00 -> 测试分钟: 2025-08-25 10:10:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-25_10_00_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-25 10:10:00 (模型来自 2025-08-25 10:00:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-25 10:10:00	2025-08-25 10:00:00	forecast	clear	0.005250274203717709	0.016724761575460434
+RMSE: 0.005250 | MAPE: 0.016725
+
+所有指定分钟测试完成
+源分钟: 2025-08-25 10:30:00 -> 测试分钟: 2025-08-25 10:40:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-25_10_30_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-25 10:40:00 (模型来自 2025-08-25 10:30:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-25 10:40:00	2025-08-25 10:30:00	forecast	clear	0.007329666521400213	0.024137889966368675
+RMSE: 0.007330 | MAPE: 0.024138
+
+所有指定分钟测试完成
+源分钟: 2025-08-25 11:00:00 -> 测试分钟: 2025-08-25 11:10:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-25_11_00_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-25 11:10:00 (模型来自 2025-08-25 11:00:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-25 11:10:00	2025-08-25 11:00:00	forecast	clear	0.008776294067502022	0.024136502295732498
+RMSE: 0.008776 | MAPE: 0.024137
+
+所有指定分钟测试完成
+源分钟: 2025-08-25 11:20:00 -> 测试分钟: 2025-08-25 11:30:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-25_11_20_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-25 11:30:00 (模型来自 2025-08-25 11:20:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-25 11:30:00	2025-08-25 11:20:00	forecast	clear	0.005028881598263979	0.015531403943896294
+RMSE: 0.005029 | MAPE: 0.015531
+
+所有指定分钟测试完成
+源分钟: 2025-08-25 13:00:00 -> 测试分钟: 2025-08-25 13:10:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-25_13_00_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-25 13:10:00 (模型来自 2025-08-25 13:00:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-25 13:10:00	2025-08-25 13:00:00	forecast	clear	0.0045337737537920475	0.014116300269961357
+RMSE: 0.004534 | MAPE: 0.014116
+
+所有指定分钟测试完成
+源分钟: 2025-08-25 13:30:00 -> 测试分钟: 2025-08-25 13:40:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-25_13_30_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-25 13:40:00 (模型来自 2025-08-25 13:30:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-25 13:40:00	2025-08-25 13:30:00	forecast	clear	0.005330849904567003	0.016958100721240044
+RMSE: 0.005331 | MAPE: 0.016958
+
+所有指定分钟测试完成
+源分钟: 2025-08-25 14:00:00 -> 测试分钟: 2025-08-25 14:10:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-25_14_00_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-25 14:10:00 (模型来自 2025-08-25 14:00:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-25 14:10:00	2025-08-25 14:00:00	forecast	clear	0.009037737734615803	0.026034949347376823
+RMSE: 0.009038 | MAPE: 0.026035
+
+所有指定分钟测试完成
+源分钟: 2025-08-25 14:30:00 -> 测试分钟: 2025-08-25 14:40:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-25_14_30_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-25 14:40:00 (模型来自 2025-08-25 14:30:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-25 14:40:00	2025-08-25 14:30:00	forecast	clear	0.00781338568776846	0.02375953085720539
+RMSE: 0.007813 | MAPE: 0.023760
+
+所有指定分钟测试完成
+源分钟: 2025-08-25 14:50:00 -> 测试分钟: 2025-08-25 15:00:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-25_14_50_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-25 15:00:00 (模型来自 2025-08-25 14:50:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-25 15:00:00	2025-08-25 14:50:00	forecast	clear	0.027540698647499084	0.07805301249027252
+RMSE: 0.027541 | MAPE: 0.078053
+
+所有指定分钟测试完成
+源分钟: 2025-08-27 09:30:00 -> 测试分钟: 2025-08-27 09:40:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-27_09_30_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-27 09:40:00 (模型来自 2025-08-27 09:30:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-27 09:40:00	2025-08-27 09:30:00	forecast	clear	0.005516619421541691	0.015440772287547588
+RMSE: 0.005517 | MAPE: 0.015441
+
+所有指定分钟测试完成
+源分钟: 2025-08-27 10:00:00 -> 测试分钟: 2025-08-27 10:10:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-27_10_00_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-27 10:10:00 (模型来自 2025-08-27 10:00:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-27 10:10:00	2025-08-27 10:00:00	forecast	clear	0.005093080922961235	0.013968905434012413
+RMSE: 0.005093 | MAPE: 0.013969
+
+所有指定分钟测试完成
+源分钟: 2025-08-27 10:30:00 -> 测试分钟: 2025-08-27 10:40:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-27_10_30_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-27 10:40:00 (模型来自 2025-08-27 10:30:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-27 10:40:00	2025-08-27 10:30:00	forecast	clear	0.005266881547868252	0.0123489610850811
+RMSE: 0.005267 | MAPE: 0.012349
+
+所有指定分钟测试完成
+源分钟: 2025-08-27 11:00:00 -> 测试分钟: 2025-08-27 11:10:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-27_11_00_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-27 11:10:00 (模型来自 2025-08-27 11:00:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-27 11:10:00	2025-08-27 11:00:00	forecast	clear	0.01006383541971445	0.026173781603574753
+RMSE: 0.010064 | MAPE: 0.026174
+
+所有指定分钟测试完成
+源分钟: 2025-08-27 11:20:00 -> 测试分钟: 2025-08-27 11:30:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-27_11_20_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-27 11:30:00 (模型来自 2025-08-27 11:20:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-27 11:30:00	2025-08-27 11:20:00	forecast	clear	0.007256994489580393	0.0210711732506752
+RMSE: 0.007257 | MAPE: 0.021071
+
+所有指定分钟测试完成
+源分钟: 2025-08-27 13:00:00 -> 测试分钟: 2025-08-27 13:10:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-27_13_00_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-27 13:10:00 (模型来自 2025-08-27 13:00:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-27 13:10:00	2025-08-27 13:00:00	forecast	clear	0.005272575654089451	0.014194668270647526
+RMSE: 0.005273 | MAPE: 0.014195
+
+所有指定分钟测试完成
+源分钟: 2025-08-27 13:30:00 -> 测试分钟: 2025-08-27 13:40:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-27_13_30_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-27 13:40:00 (模型来自 2025-08-27 13:30:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-27 13:40:00	2025-08-27 13:30:00	forecast	clear	0.006428752094507217	0.01899188570678234
+RMSE: 0.006429 | MAPE: 0.018992
+
+所有指定分钟测试完成
+源分钟: 2025-08-27 14:00:00 -> 测试分钟: 2025-08-27 14:10:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-27_14_00_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-27 14:10:00 (模型来自 2025-08-27 14:00:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-27 14:10:00	2025-08-27 14:00:00	forecast	clear	0.007691040635108948	0.02264837734401226
+RMSE: 0.007691 | MAPE: 0.022648
+
+所有指定分钟测试完成
+源分钟: 2025-08-27 14:30:00 -> 测试分钟: 2025-08-27 14:40:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-27_14_30_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-27 14:40:00 (模型来自 2025-08-27 14:30:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-27 14:40:00	2025-08-27 14:30:00	forecast	clear	0.006549336016178131	0.01927589438855648
+RMSE: 0.006549 | MAPE: 0.019276
+
+所有指定分钟测试完成
+源分钟: 2025-08-27 14:50:00 -> 测试分钟: 2025-08-27 15:00:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-27_14_50_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-27 15:00:00 (模型来自 2025-08-27 14:50:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-27 15:00:00	2025-08-27 14:50:00	forecast	clear	0.0103102196007967	0.028744103386998177
+RMSE: 0.010310 | MAPE: 0.028744
+
+所有指定分钟测试完成
+源分钟: 2025-08-29 09:30:00 -> 测试分钟: 2025-08-29 09:40:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-29_09_30_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-29 09:40:00 (模型来自 2025-08-29 09:30:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-29 09:40:00	2025-08-29 09:30:00	forecast	clear	0.011319099925458431	0.03288513794541359
+RMSE: 0.011319 | MAPE: 0.032885
+
+所有指定分钟测试完成
+源分钟: 2025-08-29 10:00:00 -> 测试分钟: 2025-08-29 10:10:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-29_10_00_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-29 10:10:00 (模型来自 2025-08-29 10:00:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-29 10:10:00	2025-08-29 10:00:00	forecast	clear	0.011288192123174667	0.027210496366024017
+RMSE: 0.011288 | MAPE: 0.027210
+
+所有指定分钟测试完成
+源分钟: 2025-08-29 10:30:00 -> 测试分钟: 2025-08-29 10:40:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-29_10_30_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-29 10:40:00 (模型来自 2025-08-29 10:30:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-29 10:40:00	2025-08-29 10:30:00	forecast	clear	0.01105495449155569	0.029494475573301315
+RMSE: 0.011055 | MAPE: 0.029494
+
+所有指定分钟测试完成
+源分钟: 2025-08-29 11:00:00 -> 测试分钟: 2025-08-29 11:10:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-29_11_00_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-29 11:10:00 (模型来自 2025-08-29 11:00:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-29 11:10:00	2025-08-29 11:00:00	forecast	clear	0.007771795149892569	0.02071000449359417
+RMSE: 0.007772 | MAPE: 0.020710
+
+所有指定分钟测试完成
+源分钟: 2025-08-29 11:20:00 -> 测试分钟: 2025-08-29 11:30:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-29_11_20_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-29 11:30:00 (模型来自 2025-08-29 11:20:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-29 11:30:00	2025-08-29 11:20:00	forecast	clear	0.008844566531479359	0.02300994098186493
+RMSE: 0.008845 | MAPE: 0.023010
+
+所有指定分钟测试完成
+源分钟: 2025-08-29 13:00:00 -> 测试分钟: 2025-08-29 13:10:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-29_13_00_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-29 13:10:00 (模型来自 2025-08-29 13:00:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-29 13:10:00	2025-08-29 13:00:00	forecast	clear	0.037474945187568665	0.07341684401035309
+RMSE: 0.037475 | MAPE: 0.073417
+
+所有指定分钟测试完成
+源分钟: 2025-08-29 13:30:00 -> 测试分钟: 2025-08-29 13:40:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-29_13_30_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-29 13:40:00 (模型来自 2025-08-29 13:30:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-29 13:40:00	2025-08-29 13:30:00	forecast	clear	0.006304372567683458	0.017388692125678062
+RMSE: 0.006304 | MAPE: 0.017389
+
+所有指定分钟测试完成
+源分钟: 2025-08-29 14:00:00 -> 测试分钟: 2025-08-29 14:10:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-29_14_00_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-29 14:10:00 (模型来自 2025-08-29 14:00:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-29 14:10:00	2025-08-29 14:00:00	forecast	clear	0.007397918030619621	0.01934385485947132
+RMSE: 0.007398 | MAPE: 0.019344
+
+所有指定分钟测试完成
+源分钟: 2025-08-29 14:30:00 -> 测试分钟: 2025-08-29 14:40:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-29_14_30_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-29 14:40:00 (模型来自 2025-08-29 14:30:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-29 14:40:00	2025-08-29 14:30:00	forecast	clear	0.0039940038695931435	0.009201161563396454
+RMSE: 0.003994 | MAPE: 0.009201
+
+所有指定分钟测试完成
+源分钟: 2025-08-29 14:50:00 -> 测试分钟: 2025-08-29 15:00:00
+使用设备: cuda
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+加载模型: ./checkpoint/smooth_forecast_all/hushen300_minute_forecast_clear/2025-08-29_14_50_00/seed_1234_lr_0.01_w_d_0.0_best_model.pth
+
+===== 测试分钟 2025-08-29 15:00:00 (模型来自 2025-08-29 14:50:00) =====
+deep_smooth	smooth_forecast_all	hushen300_minute	0.0	2025-08-29 15:00:00	2025-08-29 14:50:00	forecast	clear	0.01915842667222023	0.05475263670086861
+RMSE: 0.019158 | MAPE: 0.054753
+
+所有指定分钟测试完成
+
+==========================================
+跨分钟批量测试结束时间: 2025-10-18 19:22:01
+==========================================

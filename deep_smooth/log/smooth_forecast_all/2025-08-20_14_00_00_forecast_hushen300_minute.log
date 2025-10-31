@@ -1,0 +1,143 @@
+==========================================
+训练开始时间: 2025-10-18 17:51:48
+分钟: 2025-08-20 14:00:00 | 划分: forecast | 设备: cuda
+标记列: train_flag_inter
+==========================================
+使用设备: CUDA (NVIDIA GeForce RTX 4090)
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+筛选分钟: 2025-08-20 14:00:00
+筛选后数据行数: 108
+按照 train_flag_inter=1 筛选后数据行数: 108
+使用 torch.compile 优化模型 (设备: cuda)
+/home/douxueli/miniconda3/envs/iv/lib/python3.11/site-packages/torch/optim/lr_scheduler.py:28: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn("The verbose parameter is deprecated. Please use get_last_lr() "
+开始训练，总轮数: 10000, Restart次数: 4
+Saved! Epoch 1 Loss:  0.35896;lr: 0.01000
+Saved! Epoch 2 Loss:  0.15656;lr: 0.01000
+Saved! Epoch 4 Loss:  0.14157;lr: 0.01000
+Saved! Epoch 8 Loss:  0.12602;lr: 0.01000
+Saved! Epoch 12 Loss:  0.11844;lr: 0.01000
+Saved! Epoch 16 Loss:  0.10681;lr: 0.01000
+Saved! Epoch 23 Loss:  0.09881;lr: 0.01000
+Saved! Epoch 27 Loss:  0.09247;lr: 0.01000
+Saved! Epoch 30 Loss:  0.08890;lr: 0.01000
+Saved! Epoch 45 Loss:  0.08795;lr: 0.01000
+Saved! Epoch 51 Loss:  0.08659;lr: 0.01000
+Saved! Epoch 59 Loss:  0.08542;lr: 0.01000
+Saved! Epoch 66 Loss:  0.08392;lr: 0.01000
+Saved! Epoch 86 Loss:  0.08261;lr: 0.01000
+Saved! Epoch 101 Loss:  0.08173;lr: 0.01000
+Saved! Epoch 106 Loss:  0.08027;lr: 0.01000
+Saved! Epoch 111 Loss:  0.07938;lr: 0.01000
+Saved! Epoch 121 Loss:  0.07850;lr: 0.01000
+Saved! Epoch 136 Loss:  0.07765;lr: 0.01000
+Saved! Epoch 322 Loss:  0.07682;lr: 0.01000
+Saved! Epoch 986 Loss:  0.07598;lr: 0.00500
+Saved! Epoch 1538 Loss:  0.07519;lr: 0.00250
+Saved! Epoch 2000 Loss:  0.07498;lr: 0.00250
+Saved! Epoch 3125 Loss:  0.07444;lr: 0.00031
+Saved! Epoch 4000 Loss:  0.07426;lr: 0.00016
+Restart!Epoch 3125 Loss:  0.07419;lr: 0.01000
+Saved! Epoch 3357 Loss:  0.07369;lr: 0.01000
+Saved! Epoch 3397 Loss:  0.07291;lr: 0.01000
+Saved! Epoch 3411 Loss:  0.07202;lr: 0.01000
+Saved! Epoch 3431 Loss:  0.07096;lr: 0.01000
+Saved! Epoch 3444 Loss:  0.06998;lr: 0.01000
+Saved! Epoch 3450 Loss:  0.06919;lr: 0.01000
+Saved! Epoch 3459 Loss:  0.06802;lr: 0.01000
+Saved! Epoch 3467 Loss:  0.06625;lr: 0.01000
+Saved! Epoch 3472 Loss:  0.06438;lr: 0.01000
+Saved! Epoch 3484 Loss:  0.06324;lr: 0.01000
+Saved! Epoch 3488 Loss:  0.06217;lr: 0.01000
+Saved! Epoch 3489 Loss:  0.06131;lr: 0.01000
+Saved! Epoch 3495 Loss:  0.05999;lr: 0.01000
+Saved! Epoch 3499 Loss:  0.05932;lr: 0.01000
+Saved! Epoch 3504 Loss:  0.05851;lr: 0.01000
+Saved! Epoch 3506 Loss:  0.05779;lr: 0.01000
+Saved! Epoch 3518 Loss:  0.05511;lr: 0.01000
+Saved! Epoch 3533 Loss:  0.05382;lr: 0.01000
+Saved! Epoch 3536 Loss:  0.05312;lr: 0.01000
+Saved! Epoch 3598 Loss:  0.05256;lr: 0.01000
+Saved! Epoch 3614 Loss:  0.05199;lr: 0.01000
+Saved! Epoch 3681 Loss:  0.05137;lr: 0.01000
+Saved! Epoch 3828 Loss:  0.05063;lr: 0.01000
+Saved! Epoch 3927 Loss:  0.04999;lr: 0.01000
+Saved! Epoch 4000 Loss:  0.05052;lr: 0.01000
+Saved! Epoch 4033 Loss:  0.04930;lr: 0.01000
+Saved! Epoch 4165 Loss:  0.04862;lr: 0.01000
+Saved! Epoch 4224 Loss:  0.04811;lr: 0.01000
+Saved! Epoch 4326 Loss:  0.04738;lr: 0.01000
+Saved! Epoch 4488 Loss:  0.04681;lr: 0.01000
+Saved! Epoch 4690 Loss:  0.04623;lr: 0.01000
+Saved! Epoch 4874 Loss:  0.04563;lr: 0.01000
+Saved! Epoch 4922 Loss:  0.04511;lr: 0.01000
+Saved! Epoch 4997 Loss:  0.04464;lr: 0.01000
+Saved! Epoch 5081 Loss:  0.04415;lr: 0.01000
+Saved! Epoch 5101 Loss:  0.04370;lr: 0.01000
+Saved! Epoch 5162 Loss:  0.04324;lr: 0.01000
+Saved! Epoch 5176 Loss:  0.04277;lr: 0.01000
+Saved! Epoch 5204 Loss:  0.04228;lr: 0.01000
+Saved! Epoch 5259 Loss:  0.04173;lr: 0.01000
+Saved! Epoch 5278 Loss:  0.04130;lr: 0.01000
+Saved! Epoch 5310 Loss:  0.04081;lr: 0.01000
+Saved! Epoch 5379 Loss:  0.04026;lr: 0.01000
+Saved! Epoch 5406 Loss:  0.03983;lr: 0.01000
+Saved! Epoch 5436 Loss:  0.03941;lr: 0.01000
+Saved! Epoch 5493 Loss:  0.03902;lr: 0.01000
+Saved! Epoch 5547 Loss:  0.03843;lr: 0.01000
+Saved! Epoch 5631 Loss:  0.03796;lr: 0.01000
+Saved! Epoch 5749 Loss:  0.03752;lr: 0.01000
+Saved! Epoch 5815 Loss:  0.03711;lr: 0.01000
+Saved! Epoch 5840 Loss:  0.03670;lr: 0.01000
+Saved! Epoch 5940 Loss:  0.03626;lr: 0.01000
+Saved! Epoch 5967 Loss:  0.03580;lr: 0.01000
+Saved! Epoch 5989 Loss:  0.03531;lr: 0.01000
+Saved! Epoch 6000 Loss:  0.03733;lr: 0.01000
+Saved! Epoch 6080 Loss:  0.03470;lr: 0.01000
+Saved! Epoch 6092 Loss:  0.03414;lr: 0.01000
+Saved! Epoch 6113 Loss:  0.03346;lr: 0.01000
+Saved! Epoch 6125 Loss:  0.03291;lr: 0.01000
+Saved! Epoch 6154 Loss:  0.03224;lr: 0.01000
+Saved! Epoch 6179 Loss:  0.03172;lr: 0.01000
+Saved! Epoch 6198 Loss:  0.03085;lr: 0.01000
+Saved! Epoch 6243 Loss:  0.03016;lr: 0.01000
+Saved! Epoch 6272 Loss:  0.02913;lr: 0.01000
+Saved! Epoch 6319 Loss:  0.02872;lr: 0.01000
+Saved! Epoch 6348 Loss:  0.02830;lr: 0.01000
+Saved! Epoch 6411 Loss:  0.02754;lr: 0.01000
+Saved! Epoch 6421 Loss:  0.02714;lr: 0.01000
+Saved! Epoch 6455 Loss:  0.02687;lr: 0.01000
+Saved! Epoch 6484 Loss:  0.02654;lr: 0.01000
+Saved! Epoch 6522 Loss:  0.02618;lr: 0.01000
+Saved! Epoch 6545 Loss:  0.02574;lr: 0.01000
+Saved! Epoch 6634 Loss:  0.02526;lr: 0.01000
+Saved! Epoch 6644 Loss:  0.02463;lr: 0.01000
+Saved! Epoch 6733 Loss:  0.02409;lr: 0.01000
+Saved! Epoch 6776 Loss:  0.02376;lr: 0.01000
+Saved! Epoch 6826 Loss:  0.02338;lr: 0.01000
+Saved! Epoch 6887 Loss:  0.02291;lr: 0.01000
+Saved! Epoch 6988 Loss:  0.02251;lr: 0.01000
+Saved! Epoch 7001 Loss:  0.02228;lr: 0.01000
+Saved! Epoch 7085 Loss:  0.02168;lr: 0.01000
+Saved! Epoch 7284 Loss:  0.02114;lr: 0.01000
+Saved! Epoch 7413 Loss:  0.02085;lr: 0.01000
+Saved! Epoch 7522 Loss:  0.02058;lr: 0.01000
+Saved! Epoch 7798 Loss:  0.02031;lr: 0.01000
+Saved! Epoch 7812 Loss:  0.02003;lr: 0.01000
+Saved! Epoch 7974 Loss:  0.01981;lr: 0.01000
+Saved! Epoch 8000 Loss:  0.02327;lr: 0.01000
+Saved! Epoch 8178 Loss:  0.01957;lr: 0.01000
+Saved! Epoch 8345 Loss:  0.01936;lr: 0.01000
+Saved! Epoch 8672 Loss:  0.01899;lr: 0.01000
+Saved! Epoch 8997 Loss:  0.01879;lr: 0.01000
+Saved! Epoch 9065 Loss:  0.01856;lr: 0.01000
+Saved! Epoch 9592 Loss:  0.01837;lr: 0.00500
+Saved! Epoch 9606 Loss:  0.01810;lr: 0.00500
+Saved! Epoch 9697 Loss:  0.01789;lr: 0.00500
+Saved! Epoch 10000 Loss:  0.01817;lr: 0.00500
+
+训练完成! 分钟: 2025-08-20 14:00:00, 划分方式: forecast
+
+==========================================
+训练结束时间: 2025-10-18 17:54:08
+==========================================

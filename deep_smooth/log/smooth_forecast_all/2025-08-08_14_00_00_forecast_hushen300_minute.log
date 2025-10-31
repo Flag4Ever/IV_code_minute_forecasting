@@ -1,0 +1,66 @@
+==========================================
+训练开始时间: 2025-10-18 16:10:19
+分钟: 2025-08-08 14:00:00 | 划分: forecast | 设备: cuda
+标记列: train_flag_inter
+==========================================
+使用设备: CUDA (NVIDIA GeForce RTX 4090)
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+筛选分钟: 2025-08-08 14:00:00
+筛选后数据行数: 120
+按照 train_flag_inter=1 筛选后数据行数: 120
+使用 torch.compile 优化模型 (设备: cuda)
+/home/douxueli/miniconda3/envs/iv/lib/python3.11/site-packages/torch/optim/lr_scheduler.py:28: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn("The verbose parameter is deprecated. Please use get_last_lr() "
+开始训练，总轮数: 10000, Restart次数: 4
+Saved! Epoch 1 Loss:  0.32327;lr: 0.01000
+Saved! Epoch 2 Loss:  0.19229;lr: 0.01000
+Saved! Epoch 3 Loss:  0.17577;lr: 0.01000
+Saved! Epoch 4 Loss:  0.16372;lr: 0.01000
+Saved! Epoch 6 Loss:  0.15850;lr: 0.01000
+Saved! Epoch 7 Loss:  0.13639;lr: 0.01000
+Saved! Epoch 9 Loss:  0.12905;lr: 0.01000
+Saved! Epoch 12 Loss:  0.12180;lr: 0.01000
+Saved! Epoch 13 Loss:  0.11905;lr: 0.01000
+Saved! Epoch 15 Loss:  0.11685;lr: 0.01000
+Saved! Epoch 18 Loss:  0.11057;lr: 0.01000
+Saved! Epoch 41 Loss:  0.10935;lr: 0.01000
+Saved! Epoch 45 Loss:  0.10784;lr: 0.01000
+Saved! Epoch 48 Loss:  0.10671;lr: 0.01000
+Saved! Epoch 51 Loss:  0.10563;lr: 0.01000
+Saved! Epoch 55 Loss:  0.10448;lr: 0.01000
+Saved! Epoch 63 Loss:  0.10317;lr: 0.01000
+Saved! Epoch 74 Loss:  0.10182;lr: 0.01000
+Saved! Epoch 84 Loss:  0.09976;lr: 0.01000
+Saved! Epoch 91 Loss:  0.09847;lr: 0.01000
+Saved! Epoch 99 Loss:  0.09725;lr: 0.01000
+Saved! Epoch 119 Loss:  0.09585;lr: 0.01000
+Saved! Epoch 153 Loss:  0.09410;lr: 0.01000
+Saved! Epoch 162 Loss:  0.09277;lr: 0.01000
+Saved! Epoch 182 Loss:  0.09134;lr: 0.01000
+Saved! Epoch 206 Loss:  0.09027;lr: 0.01000
+Saved! Epoch 240 Loss:  0.08931;lr: 0.01000
+Saved! Epoch 279 Loss:  0.08819;lr: 0.01000
+Saved! Epoch 313 Loss:  0.08729;lr: 0.01000
+Saved! Epoch 367 Loss:  0.08614;lr: 0.01000
+Saved! Epoch 421 Loss:  0.08518;lr: 0.01000
+Saved! Epoch 520 Loss:  0.08411;lr: 0.01000
+Saved! Epoch 1045 Loss:  0.08326;lr: 0.00500
+Saved! Epoch 2000 Loss:  0.08323;lr: 0.00250
+Restart!Epoch 1045 Loss:  0.08298;lr: 0.01000
+Saved! Epoch 2000 Loss:  0.08345;lr: 0.00500
+Restart!Epoch 1045 Loss:  0.08301;lr: 0.01000
+Saved! Epoch 2000 Loss:  0.08345;lr: 0.00500
+Restart!Epoch 1045 Loss:  0.08301;lr: 0.01000
+Saved! Epoch 2000 Loss:  0.08345;lr: 0.00500
+Restart!Epoch 1045 Loss:  0.08301;lr: 0.01000
+Saved! Epoch 2000 Loss:  0.08345;lr: 0.00500
+Saved! Epoch 4000 Loss:  0.08289;lr: 0.00031
+Saved! Epoch 6000 Loss:  0.08286;lr: 0.00002
+Saved! Epoch 8000 Loss:  0.08286;lr: 0.00001
+Saved! Epoch 10000 Loss:  0.08286;lr: 0.00001
+
+训练完成! 分钟: 2025-08-08 14:00:00, 划分方式: forecast
+
+==========================================
+训练结束时间: 2025-10-18 16:13:17
+==========================================

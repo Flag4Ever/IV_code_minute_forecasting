@@ -1,0 +1,80 @@
+==========================================
+训练开始时间: 2025-10-18 19:54:19
+分钟: 2025-08-04 11:00:00 | 划分: forecast | 设备: cuda
+标记列: train_flag_inter
+==========================================
+加载数据: ../data/hushen300_minute/hushen300_minute.csv
+筛选分钟: 2025-08-04 11:00:00
+筛选后数据行数: 120
+按照 train_flag_inter=1 筛选后数据行数: 120
+加载初始化模型: ./checkpoint/know_forecast_all/hushen300_minute_forecast_clear/init_model/seed_1234_0.1_lr_0.001_gen_lr_0.001_w_d_0.0_best_model.pth
+使用 torch.compile 优化模型 (设备: cuda)
+/home/douxueli/miniconda3/envs/iv/lib/python3.11/site-packages/torch/optim/lr_scheduler.py:28: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn("The verbose parameter is deprecated. Please use get_last_lr() "
+/home/douxueli/miniconda3/envs/iv/lib/python3.11/site-packages/torch/_inductor/compile_fx.py:140: UserWarning: TensorFloat32 tensor cores for float32 matrix multiplication available but not enabled. Consider setting `torch.set_float32_matmul_precision('high')` for better performance.
+  warnings.warn(
+/home/douxueli/miniconda3/envs/iv/lib/python3.11/site-packages/torch/optim/lr_scheduler.py:28: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn("The verbose parameter is deprecated. Please use get_last_lr() "
+Glow模型使用 CUDA
+加载Glow模型: ../glow_nn_line/glow_nn_svi_2/model_500000.pt
+使用 torch.compile 优化 Glow 模型
+开始训练，总轮数: 20000, 第一阶段: 0
+Save!Epoch 1 Loss: -0.32216;Gen: -3.72931;fit arb:  0.05077;lr: 0.00100; no_improve: 0
+Save!Epoch 5 Loss: -0.32501;Gen: -3.66127;fit arb:  0.04112;lr: 0.00100; no_improve: 3
+Save!Epoch 28 Loss: -0.32520;Gen: -3.65477;fit arb:  0.04028;lr: 0.00100; no_improve: 22
+Save!Epoch 46 Loss: -0.32786;Gen: -3.64658;fit arb:  0.03680;lr: 0.00100; no_improve: 17
+Save!Epoch 55 Loss: -0.34213;Gen: -3.75278;fit arb:  0.03315;lr: 0.00100; no_improve: 8
+Save!Epoch 63 Loss: -0.33844;Gen: -3.69168;fit arb:  0.03073;lr: 0.00100; no_improve: 7
+Epoch 1000 Loss: -0.31870;Gen: -3.69501;fit arb:  0.05080;lr: 0.00050;no_improve: 937
+Save!Epoch 1397 Loss: -0.33663;Gen: -3.65845;fit arb:  0.02922;lr: 0.00025; no_improve: 1333
+Save!Epoch 1753 Loss: -0.34202;Gen: -3.70905;fit arb:  0.02889;lr: 0.00025; no_improve: 355
+Save!Epoch 1893 Loss: -0.34081;Gen: -3.68597;fit arb:  0.02779;lr: 0.00025; no_improve: 139
+Save!Epoch 1978 Loss: -0.34179;Gen: -3.69028;fit arb:  0.02724;lr: 0.00025; no_improve: 84
+Epoch 2000 Loss: -0.33290;Gen: -3.68200;fit arb:  0.03530;lr: 0.00025;no_improve: 22
+Save!Epoch 2115 Loss: -0.34072;Gen: -3.67417;fit arb:  0.02670;lr: 0.00025; no_improve: 136
+Save!Epoch 2182 Loss: -0.34253;Gen: -3.68924;fit arb:  0.02639;lr: 0.00025; no_improve: 66
+Save!Epoch 2183 Loss: -0.34668;Gen: -3.71980;fit arb:  0.02530;lr: 0.00025; no_improve: 0
+Save!Epoch 2350 Loss: -0.34499;Gen: -3.69546;fit arb:  0.02456;lr: 0.00025; no_improve: 166
+Save!Epoch 2400 Loss: -0.34822;Gen: -3.72379;fit arb:  0.02416;lr: 0.00025; no_improve: 49
+Save!Epoch 2682 Loss: -0.34643;Gen: -3.69342;fit arb:  0.02291;lr: 0.00025; no_improve: 281
+Epoch 3000 Loss: -0.34299;Gen: -3.71673;fit arb:  0.02869;lr: 0.00025;no_improve: 318
+Save!Epoch 3092 Loss: -0.34085;Gen: -3.63440;fit arb:  0.02259;lr: 0.00025; no_improve: 409
+Save!Epoch 3929 Loss: -0.35159;Gen: -3.73835;fit arb:  0.02225;lr: 0.00025; no_improve: 836
+Epoch 4000 Loss: -0.35035;Gen: -3.74878;fit arb:  0.02453;lr: 0.00025;no_improve: 71
+Save!Epoch 4128 Loss: -0.34562;Gen: -3.67603;fit arb:  0.02198;lr: 0.00025; no_improve: 198
+Save!Epoch 4185 Loss: -0.35471;Gen: -3.76118;fit arb:  0.02141;lr: 0.00025; no_improve: 56
+Save!Epoch 4860 Loss: -0.35058;Gen: -3.71380;fit arb:  0.02080;lr: 0.00025; no_improve: 674
+Save!Epoch 4956 Loss: -0.35128;Gen: -3.71877;fit arb:  0.02060;lr: 0.00025; no_improve: 95
+Epoch 5000 Loss: -0.34115;Gen: -3.73296;fit arb:  0.03215;lr: 0.00025;no_improve: 44
+Save!Epoch 5099 Loss: -0.34708;Gen: -3.67365;fit arb:  0.02029;lr: 0.00025; no_improve: 142
+Save!Epoch 5372 Loss: -0.35088;Gen: -3.70802;fit arb:  0.01992;lr: 0.00025; no_improve: 272
+Save!Epoch 5516 Loss: -0.35052;Gen: -3.70140;fit arb:  0.01962;lr: 0.00025; no_improve: 143
+Save!Epoch 5837 Loss: -0.35442;Gen: -3.73612;fit arb:  0.01920;lr: 0.00025; no_improve: 320
+Epoch 6000 Loss: -0.35039;Gen: -3.74826;fit arb:  0.02443;lr: 0.00025;no_improve: 163
+Save!Epoch 6045 Loss: -0.35666;Gen: -3.74786;fit arb:  0.01813;lr: 0.00025; no_improve: 207
+Save!Epoch 6761 Loss: -0.34991;Gen: -3.67523;fit arb:  0.01761;lr: 0.00025; no_improve: 715
+Epoch 7000 Loss: -0.34962;Gen: -3.71561;fit arb:  0.02194;lr: 0.00025;no_improve: 239
+Epoch 8000 Loss: -0.35235;Gen: -3.74676;fit arb:  0.02233;lr: 0.00025;no_improve: 1239
+Epoch 9000 Loss: -0.35210;Gen: -3.73368;fit arb:  0.02127;lr: 0.00025;no_improve: 2239
+Epoch 10000 Loss: -0.35458;Gen: -3.75742;fit arb:  0.02116;lr: 0.00025;no_improve: 3239
+Restart!Epoch 10761 Loss: -0.34967;Gen: -3.71266;fit arb:  0.02160;lr: 0.00100;no_improve: 0
+Epoch 11000 Loss: -0.30113;Gen: -3.74445;fit arb:  0.07332;lr: 0.00100;no_improve: 239
+Epoch 12000 Loss: -0.34601;Gen: -3.72039;fit arb:  0.02603;lr: 0.00025;no_improve: 1239
+Epoch 13000 Loss: -0.35051;Gen: -3.78187;fit arb:  0.02768;lr: 0.00025;no_improve: 2239
+Epoch 14000 Loss: -0.34306;Gen: -3.70103;fit arb:  0.02704;lr: 0.00025;no_improve: 3239
+Restart!Epoch 14761 Loss: -0.35064;Gen: -3.72638;fit arb:  0.02200;lr: 0.00100;no_improve: 0
+Epoch 15000 Loss: -0.30964;Gen: -3.64043;fit arb:  0.05440;lr: 0.00100;no_improve: 239
+Epoch 16000 Loss: -0.33938;Gen: -3.66500;fit arb:  0.02712;lr: 0.00025;no_improve: 1239
+Epoch 17000 Loss: -0.34593;Gen: -3.73480;fit arb:  0.02756;lr: 0.00025;no_improve: 2239
+Save!Epoch 17074 Loss: -0.35629;Gen: -3.73604;fit arb:  0.01732;lr: 0.00025; no_improve: 2312
+Save!Epoch 17737 Loss: -0.35646;Gen: -3.73474;fit arb:  0.01702;lr: 0.00025; no_improve: 662
+Epoch 18000 Loss: -0.34693;Gen: -3.73941;fit arb:  0.02702;lr: 0.00025;no_improve: 263
+Save!Epoch 18258 Loss: -0.35476;Gen: -3.71449;fit arb:  0.01669;lr: 0.00025; no_improve: 520
+Epoch 19000 Loss: -0.34625;Gen: -3.70461;fit arb:  0.02421;lr: 0.00025;no_improve: 742
+Epoch 20000 Loss: -0.34890;Gen: -3.74652;fit arb:  0.02575;lr: 0.00025;no_improve: 1742
+
+训练完成! 分钟: 2025-08-04 11:00:00, 划分方式: forecast
+
+==========================================
+训练结束时间: 2025-10-18 20:01:51
+==========================================

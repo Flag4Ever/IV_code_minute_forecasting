@@ -1,0 +1,32 @@
+# 隐含波动率建模项目依赖包
+# Python 3.11+
+
+# 核心科学计算
+numpy>=1.21.6,<1.28.0  # 必须<1.28以兼容scipy 1.11.4
+pandas==2.3.2
+scipy==1.11.4
+statsmodels==0.14.4
+
+# 深度学习框架
+torch==2.2.2
+torchvision==0.17.2
+
+# 期权定价和隐含波动率计算
+py-vollib==1.0.1
+py-vollib-vectorized==0.1.1
+
+# 数据可视化
+matplotlib==3.9.2
+
+# 文件处理
+openpyxl==3.1.2  # Excel文件读写
+xlrd==2.0.1      # 旧版Excel文件支持
+
+# 工具库
+tqdm==4.66.2     # 进度条显示
+pillow==10.4.0   # 图像处理(可选)
+
+# 注意事项:
+# 1. NumPy版本必须<1.28.0以兼容当前SciPy版本
+# 2. 本项目已针对Apple Silicon Mac的MPS加速进行优化
+# 3. 如需在NVIDIA GPU上运行,请根据CUDA版本安装对应的PyTorch
